@@ -1,0 +1,3022 @@
+[
+  {
+    "id": "pt-1",
+    "language": "pt",
+    "level": "A1 · Iniciante",
+    "emoji": "🇧🇷",
+    "title": "Sons Nasais & Fonética Brasileira",
+    "description": "Domine o til (~) em pão, coração e a cedilha (ç).",
+    "xp": 20,
+    "questions": [
+      {
+        "prompt": "Qual palavra possui o clássico ditongo nasal brasileiro?",
+        "speech": "Pão de queijo",
+        "emoji": "🧀",
+        "instruction": "Selecione a palavra com som nasal",
+        "options": [
+          "Pena",
+          "Pau",
+          "Pato",
+          "Pão"
+        ],
+        "answer": 3,
+        "explanation": "\"Pão\" possui o som nasal característico da língua portuguesa com o til (~)."
+      },
+      {
+        "prompt": "Qual som tem a cedilha (ç) em palavras como \"Coração\"?",
+        "speech": "Coração",
+        "emoji": "❤️",
+        "instruction": "Identifique o fonema",
+        "options": [
+          "Som de \"Z\"",
+          "Som de \"K\"",
+          "Som de \"SS\"",
+          "Som de \"CH\""
+        ],
+        "answer": 2,
+        "explanation": "A cedilha tem som suave de \"SS\"."
+      },
+      {
+        "prompt": "Qual palavra tem o plural terminado em \"-ões\"?",
+        "speech": "Corações",
+        "emoji": "👥",
+        "instruction": "Identifique o plural",
+        "options": [
+          "Pãos",
+          "Corações",
+          "Mãos",
+          "Alemãos"
+        ],
+        "answer": 1,
+        "explanation": "Coração forma plural em corações."
+      },
+      {
+        "prompt": "Como soa a letra \"R\" no início de palavras como \"Rio\"?",
+        "speech": "Rio",
+        "emoji": "🌊",
+        "instruction": "Identifique a pronúncia",
+        "options": [
+          "Som mudo",
+          "Som de L",
+          "Som forte aspirado ou gutural",
+          "Vibrante suave como \"caro\""
+        ],
+        "answer": 2,
+        "explanation": "O R inicial em português tem som forte."
+      },
+      {
+        "prompt": "Qual das seguintes palavras possui som nasal terminado em \"-ão\"?",
+        "speech": "Irmão",
+        "emoji": "👦",
+        "instruction": "Selecione a palavra",
+        "options": [
+          "Irmão",
+          "Irmad",
+          "Irmal",
+          "Irmate"
+        ],
+        "answer": 0,
+        "explanation": "\"Irmão\" termina em ditongo nasal -ão."
+      },
+      {
+        "prompt": "Como soa a letra \"S\" entre duas vogais em \"Casa\"?",
+        "speech": "Casa",
+        "emoji": "🏡",
+        "instruction": "Identifique o som",
+        "options": [
+          "Som de \"J\"",
+          "Som de \"SS\"",
+          "Som de \"Z\"",
+          "Mudo"
+        ],
+        "answer": 2,
+        "explanation": "S intervocálico tem som de Z."
+      },
+      {
+        "prompt": "Qual é o som de \"LH\" em \"Filho\"?",
+        "speech": "Filho",
+        "emoji": "👶",
+        "instruction": "Identifique a pronúncia",
+        "options": [
+          "Som de R",
+          "Som de L duplo",
+          "Palatal lateral (som aproximado do lli italiano)",
+          "Som de J"
+        ],
+        "answer": 2,
+        "explanation": "\"LH\" é uma consoante palatal."
+      },
+      {
+        "prompt": "Qual é o som de \"NH\" em \"Manhã\"?",
+        "speech": "Manhã",
+        "emoji": "🌅",
+        "instruction": "Identifique o som nasal",
+        "options": [
+          "Som de N duplo",
+          "Nasal palatal (equivalente ao ñ do espanhol)",
+          "Som de M",
+          "Mudo"
+        ],
+        "answer": 1,
+        "explanation": "\"NH\" em português equivale ao ñ em espanhol."
+      },
+      {
+        "prompt": "Qual palavra tem som de \"X\" com som de \"CH\"?",
+        "speech": "Xícara",
+        "emoji": "☕",
+        "instruction": "Identifique a pronúncia",
+        "options": [
+          "Exame",
+          "Xícara",
+          "Táxi",
+          "Próximo"
+        ],
+        "answer": 1,
+        "explanation": "Em \"Xícara\" o X soa como CH."
+      },
+      {
+        "prompt": "Como se pronuncia a letra \"L\" no final de sílaba no Brasil (ex: \"Brasil\")?",
+        "speech": "Brasil",
+        "emoji": "🇧🇷",
+        "instruction": "Identifique o fonema brasileiro",
+        "options": [
+          "Vocalizado como som de \"U\"",
+          "Som velar de L duro",
+          "Mudo",
+          "Som de R"
+        ],
+        "answer": 0,
+        "explanation": "No Brasil, o L em final de sílaba é pronunciado como semivogal \"U\"."
+      }
+    ]
+  },
+  {
+    "id": "pt-2",
+    "language": "pt",
+    "level": "A1 · Iniciante",
+    "emoji": "👋",
+    "title": "Saudações & Tudo Bem?",
+    "description": "Oi, bom dia, tudo joia e muito prazer.",
+    "xp": 20,
+    "questions": [
+      {
+        "prompt": "Qual a resposta mais simpática e usual para \"Oi, tudo bem?\"",
+        "speech": "Tudo bem, e com você?",
+        "emoji": "😊",
+        "instruction": "Escolha a resposta usual",
+        "options": [
+          "Tudo bem, e com você?",
+          "Não tenho nada a dizer",
+          "Adeus agora",
+          "Talvez amanhã"
+        ],
+        "answer": 0,
+        "explanation": "\"Tudo bem, e com você?\" é a saudação cordial de todos os dias."
+      },
+      {
+        "prompt": "Como desejar bom dia formalmente pela manhã?",
+        "speech": "Bom dia",
+        "emoji": "🌅",
+        "instruction": "Selecione a saudação",
+        "options": [
+          "Boa noite",
+          "Boa tarde",
+          "Bom dia",
+          "Até logo"
+        ],
+        "answer": 2,
+        "explanation": "Bom dia é usado até as 12h."
+      },
+      {
+        "prompt": "Como se diz \"Muito prazer\" ao conhecer alguém?",
+        "speech": "Muito prazer em conhecê-lo(a)",
+        "emoji": "🤝",
+        "instruction": "Identifique a cortesia",
+        "options": [
+          "Muito prazer",
+          "Por favor",
+          "Com licença",
+          "De nada"
+        ],
+        "answer": 0,
+        "explanation": "\"Muito prazer\" expressa cortesia ao ser apresentado."
+      },
+      {
+        "prompt": "Qual saudação é usada a partir do meio-dia?",
+        "speech": "Boa tarde",
+        "emoji": "🌇",
+        "instruction": "Identifique o período",
+        "options": [
+          "Alô",
+          "Bom dia",
+          "Boa noite",
+          "Boa tarde"
+        ],
+        "answer": 3,
+        "explanation": "Boa tarde é usado após as 12h."
+      },
+      {
+        "prompt": "Como se despede com a ideia de rever a pessoa em breve?",
+        "speech": "Até logo! / Até mais!",
+        "emoji": "👋",
+        "instruction": "Escolha a despedida",
+        "options": [
+          "Nunca mais",
+          "Adeus para sempre",
+          "Até logo!",
+          "Sem retorno"
+        ],
+        "answer": 2,
+        "explanation": "\"Até logo\" ou \"Até mais\" é a despedida comum."
+      },
+      {
+        "prompt": "Como pedir licença para passar educadamente?",
+        "speech": "Com licença",
+        "emoji": "🚪",
+        "instruction": "Escolha a expressão",
+        "options": [
+          "Obrigado",
+          "Sai da frente",
+          "Com licença",
+          "Por favor não"
+        ],
+        "answer": 2,
+        "explanation": "\"Com licença\" pede passagem com respeito."
+      },
+      {
+        "prompt": "Qual a forma feminina correta de agradecer em português?",
+        "speech": "Muito obrigada",
+        "emoji": "👩",
+        "instruction": "Concordância de gênero",
+        "options": [
+          "Obrigado feminina",
+          "Muito obrigado",
+          "Muito grato ela",
+          "Muito obrigada"
+        ],
+        "answer": 3,
+        "explanation": "Mulheres dizem \"obrigada\" e homens dizem \"obrigado\"."
+      },
+      {
+        "prompt": "Como se responde ao agradecimento \"Muito obrigado\"?",
+        "speech": "De nada / Por nada",
+        "emoji": "🙏",
+        "instruction": "Escolha a resposta",
+        "options": [
+          "Por favor",
+          "De nada (ou Por nada / Não há de quê)",
+          "Desculpe",
+          "Até logo"
+        ],
+        "answer": 1,
+        "explanation": "\"De nada\" é a resposta cordial."
+      },
+      {
+        "prompt": "Como pedir desculpas por um esbarrão acidental?",
+        "speech": "Desculpe! / Perdão!",
+        "emoji": "🙇",
+        "instruction": "Identifique o pedido de desculpas",
+        "options": [
+          "Alô!",
+          "Obrigado!",
+          "Desculpe!",
+          "Tudo bem!"
+        ],
+        "answer": 2,
+        "explanation": "Desculpe pede perdão por pequenos incidentes."
+      },
+      {
+        "prompt": "Como se diz \"Tchau\" de forma informal no Brasil?",
+        "speech": "Tchau!",
+        "emoji": "👋",
+        "instruction": "Identifique a saudação informal",
+        "options": [
+          "Adeus formal",
+          "Tchau!",
+          "Com licença",
+          "Até a eternidade"
+        ],
+        "answer": 1,
+        "explanation": "Tchau (do italiano ciao) é universal no Brasil."
+      }
+    ]
+  },
+  {
+    "id": "pt-3",
+    "language": "pt",
+    "level": "A1 · Iniciante",
+    "emoji": "🔢",
+    "title": "Números, Dias & Calendário",
+    "description": "Aprenda os dias da semana terminados em \"-feira\".",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como se chama o primeiro dia útil da semana no Brasil?",
+        "speech": "Segunda-feira",
+        "emoji": "📅",
+        "instruction": "Escolha o dia útil",
+        "options": [
+          "Domingo",
+          "Terça-feira",
+          "Segunda-feira",
+          "Sábado"
+        ],
+        "answer": 2,
+        "explanation": "Segunda-feira é o início da semana de trabalho."
+      },
+      {
+        "prompt": "Qual dia antecede o sábado?",
+        "speech": "Sexta-feira",
+        "emoji": "🗓️",
+        "instruction": "Identifique o dia",
+        "options": [
+          "Quarta-feira",
+          "Quinta-feira",
+          "Sexta-feira",
+          "Domingo"
+        ],
+        "answer": 2,
+        "explanation": "Sexta-feira vem antes do sábado."
+      },
+      {
+        "prompt": "Quantos dias formam o fim de semana?",
+        "speech": "Dois dias (sábado e domingo)",
+        "emoji": "🏖️",
+        "instruction": "Identifique os dias de descanso",
+        "options": [
+          "Sexta e sábado",
+          "Apenas o domingo",
+          "Sábado e domingo",
+          "Quinta a domingo"
+        ],
+        "answer": 2,
+        "explanation": "O fim de semana oficial é composto por sábado e domingo."
+      },
+      {
+        "prompt": "Qual é o número \"50\" por extenso?",
+        "speech": "Cinquenta",
+        "emoji": "5️⃣0️⃣",
+        "instruction": "Escolha o número",
+        "options": [
+          "Quarenta",
+          "Cinquenta",
+          "Sessenta",
+          "Quinze"
+        ],
+        "answer": 1,
+        "explanation": "50 é cinquenta."
+      },
+      {
+        "prompt": "Qual é o número \"100\" em português?",
+        "speech": "Cem",
+        "emoji": "1️⃣0️⃣0️⃣",
+        "instruction": "Identifique o numeral",
+        "options": [
+          "Dez",
+          "Cento",
+          "Mil",
+          "Cem"
+        ],
+        "answer": 3,
+        "explanation": "100 é cem (cento e um, cento e dois...)."
+      },
+      {
+        "prompt": "Como perguntar as horas em português?",
+        "speech": "Que horas são?",
+        "emoji": "⏰",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Qual minuto vai?",
+          "Quantos tempos tem?",
+          "Onde está o relógio?",
+          "Que horas são?"
+        ],
+        "answer": 3,
+        "explanation": "\"Que horas são?\" é a pergunta clássica."
+      },
+      {
+        "prompt": "Como se diz \"São três horas da tarde\"?",
+        "speech": "São três horas da tarde",
+        "emoji": "🕒",
+        "instruction": "Identifique a hora",
+        "options": [
+          "Tem três horas tarde",
+          "É três horas",
+          "São três horas da tarde",
+          "Está três horas"
+        ],
+        "answer": 2,
+        "explanation": "A partir das 2h o verbo vai para o plural: \"São três horas\"."
+      },
+      {
+        "prompt": "Como se diz \"É uma hora da tarde\"?",
+        "speech": "É uma hora da tarde",
+        "emoji": "🕐",
+        "instruction": "Identifique a hora singular",
+        "options": [
+          "Está uma hora",
+          "São uma hora",
+          "Tem uma hora",
+          "É uma hora da tarde"
+        ],
+        "answer": 3,
+        "explanation": "À 1h usa-se o singular: \"É uma hora\"."
+      },
+      {
+        "prompt": "Qual é o mês das festas de São João e inverno no Brasil?",
+        "speech": "Junho",
+        "emoji": "🌽",
+        "instruction": "Identifique o mês",
+        "options": [
+          "Abril",
+          "Dezembro",
+          "Janeiro",
+          "Junho"
+        ],
+        "answer": 3,
+        "explanation": "Junho é o mês das tradicionais festas juninas."
+      },
+      {
+        "prompt": "Qual é o último mês do ano?",
+        "speech": "Dezembro",
+        "emoji": "🎄",
+        "instruction": "Identifique o mês",
+        "options": [
+          "Dezembro",
+          "Novembro",
+          "Janeiro",
+          "Outubro"
+        ],
+        "answer": 0,
+        "explanation": "Dezembro é o décimo segundo mês do ano."
+      }
+    ]
+  },
+  {
+    "id": "pt-4",
+    "language": "pt",
+    "level": "A1 · Iniciante",
+    "emoji": "☕",
+    "title": "Na Padaria & Comidas Típicas",
+    "description": "Peça pão na chapa, pingado e suco de laranja.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "O que é um \"pingado\" em uma padaria brasileira?",
+        "speech": "Pingado",
+        "emoji": "☕",
+        "instruction": "Identifique o pedido tradicional",
+        "options": [
+          "Chá gelado",
+          "Suco de maracujá",
+          "Água com gás",
+          "Café com um pingo de leite"
+        ],
+        "answer": 3,
+        "explanation": "\"Pingado\" é o clássico café com um pouco de leite servido no copo americano."
+      },
+      {
+        "prompt": "O que é \"Pão na chapa\"?",
+        "speech": "Pão na chapa",
+        "emoji": "🍞",
+        "instruction": "Identifique o lanche",
+        "options": [
+          "Pão francês com manteiga tostado na chapa quente",
+          "Pão doce recheado",
+          "Pão com presunto cru",
+          "Torrada fria"
+        ],
+        "answer": 0,
+        "explanation": "Pão na chapa com manteiga é o café da manhã paulistano mais famoso."
+      },
+      {
+        "prompt": "Qual iguaria mineira feita com polvilho e queijo é patrimônio nacional?",
+        "speech": "Pão de queijo",
+        "emoji": "🧀",
+        "instruction": "Identifique o salgado",
+        "options": [
+          "Coxinha",
+          "Pão de queijo",
+          "Pastel de feira",
+          "Bolo de cenoura"
+        ],
+        "answer": 1,
+        "explanation": "O pão de queijo é adorado em todo o Brasil."
+      },
+      {
+        "prompt": "Qual salgado brasileiro em formato de gota é recheado com frango desfiado?",
+        "speech": "Coxinha",
+        "emoji": "🍗",
+        "instruction": "Identifique o salgado",
+        "options": [
+          "Empada",
+          "Kibe",
+          "Coxinha",
+          "Esfiha"
+        ],
+        "answer": 2,
+        "explanation": "A coxinha de frango é o salgado mais popular."
+      },
+      {
+        "prompt": "Como pedir a conta ao garçom no Brasil?",
+        "speech": "A conta, por favor!",
+        "emoji": "🧾",
+        "instruction": "Selecione a frase",
+        "options": [
+          "Me cobre dinheiro!",
+          "O preço agora!",
+          "A conta, por favor!",
+          "Nota rápida!"
+        ],
+        "answer": 2,
+        "explanation": "\"A conta, por favor\" é o pedido educado."
+      },
+      {
+        "prompt": "Qual é o prato nacional brasileiro com feijão preto e carnes?",
+        "speech": "Feijoada",
+        "emoji": "🍲",
+        "instruction": "Identifique o prato",
+        "options": [
+          "Acarajé",
+          "Moqueca",
+          "Vatapá",
+          "Feijoada"
+        ],
+        "answer": 3,
+        "explanation": "A feijoada completa é o prato emblemático do Brasil."
+      },
+      {
+        "prompt": "O que é \"Açaí\"?",
+        "speech": "Açaí",
+        "emoji": "🍇",
+        "instruction": "Identifique o fruto da Amazônia",
+        "options": [
+          "Fruto amazônico servido gelado na tigela com granola e frutas",
+          "Um tipo de refrigerante",
+          "Um peixe de rio",
+          "Uma sobremesa quente de forno"
+        ],
+        "answer": 0,
+        "explanation": "O açaí é muito consumido refrescante com granola."
+      },
+      {
+        "prompt": "Como pedir água sem gás no restaurante?",
+        "speech": "Uma água sem gás, por favor",
+        "emoji": "💧",
+        "instruction": "Escolha o pedido",
+        "options": [
+          "Água parada",
+          "Água vazia",
+          "Uma água sem gás, por favor",
+          "Água sem ar"
+        ],
+        "answer": 2,
+        "explanation": "Usa-se \"água sem gás\"."
+      },
+      {
+        "prompt": "O que é um \"Pastel de feira\"?",
+        "speech": "Pastel de feira",
+        "emoji": "🥟",
+        "instruction": "Identifique a comida de rua",
+        "options": [
+          "Um bolo doce",
+          "Massa frita crocante recheada com carne, queijo ou palmito",
+          "Um pão italiano",
+          "Uma torta de liquidificador"
+        ],
+        "answer": 1,
+        "explanation": "O pastel frito na hora acompanhado de caldo de cana é tradição de feira."
+      },
+      {
+        "prompt": "Qual sobremesa tradicional leva leite condensado, chocolate e granulado?",
+        "speech": "Brigadeiro",
+        "emoji": "🍫",
+        "instruction": "Identifique o doce",
+        "options": [
+          "Pudim de leite",
+          "Quindim",
+          "Brigadeiro",
+          "Cocada"
+        ],
+        "answer": 2,
+        "explanation": "O brigadeiro é o doce de aniversário mais clássico do Brasil."
+      }
+    ]
+  },
+  {
+    "id": "pt-5",
+    "language": "pt",
+    "level": "A1 · Iniciante",
+    "emoji": "⚖️",
+    "title": "Verbos Ser e Estar",
+    "description": "Eu sou brasileiro vs Eu estou cansado.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Complete: \"O Rio de Janeiro ___ uma cidade linda.\"",
+        "speech": "O Rio de Janeiro é uma cidade linda",
+        "emoji": "🏖️",
+        "instruction": "Escolha ser ou estar",
+        "options": [
+          "está",
+          "é",
+          "são",
+          "estão"
+        ],
+        "answer": 1,
+        "explanation": "Usa-se \"é\" (verbo ser) para qualidades permanentes."
+      },
+      {
+        "prompt": "Complete com o estado temporário: \"Eu ___ muito cansado hoje.\"",
+        "speech": "Eu estou muito cansado hoje",
+        "emoji": "🥱",
+        "instruction": "Escolha ser ou estar",
+        "options": [
+          "sou",
+          "estou",
+          "é",
+          "está"
+        ],
+        "answer": 1,
+        "explanation": "Para estados físicos ou emocionais transitórios usa-se \"estar\"."
+      },
+      {
+        "prompt": "Complete com a nacionalidade: \"Nós ___ brasileiros.\"",
+        "speech": "Nós somos brasileiros",
+        "emoji": "🇧🇷",
+        "instruction": "Identifique a conjugação",
+        "options": [
+          "estamos",
+          "somos",
+          "são",
+          "é"
+        ],
+        "answer": 1,
+        "explanation": "Nacionalidade permanente usa \"somos\" (verbo ser)."
+      },
+      {
+        "prompt": "Complete com a localização física: \"Meus amigos ___ na praia.\"",
+        "speech": "Estão na praia",
+        "emoji": "🏖️",
+        "instruction": "Localização física",
+        "options": [
+          "está",
+          "são",
+          "é",
+          "estão"
+        ],
+        "answer": 3,
+        "explanation": "Localização no espaço usa o verbo \"estar\": estão."
+      },
+      {
+        "prompt": "Complete a profissão: \"Ela ___ médica no hospital.\"",
+        "speech": "Ela é médica",
+        "emoji": "👩‍⚕️",
+        "instruction": "Identifique o verbo de profissão",
+        "options": [
+          "está",
+          "é",
+          "são",
+          "tem"
+        ],
+        "answer": 1,
+        "explanation": "Profissões habituais usam \"é\" (verbo ser)."
+      },
+      {
+        "prompt": "Complete o estado da porta: \"A porta ___ aberta.\"",
+        "speech": "A porta está aberta",
+        "emoji": "🚪",
+        "instruction": "Estado resultante",
+        "options": [
+          "são",
+          "é",
+          "está",
+          "fica"
+        ],
+        "answer": 2,
+        "explanation": "Estado transitório usa \"está\"."
+      },
+      {
+        "prompt": "Qual a forma do verbo ser para \"Eu\" no presente?",
+        "speech": "Eu sou",
+        "emoji": "👤",
+        "instruction": "Conjugue o verbo ser",
+        "options": [
+          "sou",
+          "estou",
+          "é",
+          "somos"
+        ],
+        "answer": 0,
+        "explanation": "Eu sou professor."
+      },
+      {
+        "prompt": "Qual a forma do verbo estar para \"Eles\" no presente?",
+        "speech": "Eles estão",
+        "emoji": "👥",
+        "instruction": "Conjugue estar",
+        "options": [
+          "estão",
+          "são",
+          "está",
+          "estamos"
+        ],
+        "answer": 0,
+        "explanation": "Eles estão felizes."
+      },
+      {
+        "prompt": "Qual a diferença entre \"Ele é alegre\" e \"Ele está alegre\"?",
+        "speech": "É alegre vs Está alegre",
+        "emoji": "😊",
+        "instruction": "Interprete a nuance",
+        "options": [
+          "Não há diferença",
+          "\"É alegre\" é traço de personalidade; \"Está alegre\" é momento transitório",
+          "\"Está alegre\" é para sempre",
+          "\"É alegre\" é tristeza"
+        ],
+        "answer": 1,
+        "explanation": "Ser define personalidade duradoura; estar expressa o momento passageiro."
+      },
+      {
+        "prompt": "Complete: \"O almoço ___ delicioso hoje!\"",
+        "speech": "O almoço está delicioso hoje",
+        "emoji": "🍲",
+        "instruction": "Avaliação da comida",
+        "options": [
+          "está",
+          "é",
+          "são",
+          "foi permanente"
+        ],
+        "answer": 0,
+        "explanation": "Avaliação da refeição do dia usa \"está delicioso\"."
+      }
+    ]
+  },
+  {
+    "id": "pt-6",
+    "language": "pt",
+    "level": "A2 · Básico",
+    "emoji": "👨‍👩‍👧",
+    "title": "Família & Pessoas Queridas",
+    "description": "Pai, mãe, irmãos, filhos, tios e primos.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como se chama o filho do seu tio?",
+        "speech": "Primo",
+        "emoji": "👦",
+        "instruction": "Identifique o parentesco",
+        "options": [
+          "Primo",
+          "Sobrinho",
+          "Irmão",
+          "Padrinho"
+        ],
+        "answer": 0,
+        "explanation": "O filho dos tios é seu primo."
+      },
+      {
+        "prompt": "Como se chama a mãe do seu pai?",
+        "speech": "Avó",
+        "emoji": "👵",
+        "instruction": "Identifique o parentesco",
+        "options": [
+          "Madrinha",
+          "Tia",
+          "Sogra",
+          "Avó"
+        ],
+        "answer": 3,
+        "explanation": "A mãe dos pais é sua avó."
+      },
+      {
+        "prompt": "O que são \"Meus pais\"?",
+        "speech": "Meus pais",
+        "emoji": "👨‍👩‍👧",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Meus parentes distantes",
+          "Meu pai e minha mãe juntos",
+          "Meus tios",
+          "Meus irmãos"
+        ],
+        "answer": 1,
+        "explanation": "\"Meus pais\" refere-se ao pai e mãe."
+      },
+      {
+        "prompt": "Como se chama a filha da sua irmã?",
+        "speech": "Sobrinha",
+        "emoji": "👧",
+        "instruction": "Identifique o parentesco",
+        "options": [
+          "Prima",
+          "Sobrinha",
+          "Enteada",
+          "Afilhada"
+        ],
+        "answer": 1,
+        "explanation": "A filha do irmão ou irmã é sua sobrinha."
+      },
+      {
+        "prompt": "O que significa \"Parente\" em português?",
+        "speech": "Parentes",
+        "emoji": "👥",
+        "instruction": "Evite falso amigo com parents",
+        "options": [
+          "Amigos de infância",
+          "Apenas pai e mãe",
+          "Membros da família em geral (tios, primos, avós)",
+          "Vizinhos de rua"
+        ],
+        "answer": 2,
+        "explanation": "No Brasil \"parentes\" abrange toda a família extensa."
+      },
+      {
+        "prompt": "Como se chama o marido da sua filha?",
+        "speech": "Genro",
+        "emoji": "👨",
+        "instruction": "Identifique o parentesco por afinidade",
+        "options": [
+          "Genro",
+          "Nora",
+          "Cunhado",
+          "Sogro"
+        ],
+        "answer": 0,
+        "explanation": "O marido da filha é o genro."
+      },
+      {
+        "prompt": "Como se chama a esposa do seu filho?",
+        "speech": "Nora",
+        "emoji": "👩",
+        "instruction": "Identifique o parentesco por afinidade",
+        "options": [
+          "Genro",
+          "Nora",
+          "Cunhada",
+          "Sogra"
+        ],
+        "answer": 1,
+        "explanation": "A esposa do filho é a nora."
+      },
+      {
+        "prompt": "Como se chama o irmão do seu cônjuge?",
+        "speech": "Cunhado",
+        "emoji": "🧔",
+        "instruction": "Identifique o parentesco",
+        "options": [
+          "Cunhado",
+          "Primo",
+          "Genro",
+          "Padrasto"
+        ],
+        "answer": 0,
+        "explanation": "O irmão da esposa ou do marido é o cunhado."
+      },
+      {
+        "prompt": "Como se chama o pai da sua esposa?",
+        "speech": "Sogro",
+        "emoji": "👴",
+        "instruction": "Identifique o parentesco",
+        "options": [
+          "Tio",
+          "Sogro",
+          "Padrinho",
+          "Cunhado"
+        ],
+        "answer": 1,
+        "explanation": "O pai do cônjuge é o sogro."
+      },
+      {
+        "prompt": "Como se diz \"Ele é meu irmão mais velho\"?",
+        "speech": "Irmão mais velho",
+        "emoji": "👦",
+        "instruction": "Identifique a idade relativa",
+        "options": [
+          "Meu irmão mais velho",
+          "Meu irmão maior",
+          "Meu irmão grande",
+          "Meu irmão sênior"
+        ],
+        "answer": 0,
+        "explanation": "Usa-se \"mais velho\" para idade."
+      }
+    ]
+  },
+  {
+    "id": "pt-7",
+    "language": "pt",
+    "level": "A2 · Básico",
+    "emoji": "⏰",
+    "title": "Rotina Cotidiana & Horários",
+    "description": "Acordar, tomar banho, trabalhar e pegar trânsito.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Complete: \"Eu sempre ___ café antes de trabalhar.\"",
+        "speech": "Eu sempre tomo café antes de trabalhar",
+        "emoji": "☕",
+        "instruction": "Conjugue o verbo tomar",
+        "options": [
+          "tomo",
+          "toma",
+          "tomamos",
+          "tomando"
+        ],
+        "answer": 0,
+        "explanation": "1ª pessoa do singular: Eu tomo."
+      },
+      {
+        "prompt": "Complete a rotina: \"Ela ___ cedo todos os dias.\"",
+        "speech": "Ela acorda cedo",
+        "emoji": "🌅",
+        "instruction": "Conjugue acordar",
+        "options": [
+          "acordo",
+          "acorda",
+          "acordam",
+          "acordamos"
+        ],
+        "answer": 1,
+        "explanation": "Ela acorda com a terminação -a."
+      },
+      {
+        "prompt": "Como dizer \"Eu pego trânsito pesado para ir ao trabalho\"?",
+        "speech": "Pego trânsito",
+        "emoji": "🚗",
+        "instruction": "Expressão do dia a dia",
+        "options": [
+          "Tomo engarrafamento",
+          "Pego trânsito pesado",
+          "Fico parado na rua",
+          "Corro de carro"
+        ],
+        "answer": 1,
+        "explanation": "\"Pegar trânsito\" é a expressão mais usada nas cidades brasileiras."
+      },
+      {
+        "prompt": "A que horas costuma ser o almoço no Brasil?",
+        "speech": "Ao meio-dia ou 13h",
+        "emoji": "🍽️",
+        "instruction": "Identifique o horário comum",
+        "options": [
+          "Às 9h da manhã",
+          "Às 16h",
+          "Entre 12h e 13h",
+          "Às 21h"
+        ],
+        "answer": 2,
+        "explanation": "O almoço brasileiro é a refeição principal entre 12h e 13h30."
+      },
+      {
+        "prompt": "O que significa o advérbio \"Sempre\"?",
+        "speech": "Sempre",
+        "emoji": "🔄",
+        "instruction": "Identifique a frequência",
+        "options": [
+          "Nunca",
+          "Em todas as ocasiões / continuamente",
+          "Raramente",
+          "Às vezes"
+        ],
+        "answer": 1,
+        "explanation": "Sempre expressa constância total."
+      },
+      {
+        "prompt": "O que significa \"De vez em quando\"?",
+        "speech": "De vez em quando",
+        "emoji": "⏳",
+        "instruction": "Identifique a frequência",
+        "options": [
+          "Nunca mais",
+          "Todos os dias sem falta",
+          "Ocasionalmente / às vezes",
+          "Sempre"
+        ],
+        "answer": 2,
+        "explanation": "\"De vez em quando\" significa ocasionalmente."
+      },
+      {
+        "prompt": "Complete com o verbo reflexivo: \"Eu ___ às 23 horas.\"",
+        "speech": "Eu me deito às 23 horas",
+        "emoji": "🛏️",
+        "instruction": "Conjugue deitar-se",
+        "options": [
+          "deito-me formal",
+          "me deito",
+          "te deitas",
+          "se deita"
+        ],
+        "answer": 1,
+        "explanation": "Usa-se \"eu me deito\" para ir dormir."
+      },
+      {
+        "prompt": "Complete com plural: \"Nós ___ na academia à noite.\"",
+        "speech": "Nós treinamos na academia",
+        "emoji": "🏋️",
+        "instruction": "Conjugue treinar",
+        "options": [
+          "treinamos",
+          "treina",
+          "treinam",
+          "treinando"
+        ],
+        "answer": 0,
+        "explanation": "1ª pessoa do plural: Nós treinamos."
+      },
+      {
+        "prompt": "O que significa \"Bater o ponto\" no trabalho?",
+        "speech": "Bater o ponto",
+        "emoji": "⏱️",
+        "instruction": "Identifique a expressão profissional",
+        "options": [
+          "Quebrar o relógio da parede",
+          "Registrar o horário de entrada ou saída no trabalho",
+          "Terminar o café",
+          "Fazer hora extra"
+        ],
+        "answer": 1,
+        "explanation": "\"Bater o ponto\" é registrar o ponto eletrônico."
+      },
+      {
+        "prompt": "Como dizer \"Preciso descansar no fim de semana\"?",
+        "speech": "Preciso descansar",
+        "emoji": "🛋️",
+        "instruction": "Selecione a frase",
+        "options": [
+          "Preciso cansar",
+          "Quero quebrar o sábado",
+          "Vou dormir para sempre",
+          "Preciso descansar no fim de semana"
+        ],
+        "answer": 3,
+        "explanation": "Descansar é repor as energias."
+      }
+    ]
+  },
+  {
+    "id": "pt-8",
+    "language": "pt",
+    "level": "A2 · Básico",
+    "emoji": "🗺️",
+    "title": "Na Cidade & Pedindo Informações",
+    "description": "Estação de metrô, ponto de ônibus e vire à direita.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como perguntar onde pegar o transporte público coletivo?",
+        "speech": "Onde fica o ponto de ônibus?",
+        "emoji": "🚌",
+        "instruction": "Escolha a pergunta",
+        "options": [
+          "Onde corre o trem?",
+          "Qual é o preço do avião?",
+          "Como vai a rua?",
+          "Onde fica o ponto de ônibus?"
+        ],
+        "answer": 3,
+        "explanation": "\"Ponto de ônibus\" é o local de embarque coletivo nas ruas."
+      },
+      {
+        "prompt": "Como indicar que a pessoa deve continuar em linha reta?",
+        "speech": "Siga em frente",
+        "emoji": "⬆️",
+        "instruction": "Identifique a direção",
+        "options": [
+          "Pare na esquina",
+          "Vire à direita",
+          "Dê meia volta",
+          "Siga em frente / Vá reto"
+        ],
+        "answer": 3,
+        "explanation": "\"Siga em frente\" orienta a continuar sem virar."
+      },
+      {
+        "prompt": "O que significa \"Vire à esquerda\"?",
+        "speech": "Vire à esquerda",
+        "emoji": "⬅️",
+        "instruction": "Identifique o sentido",
+        "options": [
+          "Seguir reto",
+          "Virar para a direita",
+          "Fazer a curva para a esquerda",
+          "Entrar na contramão"
+        ],
+        "answer": 2,
+        "explanation": "Vire à esquerda indica o lado esquerdo."
+      },
+      {
+        "prompt": "O que é \"A calçada\"?",
+        "speech": "A calçada",
+        "emoji": "🚶",
+        "instruction": "Identifique o passeio público",
+        "options": [
+          "Espaço reservado aos pedestres ao lado da rua",
+          "A pista de alta velocidade",
+          "O canteiro de flores",
+          "A garagem subterrânea"
+        ],
+        "answer": 0,
+        "explanation": "A calçada é o passeio de pedestres."
+      },
+      {
+        "prompt": "Como perguntar a distância de um ponto turístico?",
+        "speech": "É muito longe daqui?",
+        "emoji": "📍",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "É muito longe daqui?",
+          "Tem muitos metros agora?",
+          "Onde vai a distância?",
+          "Como é a quilometragem?"
+        ],
+        "answer": 0,
+        "explanation": "\"É longe daqui?\" afere a distância física."
+      },
+      {
+        "prompt": "O que é um \"Quarteirão\" ou \"Uma quadra\"?",
+        "speech": "Uma quadra",
+        "emoji": "🏙️",
+        "instruction": "Identifique a unidade urbana",
+        "options": [
+          "Espaço urbano delimitado por quatro ruas que se cruzam",
+          "Um prédio comercial",
+          "Uma praça redonda",
+          "Um viaduto alto"
+        ],
+        "answer": 0,
+        "explanation": "Uma quadra ou quarteirão delimita o bloco de ruas."
+      },
+      {
+        "prompt": "O que é \"A faixa de pedestres\"?",
+        "speech": "Faixa de pedestres",
+        "emoji": "🚶‍♂️",
+        "instruction": "Identifique a sinalização",
+        "options": [
+          "Pintura listrada no asfalto para travessia segura de pessoas",
+          "Pista exclusiva de motos",
+          "Ciclovia de bicicletas",
+          "Estacionamento de ônibus"
+        ],
+        "answer": 0,
+        "explanation": "A faixa de pedestres garante prioridade de travessia."
+      },
+      {
+        "prompt": "Como se chama o sinal luminoso de trânsito em diferentes estados do Brasil?",
+        "speech": "Semáforo / Sinal / Farol",
+        "emoji": "🚦",
+        "instruction": "Identifique os sinônimos regionais",
+        "options": [
+          "Radar",
+          "Luz de rua",
+          "Luminária urbana",
+          "Semáforo, farol (em SP) ou sinal (no RJ)"
+        ],
+        "answer": 3,
+        "explanation": "Semáforo, sinal ou farol são designações regionais válidas."
+      },
+      {
+        "prompt": "O que é \"O metrô\"?",
+        "speech": "O metrô",
+        "emoji": "🚇",
+        "instruction": "Identifique o transporte",
+        "options": [
+          "Ônibus elétrico de bairro",
+          "Transporte ferroviário urbano subterrâneo de alta capacidade",
+          "Táxi de aplicativo",
+          "Barca marítima"
+        ],
+        "answer": 1,
+        "explanation": "O metrô liga bairros rapidamente."
+      },
+      {
+        "prompt": "Como pedir uma corrida de táxi ou aplicativo?",
+        "speech": "Chamar um carro por aplicativo",
+        "emoji": "🚕",
+        "instruction": "Identifique a expressão moderna",
+        "options": [
+          "Pegar carona na estrada",
+          "Ligar para o trânsito",
+          "Alugar uma van",
+          "Pedir um carro por aplicativo / Chamar um táxi"
+        ],
+        "answer": 3,
+        "explanation": "Chamar um carro por app é o método mais popular."
+      }
+    ]
+  },
+  {
+    "id": "pt-9",
+    "language": "pt",
+    "level": "A2 · Básico",
+    "emoji": "🛒",
+    "title": "Na Feira Livre & Supermercado",
+    "description": "Compre frutas tropicais e saiba quanto custa a dúzia.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Quantas unidades tem \"uma dúzia de laranjas\"?",
+        "speech": "Uma dúzia",
+        "emoji": "🍊",
+        "instruction": "Selecione a quantidade exata",
+        "options": [
+          "10 unidades",
+          "12 unidades",
+          "6 unidades",
+          "20 unidades"
+        ],
+        "answer": 1,
+        "explanation": "Uma dúzia corresponde a exatamente 12 unidades."
+      },
+      {
+        "prompt": "Quantas unidades tem \"meia dúzia de ovos\"?",
+        "speech": "Meia dúzia",
+        "emoji": "🥚",
+        "instruction": "Identifique a quantidade",
+        "options": [
+          "12 unidades",
+          "6 unidades",
+          "8 unidades",
+          "5 unidades"
+        ],
+        "answer": 1,
+        "explanation": "Meia dúzia são 6 unidades."
+      },
+      {
+        "prompt": "Qual fruta tropical brasileira com coroa é famosa pelo sabor agridoce?",
+        "speech": "Abacaxi",
+        "emoji": "🍍",
+        "instruction": "Identifique a fruta",
+        "options": [
+          "Abacaxi",
+          "Melão",
+          "Banana",
+          "Laranja"
+        ],
+        "answer": 0,
+        "explanation": "O abacaxi é conhecido pela casca e coroa verde."
+      },
+      {
+        "prompt": "O que significa pedir \"O troco, por favor\"?",
+        "speech": "O troco",
+        "emoji": "💵",
+        "instruction": "Identifique o termo financeiro",
+        "options": [
+          "Um brinde do feirante",
+          "O recibo de papel",
+          "A sacola de plástico",
+          "O dinheiro devolvido quando se paga a mais que o valor exato"
+        ],
+        "answer": 3,
+        "explanation": "Troco é a diferença monetária devolvida ao cliente."
+      },
+      {
+        "prompt": "O que é \"Um quilo de carne\"?",
+        "speech": "Um quilo",
+        "emoji": "🥩",
+        "instruction": "Identifique o peso",
+        "options": [
+          "1.000 gramas de peso",
+          "500 gramas",
+          "100 gramas",
+          "2.000 gramas"
+        ],
+        "answer": 0,
+        "explanation": "1 quilo (kg) equivale a 1.000 gramas."
+      },
+      {
+        "prompt": "O que o cliente pede com: \"Moço, me dá um quilo de tomate bem maduro\"?",
+        "speech": "Tomate maduro",
+        "emoji": "🍅",
+        "instruction": "Interprete o pedido",
+        "options": [
+          "Suco de tomate",
+          "Tomates verdes para plantar",
+          "Massa de tomate em lata",
+          "Tomates prontos para consumo imediato / vermelhos"
+        ],
+        "answer": 3,
+        "explanation": "Maduro significa pronto para comer."
+      },
+      {
+        "prompt": "O que significa \"O carrinho de compras\"?",
+        "speech": "Carrinho de compras",
+        "emoji": "🛒",
+        "instruction": "Identifique o item",
+        "options": [
+          "O caminhão de entrega",
+          "Veículo com rodas para transportar produtos pelo supermercado",
+          "A cesta de palha",
+          "A sacola de papel"
+        ],
+        "answer": 1,
+        "explanation": "Carrinho de compras serve para carregar as compras."
+      },
+      {
+        "prompt": "Como perguntar o preço de uma mercadoria?",
+        "speech": "Quanto custa este quilo?",
+        "emoji": "🏷️",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Quanto custa este quilo?",
+          "Qual é a riqueza disso?",
+          "Como vale o produto?",
+          "Onde vai o dinheiro?"
+        ],
+        "answer": 0,
+        "explanation": "\"Quanto custa...?\" é a pergunta comercial padrão."
+      },
+      {
+        "prompt": "O que significa \"Pagar no débito\"?",
+        "speech": "Cartão de débito",
+        "emoji": "💳",
+        "instruction": "Identifique a forma de pagamento bancária",
+        "options": [
+          "Parcelar a compra para o próximo mês",
+          "Descontar o valor imediatamente do saldo da conta corrente",
+          "Pagar em notas de papel",
+          "Fazer fiado na caderneta"
+        ],
+        "answer": 1,
+        "explanation": "Cartão de débito desconta o dinheiro na hora."
+      },
+      {
+        "prompt": "O que é a \"Fila do caixa preferencial\"?",
+        "speech": "Caixa preferencial",
+        "emoji": "👵",
+        "instruction": "Identifique o atendimento prioritário",
+        "options": [
+          "Atendimento prioritário para idosos, gestantes e pessoas com deficiência",
+          "Fila para quem compra rápido",
+          "Caixa exclusivo de funcionários",
+          "Fila de compras caras"
+        ],
+        "answer": 0,
+        "explanation": "O caixa preferencial atende prioritariamente quem tem direito por lei."
+      }
+    ]
+  },
+  {
+    "id": "pt-10",
+    "language": "pt",
+    "level": "A2 · Básico",
+    "emoji": "🏠",
+    "title": "A Casa Brasileira & Cômodos",
+    "description": "Sala de estar, varanda, cozinha e área de serviço.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Onde se costuma lavar e secar roupas em uma residência brasileira?",
+        "speech": "Área de serviço",
+        "emoji": "🧺",
+        "instruction": "Identifique o cômodo",
+        "options": [
+          "Na varanda da frente",
+          "Na sala de jantar",
+          "No quarto de casal",
+          "Na área de serviço / lavanderia"
+        ],
+        "answer": 3,
+        "explanation": "A área de serviço é onde fica o tanque e a máquina de lavar."
+      },
+      {
+        "prompt": "Qual é o cômodo onde se recebem as visitas para conversar?",
+        "speech": "Sala de estar",
+        "emoji": "🛋️",
+        "instruction": "Identifique o espaço social",
+        "options": [
+          "Sótão",
+          "Cozinha",
+          "Despensa",
+          "Sala de estar"
+        ],
+        "answer": 3,
+        "explanation": "A sala de estar é o cômodo social de entrada."
+      },
+      {
+        "prompt": "Onde a família se reúne para dormir?",
+        "speech": "No quarto",
+        "emoji": "🛏️",
+        "instruction": "Identifique o cômodo de repouso",
+        "options": [
+          "Na garagem",
+          "Na cozinha",
+          "No quarto / dormitório",
+          "No quintal"
+        ],
+        "answer": 2,
+        "explanation": "O quarto é o cômodo de dormir."
+      },
+      {
+        "prompt": "O que é o \"Quintal\"?",
+        "speech": "Quintal",
+        "emoji": "🏡",
+        "instruction": "Identifique a área externa",
+        "options": [
+          "O teto da casa",
+          "O corredor do prédio",
+          "A porta principal",
+          "Espaço aberto aos fundos da casa com terra, grama ou piso"
+        ],
+        "answer": 3,
+        "explanation": "O quintal é o terreno atrás ou ao redor da casa."
+      },
+      {
+        "prompt": "O que significa \"Mora de aluguel\"?",
+        "speech": "Morar de aluguel",
+        "emoji": "🔑",
+        "instruction": "Identifique o regime de moradia",
+        "options": [
+          "Ser dono da casa quitada",
+          "Pagar um valor mensal ao proprietário pelo uso do imóvel",
+          "Morar em hotel grátis",
+          "Invadir um terreno"
+        ],
+        "answer": 1,
+        "explanation": "Aluguel é o pagamento mensal pela locação."
+      },
+      {
+        "prompt": "O que é \"A portaria\" de um prédio residencial?",
+        "speech": "A portaria",
+        "emoji": "🏢",
+        "instruction": "Identifique a entrada do edifício",
+        "options": [
+          "O salão de festas",
+          "A garagem de carros",
+          "Local de acesso com porteiro para controle de entrada e correspondências",
+          "A caixa d’água"
+        ],
+        "answer": 2,
+        "explanation": "A portaria controla a segurança e o acesso."
+      },
+      {
+        "prompt": "O que é \"A pia\"?",
+        "speech": "A pia",
+        "emoji": "🚰",
+        "instruction": "Identifique o equipamento hidrossanitário",
+        "options": [
+          "A geladeira",
+          "Bancada com torneira para lavar louça ou escovar os dentes",
+          "O fogão a gás",
+          "O forno elétrico"
+        ],
+        "answer": 1,
+        "explanation": "A pia da cozinha ou banheiro serve para lavagem com água."
+      },
+      {
+        "prompt": "O que significa \"A garagem\"?",
+        "speech": "A garagem",
+        "emoji": "🚗",
+        "instruction": "Identifique o espaço",
+        "options": [
+          "A churrasqueira",
+          "O jardim de flores",
+          "A piscina",
+          "Local coberto ou descoberto para guardar automóveis"
+        ],
+        "answer": 3,
+        "explanation": "Garagem é onde se estacionam os veículos."
+      },
+      {
+        "prompt": "O que é uma \"Churrasqueira\"?",
+        "speech": "Churrasqueira",
+        "emoji": "🥩",
+        "instruction": "Identifique o espaço de lazer culinário",
+        "options": [
+          "Equipamento ou espaço gourmet para assar carnes na brasa",
+          "Uma lareira de aquecer",
+          "Um tipo de fogão a lenha",
+          "Um armário de pratos"
+        ],
+        "answer": 0,
+        "explanation": "A churrasqueira é ponto de encontro nos fins de semana brasileiros."
+      },
+      {
+        "prompt": "Como dizer \"Vou trancar a porta com a chave\"?",
+        "speech": "Trancar a porta",
+        "emoji": "🔐",
+        "instruction": "Identifique a ação de segurança",
+        "options": [
+          "Pintar a madeira",
+          "Abrir a porta toda",
+          "Trancar a porta com a chave",
+          "Limpar o trinco"
+        ],
+        "answer": 2,
+        "explanation": "\"Trancar a porta\" é fechar com chave para segurança."
+      }
+    ]
+  },
+  {
+    "id": "pt-11",
+    "language": "pt",
+    "level": "B1 · Intermediário",
+    "emoji": "📜",
+    "title": "Passado Perfeito vs Imperfeito",
+    "description": "Ontem eu fui ao cinema vs Antigamente eu morava.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Para uma ação pontual e concluída ontem, usamos:",
+        "speech": "Ontem eu comprei um livro",
+        "emoji": "📖",
+        "instruction": "Selecione o tempo certo",
+        "options": [
+          "Pretérito Perfeito (\"comprei\")",
+          "Pretérito Imperfeito (\"comprava\")",
+          "Futuro do presente",
+          "Gerúndio"
+        ],
+        "answer": 0,
+        "explanation": "Pretérito Perfeito expressa ação concluída em momento definido."
+      },
+      {
+        "prompt": "Para descrever um hábito contínuo que se repetia na infância, usamos:",
+        "speech": "Eu brincava na rua",
+        "emoji": "🧒",
+        "instruction": "Identifique o tempo do hábito",
+        "options": [
+          "Presente",
+          "Pretérito Perfeito (\"brinquei\")",
+          "Futuro",
+          "Pretérito Imperfeito (\"brincava\")"
+        ],
+        "answer": 3,
+        "explanation": "O Pretérito Imperfeito descreve hábitos passados."
+      },
+      {
+        "prompt": "Qual o pretérito perfeito de \"ir\" para a 1ª pessoa (eu)?",
+        "speech": "Eu fui",
+        "emoji": "🚶‍♂️",
+        "instruction": "Conjugue o verbo irregular ir",
+        "options": [
+          "Eu fizesse",
+          "Eu ia",
+          "Eu fora",
+          "Eu fui"
+        ],
+        "answer": 3,
+        "explanation": "Ontem eu fui ao mercado."
+      },
+      {
+        "prompt": "Qual o pretérito imperfeito de \"ter\" para \"nós\"?",
+        "speech": "Nós tínhamos",
+        "emoji": "💼",
+        "instruction": "Conjugue ter no imperfeito",
+        "options": [
+          "Temos",
+          "Tivemos",
+          "Teremos",
+          "Tínhamos"
+        ],
+        "answer": 3,
+        "explanation": "Antigamente nós tínhamos muito tempo livre."
+      },
+      {
+        "prompt": "Complete com ação pontual: \"Na semana passada eu ___ meu carro.\"",
+        "speech": "Vendi meu carro",
+        "emoji": "🚗",
+        "instruction": "Conjugue vender no perfeito",
+        "options": [
+          "vendo",
+          "vendia",
+          "vendera",
+          "vendi"
+        ],
+        "answer": 3,
+        "explanation": "Ação acabada na semana passada: vendi."
+      },
+      {
+        "prompt": "Complete o cenário de fundo: \"___ muito calor quando cheguei.\"",
+        "speech": "Fazia muito calor",
+        "emoji": "☀️",
+        "instruction": "Descreva o tempo atmosférico no passado",
+        "options": [
+          "Fazia",
+          "Fez",
+          "Fará",
+          "Faça"
+        ],
+        "answer": 0,
+        "explanation": "Descrições de clima de fundo usam imperfeito: fazia muito calor."
+      },
+      {
+        "prompt": "Qual o pretérito perfeito irregular de \"fazer\" para \"ele\"?",
+        "speech": "Ele fez",
+        "emoji": "✍️",
+        "instruction": "Conjugue fazer",
+        "options": [
+          "fazia",
+          "fez",
+          "fizer",
+          "faça"
+        ],
+        "answer": 1,
+        "explanation": "Ontem ele fez um bolo gostoso."
+      },
+      {
+        "prompt": "Complete com a combinação temporal: \"Eu ___ quando o telefone tocou.\"",
+        "speech": "Eu dormia quando o telefone tocou",
+        "emoji": "📞",
+        "instruction": "Ação em andamento interrompida",
+        "options": [
+          "dormi",
+          "dormia",
+          "dormirei",
+          "durmo"
+        ],
+        "answer": 1,
+        "explanation": "Ação contínua (dormia) interrompida por ação pontual (tocou)."
+      },
+      {
+        "prompt": "Qual a terminação regular de verbos da 1ª conjugação (-ar) no imperfeito?",
+        "speech": "Cantava, estudava",
+        "emoji": "🎶",
+        "instruction": "Identifique a terminação",
+        "options": [
+          "-ia, -íamos, -iam",
+          "-ei, -ou, -amos",
+          "-ava, -ávamos, -avam",
+          "-ara, -áramos"
+        ],
+        "answer": 2,
+        "explanation": "Verbos em -ar fazem imperfeito em -ava."
+      },
+      {
+        "prompt": "O que a frase expressa: \"Antigamente nós viajávamos todo verão\"?",
+        "speech": "Hábito passado",
+        "emoji": "🏖️",
+        "instruction": "Interprete a frase",
+        "options": [
+          "Um arrependimento recente",
+          "Uma viagem que acontecerá no próximo mês",
+          "Uma dúvida",
+          "Um hábito costumeiro no passado que não ocorre mais"
+        ],
+        "answer": 3,
+        "explanation": "Expressa costume repetitivo de épocas passadas."
+      }
+    ]
+  },
+  {
+    "id": "pt-12",
+    "language": "pt",
+    "level": "B1 · Intermediário",
+    "emoji": "✈️",
+    "title": "Viagens pelo Brasil & Turismo",
+    "description": "Pousadas, praias do Nordeste, passagens e passeios.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como se chama uma acomodação charmosa e aconchegante típica do litoral?",
+        "speech": "Pousada",
+        "emoji": "🏖️",
+        "instruction": "Identifique o meio de hospedagem",
+        "options": [
+          "República de estudantes",
+          "Barraca de praia",
+          "Pousada",
+          "Albergue público"
+        ],
+        "answer": 2,
+        "explanation": "\"Pousada\" é a hospedagem típica e aconchegante no Brasil."
+      },
+      {
+        "prompt": "O que significa fazer uma \"viagem bate e volta\"?",
+        "speech": "Bate e volta",
+        "emoji": "🚗",
+        "instruction": "Identifique o tipo de passeio curto",
+        "options": [
+          "Uma viagem de volta ao mundo de navio",
+          "Ir e retornar no mesmo dia sem pernoitar fora",
+          "Um voo com cinco conexões",
+          "Ficar um mês acampado"
+        ],
+        "answer": 1,
+        "explanation": "Bate e volta é a viagem de um único dia."
+      },
+      {
+        "prompt": "Qual estado brasileiro abriga as famosas cidades históricas de Ouro Preto e Tiradentes?",
+        "speech": "Minas Gerais",
+        "emoji": "⛪",
+        "instruction": "Identifique o estado histórico",
+        "options": [
+          "Minas Gerais",
+          "Bahia",
+          "Rio Grande do Sul",
+          "Amazonas"
+        ],
+        "answer": 0,
+        "explanation": "Minas Gerais concentra o rico patrimônio barroco colonial."
+      },
+      {
+        "prompt": "O que são as \"Cataratas do Iguaçu\"?",
+        "speech": "Cataratas do Iguaçu",
+        "emoji": "🌊",
+        "instruction": "Identifique a maravilha natural",
+        "options": [
+          "Um rio no Pantanal",
+          "Uma praia de corais no Nordeste",
+          "Uma montanha na serra gaúcha",
+          "Conjunto monumental de quedas d’água no Paraná na fronteira com a Argentina"
+        ],
+        "answer": 3,
+        "explanation": "As Cataratas do Iguaçu são patrimônio natural mundial."
+      },
+      {
+        "prompt": "Como se chama o bilhete que autoriza o embarque em ônibus intermunicipais?",
+        "speech": "Passagem de ônibus",
+        "emoji": "🎫",
+        "instruction": "Identifique o documento",
+        "options": [
+          "Boleto bancário",
+          "Passagem de ônibus",
+          "Cartão cidadão",
+          "Protocolo de viagem"
+        ],
+        "answer": 1,
+        "explanation": "Passagem de ônibus é o bilhete de viagem."
+      },
+      {
+        "prompt": "Qual é o bioma úmido famoso pela riquíssima fauna no Centro-Oeste brasileiro?",
+        "speech": "Pantanal",
+        "emoji": "🐊",
+        "instruction": "Identifique a região de ecoturismo",
+        "options": [
+          "Mata Atlântica",
+          "Caatinga",
+          "Pampa",
+          "Pantanal"
+        ],
+        "answer": 3,
+        "explanation": "O Pantanal é o maior santuário de vida selvagem úmida do mundo."
+      },
+      {
+        "prompt": "O que significa comprar uma passagem aérea \"na baixa temporada\"?",
+        "speech": "Baixa temporada",
+        "emoji": "📉",
+        "instruction": "Identifique a época de viagens",
+        "options": [
+          "Época de Natal e Ano Novo lotada",
+          "Período fora de férias escolares com tarifas mais baratas e destinos vazios",
+          "Mês de julho com preços no auge",
+          "Feriado de Carnaval"
+        ],
+        "answer": 1,
+        "explanation": "Baixa temporada tem preços menores e menos turistas."
+      },
+      {
+        "prompt": "Como se chama o traslado que leva turistas do aeroporto ao hotel?",
+        "speech": "Traslado / Transfer",
+        "emoji": "🚐",
+        "instruction": "Identifique o transporte",
+        "options": [
+          "Transfer (ou traslado)",
+          "Linha expressa",
+          "Escolta",
+          "Carona solidária"
+        ],
+        "answer": 0,
+        "explanation": "Transfer é o transporte receptivo entre aeroporto e hotel."
+      },
+      {
+        "prompt": "Qual arquipélago pernambucano é santuário ecológico e famoso pelas águas cristalinas?",
+        "speech": "Fernando de Noronha",
+        "emoji": "🐬",
+        "instruction": "Identifique a ilha paradisíaca",
+        "options": [
+          "Marajó",
+          "Ilhabela",
+          "Ilha do Mel",
+          "Fernando de Noronha"
+        ],
+        "answer": 3,
+        "explanation": "Fernando de Noronha é um dos destinos mais exclusivos e preservados do país."
+      },
+      {
+        "prompt": "Como dizer \"Gostaria de fechar um pacote turístico para o feriado\"?",
+        "speech": "Pacote turístico",
+        "emoji": "🌴",
+        "instruction": "Identifique a contratação de viagem",
+        "options": [
+          "Pacote turístico (inclui voo, hotel e passeios)",
+          "Caixa de viagem",
+          "Mala de turismo",
+          "Contrato de férias"
+        ],
+        "answer": 0,
+        "explanation": "Pacote turístico reúne passagens, hospedagem e passeios em um valor único."
+      }
+    ]
+  },
+  {
+    "id": "pt-13",
+    "language": "pt",
+    "level": "B1 · Intermediário",
+    "emoji": "🩺",
+    "title": "No Posto de Saúde, Remédios & Farmácia",
+    "description": "Explique dores, peça remédios e tire dúvidas médicas.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como dizer \"Estou com febre e enjoo\"?",
+        "speech": "Estou com febre e enjoo",
+        "emoji": "🤒",
+        "instruction": "Escolha a frase médica",
+        "options": [
+          "Tenho calor na barriga",
+          "Meu estômago quebrou",
+          "Estou com febre e enjoo",
+          "Sinto dor de braço"
+        ],
+        "answer": 2,
+        "explanation": "\"Enjoo\" é a sensação de náusea."
+      },
+      {
+        "prompt": "O que é o \"SUS\" no Brasil?",
+        "speech": "SUS",
+        "emoji": "🏥",
+        "instruction": "Identifique o sistema público",
+        "options": [
+          "Associação de médicos cirurgiões",
+          "Plano de saúde privado caro",
+          "Sistema Único de Saúde (atendimento médico público e gratuito garantido por lei)",
+          "Farmácia de manipulação"
+        ],
+        "answer": 2,
+        "explanation": "O SUS é o sistema público de saúde do Brasil."
+      },
+      {
+        "prompt": "O que significa \"Remédio genérico\"?",
+        "speech": "Remédio genérico",
+        "emoji": "💊",
+        "instruction": "Identifique o tipo de medicamento",
+        "options": [
+          "Cosmético hidratante",
+          "Remédio falsificado ilegal",
+          "Remédio natural de ervas",
+          "Medicamento com o mesmo princípio ativo da marca de referência, com tarja amarela e preço menor"
+        ],
+        "answer": 3,
+        "explanation": "Genéricos têm a mesma eficácia comprovada por lei e preço reduzido."
+      },
+      {
+        "prompt": "O que é uma \"Receita médica\"?",
+        "speech": "Receita médica",
+        "emoji": "📄",
+        "instruction": "Identifique o documento profissional",
+        "options": [
+          "Fatura do hospital",
+          "Prescrição assinada pelo médico para compra de medicamentos controlados",
+          "Manual de primeiros socorros",
+          "Atestado de vacinação"
+        ],
+        "answer": 1,
+        "explanation": "A receita médica autoriza a dispensa do medicamento."
+      },
+      {
+        "prompt": "Como expressar que você torceu o pé?",
+        "speech": "Torci o tornozelo",
+        "emoji": "🦶",
+        "instruction": "Identifique a lesão ortopédica",
+        "options": [
+          "Quebrei o sapato",
+          "Torci o tornozelo",
+          "Ralei a unha",
+          "Cortei o joelho"
+        ],
+        "answer": 1,
+        "explanation": "Torcer o tornozelo é a entorse no pé."
+      },
+      {
+        "prompt": "O que é um \"Pronto-Socorro\" (PS) ou \"UPA\"?",
+        "speech": "Pronto-Socorro / UPA",
+        "emoji": "🚨",
+        "instruction": "Identifique a unidade de emergência",
+        "options": [
+          "Unidade médica de urgência e emergência aberta 24 horas",
+          "Laboratório de exames agendados",
+          "Clínica de estética",
+          "Consultório de terapia"
+        ],
+        "answer": 0,
+        "explanation": "UPA e Pronto-Socorro atendem casos graves e imediatos."
+      },
+      {
+        "prompt": "Como se chama o papel que o médico emite para justificar a falta ao trabalho por doença?",
+        "speech": "Atestado médico",
+        "emoji": "📋",
+        "instruction": "Identifique o documento de abono",
+        "options": [
+          "Atestado médico",
+          "Receita médica",
+          "Prontuário",
+          "Laudo de alta"
+        ],
+        "answer": 0,
+        "explanation": "O atestado médico abona as faltas no trabalho decorrentes de enfermidade."
+      },
+      {
+        "prompt": "O que é \"Dor de garganta\"?",
+        "speech": "Dor de garganta",
+        "emoji": "🧣",
+        "instruction": "Identifique o sintoma comum de resfriado",
+        "options": [
+          "Dor de estômago",
+          "Inflamação ou incômodo ao engolir na região da laringe/faringe",
+          "Dor nos ouvidos",
+          "Dor nas costas"
+        ],
+        "answer": 1,
+        "explanation": "Dor de garganta acompanha resfriados e gripes."
+      },
+      {
+        "prompt": "O que é um \"Curativo\" com micropore ou gaze?",
+        "speech": "Curativo",
+        "emoji": "🩹",
+        "instruction": "Identifique o cuidado de enfermagem",
+        "options": [
+          "Um gesso no braço",
+          "Uma injeção na veia",
+          "Uma cirurgia plástica",
+          "Proteção estéril aplicada sobre ferimentos e cortes"
+        ],
+        "answer": 3,
+        "explanation": "Curativo protege feridas contra infecções."
+      },
+      {
+        "prompt": "Como dizer \"Tome este remédio de oito em oito horas\"?",
+        "speech": "De 8 em 8 horas",
+        "emoji": "⏰",
+        "instruction": "Identifique a posologia",
+        "options": [
+          "Tomar a cada intervalo regular de 8 horas",
+          "Tomar oito pílulas de uma vez",
+          "Tomar só às 8 da manhã",
+          "Tomar durante 8 dias seguidos"
+        ],
+        "answer": 0,
+        "explanation": "Indica o intervalo de dosagem do medicamento ao longo do dia."
+      }
+    ]
+  },
+  {
+    "id": "pt-14",
+    "language": "pt",
+    "level": "B1 · Intermediário",
+    "emoji": "💼",
+    "title": "Mercado de Trabalho & Entrevistas",
+    "description": "Fale de sua experiência profissional e currículo.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "O documento que reúne sua formação e histórico profissional é o:",
+        "speech": "Currículo",
+        "emoji": "📄",
+        "instruction": "Identifique o documento",
+        "options": [
+          "Recibo de pagamento",
+          "Contrato social",
+          "Crachá",
+          "Currículo (CV)"
+        ],
+        "answer": 3,
+        "explanation": "O currículo resume a carreira do candidato."
+      },
+      {
+        "prompt": "O que é a \"Carteira de Trabalho\" (CTPS) no Brasil?",
+        "speech": "Carteira de Trabalho",
+        "emoji": "📘",
+        "instruction": "Identifique o documento oficial",
+        "options": [
+          "Cartão de crédito da empresa",
+          "Documento que registra formalmente o contrato de trabalho e direitos trabalhistas (CLT)",
+          "Crachá de entrada",
+          "Título de eleitor"
+        ],
+        "answer": 1,
+        "explanation": "A Carteira de Trabalho oficializa os direitos sob regime CLT."
+      },
+      {
+        "prompt": "O que significa trabalhar sob regime \"CLT\"?",
+        "speech": "CLT",
+        "emoji": "⚖️",
+        "instruction": "Identifique a legislação laboral",
+        "options": [
+          "Trabalho voluntário",
+          "Trabalho temporário informal sem garantias",
+          "Empresa individual terceirizada",
+          "Consolidação das Leis do Trabalho (com direitos a férias, 13º salário e FGTS)"
+        ],
+        "answer": 3,
+        "explanation": "A CLT regulamenta os direitos do trabalhador formal."
+      },
+      {
+        "prompt": "O que é o \"13º salário\" (décimo terceiro)?",
+        "speech": "13º salário",
+        "emoji": "💰",
+        "instruction": "Identifique a gratificação de fim de ano",
+        "options": [
+          "Um imposto cobrado em dobro",
+          "Gratificação natalina equivalente a um mês extra de salário paga no fim do ano",
+          "Uma dedução no salário",
+          "Um adiantamento para férias"
+        ],
+        "answer": 1,
+        "explanation": "O décimo terceiro é garantido por lei a empregados com carteira assinada."
+      },
+      {
+        "prompt": "O que o recrutador quer saber com: \"Quais são seus pontos fortes e fracos?\"",
+        "speech": "Pontos fortes e fracos",
+        "emoji": "🎯",
+        "instruction": "Interprete a pergunta clássica",
+        "options": [
+          "Suas dívidas bancárias",
+          "Seus defeitos familiares",
+          "Quantos quilos você levanta",
+          "Suas principais competências técnicas/comportamentais e áreas de melhoria"
+        ],
+        "answer": 3,
+        "explanation": "Avalia o autoconhecimento e a adequação do profissional ao cargo."
+      },
+      {
+        "prompt": "O que significa \"Trabalho remoto\" ou \"Home office\"?",
+        "speech": "Home office",
+        "emoji": "💻",
+        "instruction": "Identifique a modalidade moderna",
+        "options": [
+          "Trabalho na rua com vendas",
+          "Morar dentro da sede da empresa",
+          "Trabalhar a distância a partir de casa utilizando computador e internet",
+          "Trabalho braçal externo"
+        ],
+        "answer": 2,
+        "explanation": "Home office permite trabalhar de casa."
+      },
+      {
+        "prompt": "O que é o \"FGTS\" (Fundo de Garantia do Tempo de Serviço)?",
+        "speech": "FGTS",
+        "emoji": "🏦",
+        "instruction": "Identifique o fundo de proteção",
+        "options": [
+          "Seguro de saúde",
+          "Imposto sindical obrigatório",
+          "Depósito mensal de 8% feito pela empresa em conta da Caixa que o trabalhador saca na demissão sem justa causa",
+          "Plano de aposentadoria privada"
+        ],
+        "answer": 2,
+        "explanation": "O FGTS protege o trabalhador demitido sem justa causa."
+      },
+      {
+        "prompt": "O que significa \"Pedir demissão\"?",
+        "speech": "Pedir demissão",
+        "emoji": "🚪",
+        "instruction": "Identifique a iniciativa do desligamento",
+        "options": [
+          "A empresa demite por corte de custos",
+          "O próprio funcionário decide se desligar espontaneamente da empresa",
+          "A empresa fecha as portas",
+          "O funcionário ganha uma promoção"
+        ],
+        "answer": 1,
+        "explanation": "Pedir demissão é iniciativa do próprio empregado."
+      },
+      {
+        "prompt": "Como se chama o período de descanso remunerado após um ano de trabalho?",
+        "speech": "Férias",
+        "emoji": "🏖️",
+        "instruction": "Identifique o direito de descanso",
+        "options": [
+          "Férias regulamentares (de 30 dias)",
+          "Licença paternidade",
+          "Descanso semanal remunerado",
+          "Atestado de folga"
+        ],
+        "answer": 0,
+        "explanation": "O trabalhador tem direito a 30 dias de férias após 12 meses de trabalho."
+      },
+      {
+        "prompt": "O que significa \"Fazer networking\"?",
+        "speech": "Networking",
+        "emoji": "🤝",
+        "instruction": "Identifique a prática profissional",
+        "options": [
+          "Fazer fofoca de escritório",
+          "Trabalhar com cabos de rede de computadores",
+          "Construir e cultivar uma rede de contatos profissionais e colaborativos",
+          "Procurar vagas em jornais antigos"
+        ],
+        "answer": 2,
+        "explanation": "Networking é a rede de relacionamentos no mercado."
+      }
+    ]
+  },
+  {
+    "id": "pt-15",
+    "language": "pt",
+    "level": "B1 · Intermediário",
+    "emoji": "👔",
+    "title": "Pronomes de Tratamento & Formalidade",
+    "description": "Você vs O Senhor / A Senhora no dia a dia.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Para falar com respeito com uma pessoa idosa no Brasil, usamos:",
+        "speech": "O senhor ou a senhora",
+        "emoji": "👵",
+        "instruction": "Escolha o pronome cordial",
+        "options": [
+          "Você cara",
+          "O senhor / A senhora",
+          "Tu mano",
+          "O cidadão"
+        ],
+        "answer": 1,
+        "explanation": "\"O senhor / A senhora\" demonstra cortesia e respeito."
+      },
+      {
+        "prompt": "Qual pronome de 2ª pessoa é amplamente utilizado no dia a dia em quase todo o Brasil?",
+        "speech": "Você",
+        "emoji": "👥",
+        "instruction": "Identifique o pronome comum",
+        "options": [
+          "Vós",
+          "Você (conjugado na 3ª pessoa do singular)",
+          "Vossa Mercê",
+          "Vossa Excelência"
+        ],
+        "answer": 1,
+        "explanation": "\"Você\" é o pronome padrão de tratamento informal e cotidiano."
+      },
+      {
+        "prompt": "Em regiões do Sul e Nordeste do Brasil, qual pronome também é muito frequente?",
+        "speech": "Tu",
+        "emoji": "🧉",
+        "instruction": "Identifique a variante regional",
+        "options": [
+          "Tu (frequentemente conjugado no presente informal)",
+          "Vós",
+          "Sua Senhoria",
+          "Vossa Graça"
+        ],
+        "answer": 0,
+        "explanation": "\"Tu\" é muito vivo no Rio Grande do Sul, Santa Catarina, Maranhão e Pará."
+      },
+      {
+        "prompt": "Qual pronome de tratamento formal é reservado a autoridades como juízes e ministros?",
+        "speech": "Vossa Excelência",
+        "emoji": "⚖️",
+        "instruction": "Identifique a fórmula oficial",
+        "options": [
+          "Você Excelentíssimo",
+          "Vossa Senhoria",
+          "Vossa Excelência",
+          "O Senhor Doutor"
+        ],
+        "answer": 2,
+        "explanation": "Vossa Excelência é o tratamento solene para altas autoridades."
+      },
+      {
+        "prompt": "Qual a forma abreviada escrita de \"Senhor\" e \"Senhora\"?",
+        "speech": "Sr. e Sra.",
+        "emoji": "✍️",
+        "instruction": "Identifique as abreviações oficiais",
+        "options": [
+          "Srº e Srª apenas",
+          "Snr. e Snra.",
+          "Sh. e Sha.",
+          "Sr. e Sra."
+        ],
+        "answer": 3,
+        "explanation": "Sr. e Sra. são as abreviaturas consagradas."
+      },
+      {
+        "prompt": "Como se trata informalmente um amigo próximo em tom carinhoso no Brasil?",
+        "speech": "Você / Amigo / Cara / Mano",
+        "emoji": "🤝",
+        "instruction": "Identifique o vocativo coloquial",
+        "options": [
+          "Vossa Senhoria",
+          "Cara, mano, amigo, você",
+          "O Nobre Cidadão",
+          "Vossa Mercê"
+        ],
+        "answer": 1,
+        "explanation": "Expressões coloquiais usadas entre amigos."
+      },
+      {
+        "prompt": "Como um atendente educado em loja costuma se dirigir ao cliente?",
+        "speech": "Pois não, senhor(a), em que posso ajudar?",
+        "emoji": "🏬",
+        "instruction": "Selecione a abordagem polida",
+        "options": [
+          "O que manda o camarada?",
+          "Ei você, quer o quê?",
+          "Pois não, senhor(a), como posso ajudar?",
+          "Diga logo o pedido!"
+        ],
+        "answer": 2,
+        "explanation": "Fórmula clássica de atendimento cordial no comércio."
+      },
+      {
+        "prompt": "Qual pronome de tratamento é historicamente utilizado para reitores de universidades?",
+        "speech": "Vossa Magnificência",
+        "emoji": "🎓",
+        "instruction": "Identifique o tratamento acadêmico",
+        "options": [
+          "Vossa Santidade",
+          "Vossa Reverendíssima",
+          "Vossa Alteza",
+          "Vossa Magnificência"
+        ],
+        "answer": 3,
+        "explanation": "Reitores recebem o tratamento solene de Vossa Magnificência."
+      },
+      {
+        "prompt": "O que expressa o uso de \"Doutor\" para advogados ou médicos no Brasil?",
+        "speech": "Doutor",
+        "emoji": "🩺",
+        "instruction": "Identifique o costume cultural",
+        "options": [
+          "Uma exigência do código penal",
+          "Apenas quem tem tese de doutorado concluída",
+          "Tratamento tradicional de deferência social consagrado pelo uso",
+          "Uma ofensa irônica"
+        ],
+        "answer": 2,
+        "explanation": "No Brasil é costume tradicional chamar médicos e advogados de \"doutor\"."
+      },
+      {
+        "prompt": "Em cartas formais e comerciais, como se inicia o cabeçalho?",
+        "speech": "Prezado(a) Senhor(a)",
+        "emoji": "✉️",
+        "instruction": "Identifique o vocativo epistolar",
+        "options": [
+          "Prezado(a) Senhor(a)",
+          "Oi galera",
+          "Querido amigo",
+          "Atenção todos"
+        ],
+        "answer": 0,
+        "explanation": "\"Prezado(a)\" é o início formal adequado para correspondências."
+      }
+    ]
+  },
+  {
+    "id": "pt-16",
+    "language": "pt",
+    "level": "B1 · Intermediário",
+    "emoji": "🌧️",
+    "title": "O Modo Subjuntivo no Cotidiano",
+    "description": "Tomara que dê tudo certo e se eu pudesse.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Complete: \"Tomara que amanhã não ___.\"",
+        "speech": "Tomara que amanhã não chova",
+        "emoji": "☔",
+        "instruction": "Conjugue no presente do subjuntivo",
+        "options": [
+          "chove",
+          "chova",
+          "choverá",
+          "chovesse"
+        ],
+        "answer": 1,
+        "explanation": "\"Tomara que\" exige o presente do subjuntivo: chova."
+      },
+      {
+        "prompt": "Complete o desejo: \"Espero que você ___ muito feliz.\"",
+        "speech": "Espero que você seja feliz",
+        "emoji": "🌟",
+        "instruction": "Conjugue o verbo ser no subjuntivo",
+        "options": [
+          "será",
+          "é",
+          "seja",
+          "fosse"
+        ],
+        "answer": 2,
+        "explanation": "Esperar que exige o presente do subjuntivo: seja."
+      },
+      {
+        "prompt": "Complete a 2ª condicional: \"Se eu ___ dinheiro, viajaria agora.\"",
+        "speech": "Se eu tivesse dinheiro",
+        "emoji": "💰",
+        "instruction": "Conjugue ter no pretérito imperfeito do subjuntivo",
+        "options": [
+          "tiver",
+          "tenho",
+          "teria",
+          "tivesse"
+        ],
+        "answer": 3,
+        "explanation": "A condição com se e hipótese usa o pretérito imperfeito do subjuntivo: tivesse."
+      },
+      {
+        "prompt": "Complete a hipótese no futuro: \"Quando você ___ em casa, me ligue.\"",
+        "speech": "Quando você chegar em casa",
+        "emoji": "🏠",
+        "instruction": "Conjugue no futuro do subjuntivo",
+        "options": [
+          "chegasse",
+          "chega",
+          "chegar",
+          "chegou"
+        ],
+        "answer": 2,
+        "explanation": "\"Quando\" projetado no futuro exige o futuro do subjuntivo: chegar."
+      },
+      {
+        "prompt": "Complete a dúvida: \"Não acho que ele ___ a verdade.\"",
+        "speech": "Não acho que ele fale a verdade",
+        "emoji": "🤫",
+        "instruction": "Conjugue falar",
+        "options": [
+          "fala",
+          "fale",
+          "falou",
+          "falará"
+        ],
+        "answer": 1,
+        "explanation": "Expressões de incerteza negativa exigem subjuntivo: fale."
+      },
+      {
+        "prompt": "Complete com concessão: \"Embora ___ frio, fomos à praia.\"",
+        "speech": "Embora fizesse frio",
+        "emoji": "🥶",
+        "instruction": "Conjugue fazer no subjuntivo",
+        "options": [
+          "fizesse",
+          "fazia",
+          "fez",
+          "fará"
+        ],
+        "answer": 0,
+        "explanation": "\"Embora\" exige modo subjuntivo."
+      },
+      {
+        "prompt": "Complete com ordem polida: \"É importante que nós ___ a lição.\"",
+        "speech": "É importante que nós façamos a lição",
+        "emoji": "📚",
+        "instruction": "Conjugue fazer na 1ª pessoa do plural",
+        "options": [
+          "faríamos",
+          "fazemos",
+          "fizeram",
+          "façamos"
+        ],
+        "answer": 3,
+        "explanation": "Estruturas impessoais exigem presente do subjuntivo: façamos."
+      },
+      {
+        "prompt": "Complete: \"Se você ___ comigo, não se perderia.\"",
+        "speech": "Se você viesse comigo",
+        "emoji": "🚶",
+        "instruction": "Conjugue vir no imperfeito do subjuntivo",
+        "options": [
+          "veio",
+          "vinha",
+          "viesse",
+          "virá"
+        ],
+        "answer": 2,
+        "explanation": "Hipótese irreal: se viesse."
+      },
+      {
+        "prompt": "Qual é o futuro do subjuntivo de \"fazer\" para \"quando eu\"?",
+        "speech": "Quando eu fizer",
+        "emoji": "✍️",
+        "instruction": "Conjugue fazer no futuro do subjuntivo",
+        "options": [
+          "fizesse",
+          "fazer",
+          "fizer",
+          "faço"
+        ],
+        "answer": 2,
+        "explanation": "O futuro do subjuntivo de fazer é: quando eu fizer, quando você fizer."
+      },
+      {
+        "prompt": "O que a oração expressa: \"Tomara que passe logo!\"?",
+        "speech": "Tomara que",
+        "emoji": "🤞",
+        "instruction": "Identifique o sentimento",
+        "options": [
+          "Um lamento do passado",
+          "Uma certeza matemática",
+          "Uma ordem militar",
+          "Um voto fervoroso de esperança e desejo positivo"
+        ],
+        "answer": 3,
+        "explanation": "\"Tomara que\" expressa desejo vivo de esperança."
+      }
+    ]
+  },
+  {
+    "id": "pt-17",
+    "language": "pt",
+    "level": "B2 · Avançado",
+    "emoji": "🔮",
+    "title": "Futuro do Presente & Condicional",
+    "description": "Viajarei no próximo ano e eu gostaria de saber.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Como expressar um pedido com máxima elegância polida?",
+        "speech": "Eu gostaria de fazer uma pergunta",
+        "emoji": "🙏",
+        "instruction": "Selecione o futuro do pretérito condicional",
+        "options": [
+          "Eu gostaria de fazer uma pergunta",
+          "Eu quero perguntar logo",
+          "Diga-me agora",
+          "Vou te perguntar"
+        ],
+        "answer": 0,
+        "explanation": "\"Eu gostaria de...\" suaviza pedidos com extrema polidez."
+      },
+      {
+        "prompt": "Qual é a forma regular de futuro do presente de \"viajar\" para \"eu\"?",
+        "speech": "Viajarei",
+        "emoji": "🧳",
+        "instruction": "Conjugue no futuro do presente",
+        "options": [
+          "Viajei",
+          "Viajava",
+          "Viajarei",
+          "Viajasse"
+        ],
+        "answer": 2,
+        "explanation": "A desinência de 1ª pessoa no futuro é \"-ei\": viajarei."
+      },
+      {
+        "prompt": "No português falado informal do Brasil, qual perífrase substitui o futuro simples?",
+        "speech": "Vou viajar",
+        "emoji": "🗣️",
+        "instruction": "Identifique a estrutura coloquial brasileira",
+        "options": [
+          "Terei viajado",
+          "Haver de viajar",
+          "Deverei viajar",
+          "Ir + infinitivo (\"Vou viajar amanhã\")"
+        ],
+        "answer": 3,
+        "explanation": "No dia a dia brasileiro, \"vou fazer\" substitui quase sempre \"farei\"."
+      },
+      {
+        "prompt": "Complete a hipótese de consequência: \"Se tivesse tempo, eu ___ violão.\"",
+        "speech": "Eu aprenderia violão",
+        "emoji": "🎸",
+        "instruction": "Conjugue aprender no condicional",
+        "options": [
+          "aprendia",
+          "aprenderei",
+          "aprenderia",
+          "aprenda"
+        ],
+        "answer": 2,
+        "explanation": "A consequência de uma condição em -sse é o futuro do pretérito (-ia): aprenderia."
+      },
+      {
+        "prompt": "O que é a \"Mesóclise\" na norma culta padrão?",
+        "speech": "Realizar-se-á o evento",
+        "emoji": "📖",
+        "instruction": "Identifique o fenômeno gramatical",
+        "options": [
+          "Colocação no fim da frase",
+          "Interpolação do pronome oblíquo no meio do verbo no futuro (ex: far-se-á)",
+          "Omissão de preposições",
+          "Uso de gírias modernas"
+        ],
+        "answer": 1,
+        "explanation": "A mesóclise ocorre com futuros na ausência de palavras atrativas na norma culta."
+      },
+      {
+        "prompt": "Complete a dúvida no passado com futuro do pretérito: \"Quem ___ aquela pessoa misteriosa?\"",
+        "speech": "Quem seria aquela pessoa?",
+        "emoji": "🕵️",
+        "instruction": "Expresse probabilidade ou suposição",
+        "options": [
+          "será",
+          "era",
+          "foi",
+          "seria"
+        ],
+        "answer": 3,
+        "explanation": "O futuro do pretérito expressa suposição em relação ao passado: quem seria?"
+      },
+      {
+        "prompt": "Como se diz \"Nós viajaremos amanhã de manhã\"?",
+        "speech": "Nós viajaremos",
+        "emoji": "🚗",
+        "instruction": "Conjugue nós no futuro simples",
+        "options": [
+          "Viajávamos",
+          "Viajaremos",
+          "Viajáramos",
+          "Viajamos ontem"
+        ],
+        "answer": 1,
+        "explanation": "Desinência de 1ª pessoa do plural: -emos: viajaremos."
+      },
+      {
+        "prompt": "Complete: \"Se você me ajudasse, nós ___ mais rápido.\"",
+        "speech": "Nós terminaríamos mais rápido",
+        "emoji": "⏱️",
+        "instruction": "Conjugue terminar no condicional",
+        "options": [
+          "terminarão",
+          "terminaremos",
+          "terminamos",
+          "terminaríamos"
+        ],
+        "answer": 3,
+        "explanation": "Condicional de nós leva acento na antepenúltima: terminaríamos."
+      },
+      {
+        "prompt": "O que expressa a frase: \"Seriam cerca de dez horas quando o sino tocou\"?",
+        "speech": "Seriam cerca de dez horas",
+        "emoji": "🔔",
+        "instruction": "Identifique a nuance temporal",
+        "options": [
+          "Hora marcada para o futuro",
+          "Certeza pontual exata",
+          "Aproximação ou suposição temporal no passado",
+          "Promessa formal"
+        ],
+        "answer": 2,
+        "explanation": "Expressa horário aproximado no passado."
+      },
+      {
+        "prompt": "Como formular uma sugestão muito cordial: \"Não ___ melhor sairmos mais cedo?\"",
+        "speech": "Não seria melhor?",
+        "emoji": "💡",
+        "instruction": "Escolha o verbo condicional",
+        "options": [
+          "foi",
+          "será",
+          "seria",
+          "é"
+        ],
+        "answer": 2,
+        "explanation": "\"Não seria melhor...?\" convida à reflexão de maneira cortês."
+      }
+    ]
+  },
+  {
+    "id": "pt-18",
+    "language": "pt",
+    "level": "B2 · Avançado",
+    "emoji": "🤙",
+    "title": "Gírias Populares do Brasil",
+    "description": "Dar um pulo, ficar de boa, vacilar e mandar bem.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "O que significa a expressão \"mandar bem\"?",
+        "speech": "Mandar bem",
+        "emoji": "👏",
+        "instruction": "Identifique o significado coloquial",
+        "options": [
+          "Dar ordens com grosseria",
+          "Enviar uma encomenda pelos correios",
+          "Fazer algo com excelência / ter grande sucesso em uma tarefa",
+          "Reclamar de uma situação"
+        ],
+        "answer": 2,
+        "explanation": "\"Mandar bem\" significa ter um excelente desempenho."
+      },
+      {
+        "prompt": "O que significa a expressão \"dar um pulo\" em algum lugar?",
+        "speech": "Dar um pulo",
+        "emoji": "👟",
+        "instruction": "Identifique a ação",
+        "options": [
+          "Comprar sapatos novos",
+          "Pular corda na academia",
+          "Saltar de paraquedas",
+          "Ir rapidamente até um local e retornar logo"
+        ],
+        "answer": 3,
+        "explanation": "\"Dar um pulo\" significa fazer uma visita rápida."
+      },
+      {
+        "prompt": "O que significa \"ficar de boa\"?",
+        "speech": "Ficar de boa",
+        "emoji": "🧘",
+        "instruction": "Identifique o estado de espírito",
+        "options": [
+          "Estar doente na cama",
+          "Ficar com raiva silenciosa",
+          "Ficar tranquilo, relaxado e em paz sem preocupações",
+          "Fazer uma viagem longa"
+        ],
+        "answer": 2,
+        "explanation": "\"Ficar de boa\" significa ficar calmo e em tranquilidade."
+      },
+      {
+        "prompt": "O que significa a gíria \"vacilar\" ou \"dar mole\"?",
+        "speech": "Vacilar",
+        "emoji": "🤦",
+        "instruction": "Identifique o erro coloquial",
+        "options": [
+          "Dançar no palco",
+          "Cometer um erro por distração / bobeira ou mancada",
+          "Vencer um campeonato",
+          "Dormir cedo demais"
+        ],
+        "answer": 1,
+        "explanation": "\"Vacilar\" é cometer um deslize ou pisar na bola."
+      },
+      {
+        "prompt": "O que significa a expressão \"pagar mico\"?",
+        "speech": "Pagar mico",
+        "emoji": "🙈",
+        "instruction": "Identifique o constrangimento",
+        "options": [
+          "Pagar a conta do restaurante com desconto",
+          "Comprar um animal exótico",
+          "Passar por uma situação pública embaraçosa e vergonhosa",
+          "Ganhar um sorteio"
+        ],
+        "answer": 2,
+        "explanation": "\"Pagar mico\" significa passar vergonha."
+      },
+      {
+        "prompt": "O que significa a gíria carioca \"Maneiro\" ou a paulistana \"Da hora\"?",
+        "speech": "Maneiro / Da hora",
+        "emoji": "✨",
+        "instruction": "Identifique o elogio popular",
+        "options": [
+          "Lugar perigoso",
+          "Comida estragada",
+          "Muito legal / bacana / excelente",
+          "Pessoa antipática"
+        ],
+        "answer": 2,
+        "explanation": "\"Maneiro\" e \"Da hora\" são gírias consagradas para algo muito legal."
+      },
+      {
+        "prompt": "O que significa a expressão \"chutar o balde\"?",
+        "speech": "Chutar o balde",
+        "emoji": "🪣",
+        "instruction": "Identifique a atitude impulsiva",
+        "options": [
+          "Jogar futebol na chuva",
+          "Perder a paciência e desistir de se conter / desistir do esforço",
+          "Comprar baldes de limpeza",
+          "Fazer faxina em casa"
+        ],
+        "answer": 1,
+        "explanation": "\"Chutar o balde\" significa abandonar as restrições por impaciência."
+      },
+      {
+        "prompt": "O que significa a gíria \"Tirar de letra\"?",
+        "speech": "Tirar de letra",
+        "emoji": "🎯",
+        "instruction": "Identifique a facilidade",
+        "options": [
+          "Cometer um erro grave",
+          "Escrever uma carta à mão",
+          "Superar uma dificuldade com grande facilidade e maestria",
+          "Ler um livro longo"
+        ],
+        "answer": 2,
+        "explanation": "\"Tirar de letra\" significa resolver com facilidade."
+      },
+      {
+        "prompt": "O que significa \"Segurar vela\" em um encontro social?",
+        "speech": "Segurar vela",
+        "emoji": "🕯️",
+        "instruction": "Identifique a situação embaraçosa",
+        "options": [
+          "Trabalhar em vigília noturna",
+          "Faltar luz em casa",
+          "Ficar acompanhando um casal de namorados como o único solteiro da mesa",
+          "Acender incenso perfumado"
+        ],
+        "answer": 2,
+        "explanation": "\"Segurar vela\" é ser o terceiro elemento sobrando com um casal."
+      },
+      {
+        "prompt": "O que significa \"Fazer uma vaquinha\"?",
+        "speech": "Fazer uma vaquinha",
+        "emoji": "🐄",
+        "instruction": "Identifique a cooperação financeira",
+        "options": [
+          "Alugar um sítio para churrasco",
+          "Comprar gado na fazenda",
+          "Juntar dinheiro coletivamente entre várias pessoas para pagar algo comum",
+          "Cozinhar carne de panela"
+        ],
+        "answer": 2,
+        "explanation": "\"Fazer uma vaquinha\" é a clássica arrecadação de dinheiro entre amigos."
+      }
+    ]
+  },
+  {
+    "id": "pt-19",
+    "language": "pt",
+    "level": "B2 · Avançado",
+    "emoji": "🇵🇹",
+    "title": "Português do Brasil vs de Portugal",
+    "description": "Ônibus vs autocarro, celular vs telemóvel.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Em Portugal, o aparelho \"celular\" é chamado de:",
+        "speech": "Telemóvel",
+        "emoji": "📱",
+        "instruction": "Identifique o termo europeu",
+        "options": [
+          "Telemóvel",
+          "Telefone de bolso",
+          "Autocarro",
+          "Ficha telefônica"
+        ],
+        "answer": 0,
+        "explanation": "Em Portugal diz-se \"telemóvel\"."
+      },
+      {
+        "prompt": "Em Portugal, como se chama o \"ônibus\" urbano?",
+        "speech": "Autocarro",
+        "emoji": "🚌",
+        "instruction": "Identifique o transporte europeu",
+        "options": [
+          "Bonde",
+          "Comboio",
+          "Autocarro",
+          "Carrinha"
+        ],
+        "answer": 2,
+        "explanation": "\"Autocarro\" é o ônibus de passageiros em Portugal."
+      },
+      {
+        "prompt": "Em Portugal, o meio de transporte que no Brasil chamamos de \"trem\" é conhecido como:",
+        "speech": "Comboio",
+        "emoji": "🚆",
+        "instruction": "Identifique o transporte ferroviário",
+        "options": [
+          "Comboio",
+          "Autocarro",
+          "Metropolitano",
+          "Vagonete"
+        ],
+        "answer": 0,
+        "explanation": "\"Comboio\" é o trem em Portugal."
+      },
+      {
+        "prompt": "Como os portugueses costumam chamar uma criança ou garoto pequeno?",
+        "speech": "Miúdo / Miúda",
+        "emoji": "🧒",
+        "instruction": "Identifique o termo carinhoso infantil",
+        "options": [
+          "Menininho apenas",
+          "Pivete",
+          "Moleque",
+          "Miúdo / Miúda"
+        ],
+        "answer": 3,
+        "explanation": "\"Miúdo\" é a criança em Portugal."
+      },
+      {
+        "prompt": "Em Portugal, como se chama a carne de \"frango\" na culinária popular?",
+        "speech": "Frango / Frango assado",
+        "emoji": "🍗",
+        "instruction": "Identifique o alimento",
+        "options": [
+          "Galináceo",
+          "Frango (e peru para ave maior)",
+          "Galo novo",
+          "Ave de forno"
+        ],
+        "answer": 1,
+        "explanation": "O termo frango é comum em ambos os lados do Atlântico."
+      },
+      {
+        "prompt": "No Brasil dizemos \"pedestre\". Em Portugal costuma-se usar:",
+        "speech": "Peão / Peões",
+        "emoji": "🚶",
+        "instruction": "Identifique o termo de trânsito em Portugal",
+        "options": [
+          "Caminhante",
+          "Peão (passadeira para peões)",
+          "Andarilho",
+          "Corredor"
+        ],
+        "answer": 1,
+        "explanation": "A faixa de pedestres em Portugal é a \"passadeira de peões\"."
+      },
+      {
+        "prompt": "Em Portugal, como se chama o \"sorvete\" gelado?",
+        "speech": "Gelado",
+        "emoji": "🍨",
+        "instruction": "Identifique a sobremesa gelada",
+        "options": [
+          "Gelo saboroso",
+          "Sorvete doce",
+          "Gelado",
+          "Creme frio"
+        ],
+        "answer": 2,
+        "explanation": "Em Portugal pede-se \"um gelado\"."
+      },
+      {
+        "prompt": "O que significa a palavra \"Giro / Gira\" no vocabulário português?",
+        "speech": "Que giro!",
+        "emoji": "✨",
+        "instruction": "Identifique a gíria europeia",
+        "options": [
+          "Bonito, simpático ou engraçado / legal",
+          "Tonto que fica rodando",
+          "Muito caro",
+          "Chato e irritante"
+        ],
+        "answer": 0,
+        "explanation": "\"Giro\" em Portugal significa bonito ou muito legal."
+      },
+      {
+        "prompt": "Em Portugal, o café expresso servido na xícara pequena é popularmente chamado de:",
+        "speech": "Bica",
+        "emoji": "☕",
+        "instruction": "Identifique a bebida tradicional em Lisboa",
+        "options": [
+          "Carioca longo",
+          "Pingado",
+          "Bica (em Lisboa) ou Cimbalino (no Porto)",
+          "Expresso puro apenas"
+        ],
+        "answer": 2,
+        "explanation": "Em Lisboa pede-se \"uma bica\"."
+      },
+      {
+        "prompt": "Qual a principal diferença na colocação pronominal em início de frase entre Brasil e Portugal?",
+        "speech": "Me dá vs Dá-me",
+        "emoji": "💬",
+        "instruction": "Identifique a norma culta europeia",
+        "options": [
+          "Em Portugal não se usam pronomes oblíquos",
+          "Não há nenhuma diferença",
+          "No Brasil próclise é proibida em qualquer contexto",
+          "Em Portugal evita-se iniciar frase com pronome oblíquo (\"Dá-me isto\"); no Brasil informal inicia-se com próclise (\"Me dá isso\")"
+        ],
+        "answer": 3,
+        "explanation": "A próclise inicial é traço característico do português coloquial brasileiro."
+      }
+    ]
+  },
+  {
+    "id": "pt-20",
+    "language": "pt",
+    "level": "B2 · Avançado",
+    "emoji": "🎭",
+    "title": "Expressões Idiomáticas Clássicas",
+    "description": "Pagar mico, pisar na bola e tirar o cavalinho da chuva.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "O que significa a expressão \"Tirar o cavalinho da chuva\"?",
+        "speech": "Tirar o cavalinho da chuva",
+        "emoji": "🐎",
+        "instruction": "Identifique o aviso idiomático",
+        "options": [
+          "Guardar os animais no estábulo",
+          "Desistir de uma pretensão ou expectativa ilusória / não contar com isso",
+          "Levar um guarda-chuva para o passeio",
+          "Comprar um cavalo de corrida"
+        ],
+        "answer": 1,
+        "explanation": "\"Pode tirar o cavalinho da chuva\" avisa que algo não vai acontecer."
+      },
+      {
+        "prompt": "O que significa a expressão \"Pisar na bola\"?",
+        "speech": "Pisar na bola",
+        "emoji": "⚽",
+        "instruction": "Identifique o deslize",
+        "options": [
+          "Dominar a bola no campo",
+          "Jogar futebol profissional com maestria",
+          "Comprar chuteiras novas",
+          "Cometer um erro com alguém / falhar com uma obrigação ou amigo"
+        ],
+        "answer": 3,
+        "explanation": "\"Pisar na bola\" significa decepcionar ou cometer uma mancada."
+      },
+      {
+        "prompt": "O que significa \"Trocar seis por meia dúzia\"?",
+        "speech": "Seis por meia dúzia",
+        "emoji": "⚖️",
+        "instruction": "Identifique a equivalência inútil",
+        "options": [
+          "Fazer uma mudança que não traz nenhuma vantagem real prática",
+          "Comprar ovos frescos na feira",
+          "Calcular números pares",
+          "Resolver um dilema com inteligência"
+        ],
+        "answer": 0,
+        "explanation": "Seis e meia dúzia são iguais, logo a troca é nula."
+      },
+      {
+        "prompt": "O que significa \"Pensar na morte da bezerra\"?",
+        "speech": "Morte da bezerra",
+        "emoji": "🐄",
+        "instruction": "Identifique o devaneio",
+        "options": [
+          "Estar de luto por um animal da fazenda",
+          "Estar pensativo, distraído ou viajando nos próprios pensamentos",
+          "Chorar sem motivo aparente",
+          "Estar com sono pesado"
+        ],
+        "answer": 1,
+        "explanation": "\"Pensar na morte da bezerra\" é estar no mundo da lua."
+      },
+      {
+        "prompt": "O que significa a expressão \"Chover no molhado\"?",
+        "speech": "Chover no molhado",
+        "emoji": "🌧️",
+        "instruction": "Identifique a redundância",
+        "options": [
+          "Desperdiçar água limpa",
+          "Comemorar uma tempestade de verão",
+          "Lavar o chão duas vezes",
+          "Fazer ou dizer algo completamente óbvio, inútil e repetitivo"
+        ],
+        "answer": 3,
+        "explanation": "\"Chover no molhado\" é insistir em algo já evidente e redundante."
+      },
+      {
+        "prompt": "O que significa \"Acabar em pizza\"?",
+        "speech": "Acabar em pizza",
+        "emoji": "🍕",
+        "instruction": "Identifique o desfecho político/social",
+        "options": [
+          "Terminar sem punição para os culpados / terminar em impunidade após escândalo",
+          "Comemorar com um jantar italiano",
+          "Comprar pizza para a equipe de trabalho",
+          "Fazer uma reunião festiva"
+        ],
+        "answer": 0,
+        "explanation": "Expressão clássica de escândalos que terminam sem consequências."
+      },
+      {
+        "prompt": "O que significa \"Procurar chifre em cabeça de cavalo\"?",
+        "speech": "Chifre em cabeça de cavalo",
+        "emoji": "🦄",
+        "instruction": "Identifique a complicação desnecessária",
+        "options": [
+          "Caçar animais míticos na floresta",
+          "Procurar problemas ou defeitos onde eles não existem / complicar o simples",
+          "Tratar de animais machucados",
+          "Duvidar da biologia"
+        ],
+        "answer": 1,
+        "explanation": "Significa inventar problemas inexistentes."
+      },
+      {
+        "prompt": "O que significa \"Engolir sapo\"?",
+        "speech": "Engolir sapo",
+        "emoji": "🐸",
+        "instruction": "Identifique a tolerância forçada",
+        "options": [
+          "Comer alimentos exóticos na floresta",
+          "Suportar desaforos, humilhações ou contrariedades calado por necessidade",
+          "Ter dor de garganta severa",
+          "Gaguejar ao falar em público"
+        ],
+        "answer": 1,
+        "explanation": "\"Engolir sapo\" significa aguentar insultos sem poder revidar."
+      },
+      {
+        "prompt": "O que significa a expressão \"Dar com a língua nos dentes\"?",
+        "speech": "Língua nos dentes",
+        "emoji": "🤐",
+        "instruction": "Identifique a quebra de sigilo",
+        "options": [
+          "Morder a língua ao mastigar o almoço",
+          "Falar demais e revelar um segredo que deveria ser guardado",
+          "Ficar com dor de dente",
+          "Gaguejar de nervosismo"
+        ],
+        "answer": 1,
+        "explanation": "\"Dar com a língua nos dentes\" é delatar ou contar um segredo."
+      },
+      {
+        "prompt": "O que significa a expressão \"Botar a mão no fogo por alguém\"?",
+        "speech": "Mão no fogo",
+        "emoji": "🔥",
+        "instruction": "Identifique a confiança absoluta",
+        "options": [
+          "Testar a temperatura da água",
+          "Brincar com fósforos perigosos",
+          "Sofrer uma queimadura na cozinha",
+          "Confiar plenamente na honestidade e integridade de outra pessoa"
+        ],
+        "answer": 3,
+        "explanation": "\"Botar a mão no fogo\" expressa confiança cega e irrestrita."
+      }
+    ]
+  }
+]

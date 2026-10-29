@@ -1,0 +1,3022 @@
+[
+  {
+    "id": "en-1",
+    "language": "en",
+    "level": "A1 · Iniciante",
+    "emoji": "🔤",
+    "title": "Alfabeto & Sons Fundamentais",
+    "description": "Domine as vogais, dígrafos e sons das consoantes em inglês.",
+    "xp": 20,
+    "questions": [
+      {
+        "prompt": "Como se pronuncia a letra \"A\" no alfabeto?",
+        "speech": "A",
+        "emoji": "🔤",
+        "instruction": "Escolha a pronúncia correta",
+        "options": [
+          "Ah",
+          "Ei",
+          "Ai",
+          "Ou"
+        ],
+        "answer": 1,
+        "explanation": "A letra \"A\" soa como \"Ei\" em palavras como \"Name\"."
+      },
+      {
+        "prompt": "Qual palavra tem o som de \"th\" suave entre os dentes?",
+        "speech": "Thanks",
+        "emoji": "🗣️",
+        "instruction": "Selecione a palavra com \"th\"",
+        "options": [
+          "Tree",
+          "Thanks",
+          "Tank",
+          "Tom"
+        ],
+        "answer": 1,
+        "explanation": "\"Thanks\" pronuncia-se colocando a ponta da língua nos dentes."
+      },
+      {
+        "prompt": "Como se pronuncia a letra \"E\" em inglês?",
+        "speech": "E",
+        "emoji": "🔤",
+        "instruction": "Identifique a pronúncia",
+        "options": [
+          "Ou",
+          "É",
+          "Ei",
+          "I"
+        ],
+        "answer": 3,
+        "explanation": "A letra \"E\" soa como \"I\" (como em \"He\")."
+      },
+      {
+        "prompt": "Como se pronuncia a letra \"I\" em inglês?",
+        "speech": "I",
+        "emoji": "🔤",
+        "instruction": "Escolha o som da letra",
+        "options": [
+          "Eu",
+          "I",
+          "Ei",
+          "Ai"
+        ],
+        "answer": 3,
+        "explanation": "A letra \"I\" tem som de \"Ai\" (como em \"Hi\")."
+      },
+      {
+        "prompt": "Qual palavra possui o som clássico de \"ch\" (tch)?",
+        "speech": "Cheese",
+        "emoji": "🧀",
+        "instruction": "Selecione a palavra",
+        "options": [
+          "Character",
+          "School",
+          "Echo",
+          "Cheese"
+        ],
+        "answer": 3,
+        "explanation": "\"Cheese\" pronuncia-se com som de \"tch\"."
+      },
+      {
+        "prompt": "Como soa a letra \"W\" no início de \"Water\"?",
+        "speech": "Water",
+        "emoji": "💧",
+        "instruction": "Identifique o som inicial",
+        "options": [
+          "Som de \"U\" suave",
+          "Som de \"V\"",
+          "Som de \"D\"",
+          "Mudo"
+        ],
+        "answer": 0,
+        "explanation": "\"W\" tem som semivogal de \"U\"."
+      },
+      {
+        "prompt": "Em qual palavra a letra \"H\" é aspirada?",
+        "speech": "House",
+        "emoji": "🏠",
+        "instruction": "Escolha a palavra",
+        "options": [
+          "Honest",
+          "Hour",
+          "House",
+          "Honor"
+        ],
+        "answer": 2,
+        "explanation": "Em \"House\" o H é pronunciado aspirado."
+      },
+      {
+        "prompt": "Como se pronuncia o \"R\" americano em \"Red\"?",
+        "speech": "Red",
+        "emoji": "🔴",
+        "instruction": "Identifique o fonema",
+        "options": [
+          "Com a garganta",
+          "Com a língua curvada para trás sem tocar o céu da boca",
+          "Como o R brando do português",
+          "Totalmente mudo"
+        ],
+        "answer": 1,
+        "explanation": "O R americano é retroflexo."
+      },
+      {
+        "prompt": "Qual palavra rima perfeitamente com \"cat\"?",
+        "speech": "Hat",
+        "emoji": "🐱",
+        "instruction": "Selecione a rima",
+        "options": [
+          "Cot",
+          "Cut",
+          "Hat",
+          "Kate"
+        ],
+        "answer": 2,
+        "explanation": "\"Hat\" rima com \"cat\" pelo som aberto /æ/."
+      },
+      {
+        "prompt": "Como se soletra a palavra \"DOG\" (Cachorro)?",
+        "speech": "D-O-G",
+        "emoji": "🐕",
+        "instruction": "Identifique o soletrar",
+        "options": [
+          "Di - A - Gi",
+          "De - O - Ge",
+          "Da - U - Ga",
+          "Di - Ou - Dji"
+        ],
+        "answer": 3,
+        "explanation": "Soletrando: D (/diː/), O (/oʊ/), G (/dʒiː/)."
+      }
+    ]
+  },
+  {
+    "id": "en-2",
+    "language": "en",
+    "level": "A1 · Iniciante",
+    "emoji": "👋",
+    "title": "Saudações & Verbo To Be",
+    "description": "Aprenda a dizer olá, se apresentar e conjugar I am, You are, He is.",
+    "xp": 20,
+    "questions": [
+      {
+        "prompt": "Como se diz \"Meu nome é Lucas\"?",
+        "speech": "My name is Lucas",
+        "emoji": "👋",
+        "instruction": "Escolha a tradução",
+        "options": [
+          "Lucas my is",
+          "I name Lucas",
+          "My call Lucas",
+          "My name is Lucas"
+        ],
+        "answer": 3,
+        "explanation": "\"My name is...\" é a apresentação padrão."
+      },
+      {
+        "prompt": "Qual a resposta cordial para \"Nice to meet you\"?",
+        "speech": "Nice to meet you too",
+        "emoji": "🤝",
+        "instruction": "Selecione a resposta",
+        "options": [
+          "Nice to meet you too",
+          "Good night",
+          "I am thirsty",
+          "Please go away"
+        ],
+        "answer": 0,
+        "explanation": "\"Nice to meet you too\" significa prazer em conhecê-lo também."
+      },
+      {
+        "prompt": "Complete: \"I ___ a language student.\"",
+        "speech": "I am a language student",
+        "emoji": "📚",
+        "instruction": "Complete com o verbo",
+        "options": [
+          "be",
+          "is",
+          "are",
+          "am"
+        ],
+        "answer": 3,
+        "explanation": "Com \"I\" usamos \"am\"."
+      },
+      {
+        "prompt": "Complete: \"They ___ from Brazil.\"",
+        "speech": "They are from Brazil",
+        "emoji": "🇧🇷",
+        "instruction": "Complete a frase",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": 0,
+        "explanation": "Com \"They\" usamos \"are\"."
+      },
+      {
+        "prompt": "Como se diz \"Bom dia\" em inglês?",
+        "speech": "Good morning",
+        "emoji": "🌅",
+        "instruction": "Escolha a saudação",
+        "options": [
+          "Good afternoon",
+          "Good morning",
+          "Good night",
+          "Good evening"
+        ],
+        "answer": 1,
+        "explanation": "\"Good morning\" é usado pela manhã."
+      },
+      {
+        "prompt": "Como se pergunta \"Como você está?\"?",
+        "speech": "How are you?",
+        "emoji": "💬",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Why are you?",
+          "Who are you?",
+          "Where are you?",
+          "How are you?"
+        ],
+        "answer": 3,
+        "explanation": "\"How are you?\" é a saudação de cortesia."
+      },
+      {
+        "prompt": "Qual a diferença entre \"Good evening\" e \"Good night\"?",
+        "speech": "Good evening and Good night",
+        "emoji": "🌙",
+        "instruction": "Escolha a diferença",
+        "options": [
+          "Good evening é à tarde",
+          "São idênticos",
+          "Good night é de manhã",
+          "Good evening é ao chegar; Good night é despedida"
+        ],
+        "answer": 3,
+        "explanation": "Usa-se Good evening na chegada e Good night na despedida."
+      },
+      {
+        "prompt": "Complete: \"He ___ very smart.\"",
+        "speech": "He is very smart",
+        "emoji": "🧠",
+        "instruction": "Complete com to be",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "answer": 0,
+        "explanation": "Com He/She/It usamos \"is\"."
+      },
+      {
+        "prompt": "Como se diz \"De nada\" após um agradecimento?",
+        "speech": "You are welcome",
+        "emoji": "🙏",
+        "instruction": "Escolha a resposta",
+        "options": [
+          "Please",
+          "You are welcome",
+          "Excuse me",
+          "See you"
+        ],
+        "answer": 1,
+        "explanation": "\"You are welcome\" significa \"De nada\"."
+      },
+      {
+        "prompt": "Qual a contração de \"I am\"?",
+        "speech": "I am",
+        "emoji": "✏️",
+        "instruction": "Selecione a forma contraída",
+        "options": [
+          "Ime",
+          "I'am",
+          "Im'",
+          "I'm"
+        ],
+        "answer": 3,
+        "explanation": "\"I am\" contrai-se para \"I'm\"."
+      }
+    ]
+  },
+  {
+    "id": "en-3",
+    "language": "en",
+    "level": "A1 · Iniciante",
+    "emoji": "⏰",
+    "title": "Números, Horas & Dias",
+    "description": "Conte até 100, marque reuniões e pergunte as horas.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como perguntar \"Que horas são?\" em inglês?",
+        "speech": "What time is it?",
+        "emoji": "⏰",
+        "instruction": "Escolha a pergunta",
+        "options": [
+          "Where is time?",
+          "How many hours?",
+          "What time is it?",
+          "Which hour now?"
+        ],
+        "answer": 2,
+        "explanation": "\"What time is it?\" é a pergunta padrão."
+      },
+      {
+        "prompt": "Como se diz \"Quarta-feira\"?",
+        "speech": "Wednesday",
+        "emoji": "📅",
+        "instruction": "Selecione o dia",
+        "options": [
+          "Tuesday",
+          "Thursday",
+          "Wednesday",
+          "Monday"
+        ],
+        "answer": 2,
+        "explanation": "Wednesday é quarta-feira."
+      },
+      {
+        "prompt": "Qual é o número \"50\" por extenso?",
+        "speech": "Fifty",
+        "emoji": "🔢",
+        "instruction": "Escolha o número",
+        "options": [
+          "Fifteen",
+          "Fifty",
+          "Five",
+          "Fivety"
+        ],
+        "answer": 1,
+        "explanation": "50 é Fifty (15 é Fifteen)."
+      },
+      {
+        "prompt": "Como se diz \"São 8 e meia\" (8:30)?",
+        "speech": "Half past eight",
+        "emoji": "🕗",
+        "instruction": "Identifique as horas",
+        "options": [
+          "Half past eight",
+          "Half to eight",
+          "Eight thirty minutes",
+          "Middle eight"
+        ],
+        "answer": 0,
+        "explanation": "\"Half past eight\" ou \"Eight thirty\" indicam 8:30."
+      },
+      {
+        "prompt": "Qual dia vem logo após a sexta-feira (Friday)?",
+        "speech": "Saturday",
+        "emoji": "🗓️",
+        "instruction": "Identifique o dia",
+        "options": [
+          "Monday",
+          "Sunday",
+          "Saturday",
+          "Thursday"
+        ],
+        "answer": 2,
+        "explanation": "Saturday é sábado."
+      },
+      {
+        "prompt": "Qual é o primeiro mês do ano?",
+        "speech": "January",
+        "emoji": "❄️",
+        "instruction": "Escolha o mês",
+        "options": [
+          "January",
+          "June",
+          "July",
+          "February"
+        ],
+        "answer": 0,
+        "explanation": "Janeiro é January."
+      },
+      {
+        "prompt": "Como se diz \"Meio-dia\" (12:00 PM)?",
+        "speech": "Noon",
+        "emoji": "☀️",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Noon",
+          "Midnight",
+          "Night",
+          "Afternoon"
+        ],
+        "answer": 0,
+        "explanation": "Noon significa meio-dia."
+      },
+      {
+        "prompt": "Como se diz \"Meia-noite\" (12:00 AM)?",
+        "speech": "Midnight",
+        "emoji": "🌙",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Midnight",
+          "Noon",
+          "Darkness",
+          "Midday"
+        ],
+        "answer": 0,
+        "explanation": "Midnight significa meia-noite."
+      },
+      {
+        "prompt": "Como se diz \"Hoje é meu aniversário\"?",
+        "speech": "Today is my birthday",
+        "emoji": "🎂",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Today has my birth",
+          "Today is my birthday",
+          "I am anniversary",
+          "My year today"
+        ],
+        "answer": 1,
+        "explanation": "Birthday é aniversário de nascimento."
+      },
+      {
+        "prompt": "Qual preposição usamos antes de dias da semana?",
+        "speech": "On Monday",
+        "emoji": "📌",
+        "instruction": "Complete a regra",
+        "options": [
+          "on",
+          "in",
+          "at",
+          "by"
+        ],
+        "answer": 0,
+        "explanation": "Usa-se \"on\" para dias: \"on Monday\"."
+      }
+    ]
+  },
+  {
+    "id": "en-4",
+    "language": "en",
+    "level": "A1 · Iniciante",
+    "emoji": "☕",
+    "title": "Comidas, Bebidas & No Café",
+    "description": "Faça pedidos educados em cafeterias e restaurantes.",
+    "xp": 20,
+    "questions": [
+      {
+        "prompt": "Como pedir um café educadamente?",
+        "speech": "I would like a coffee, please",
+        "emoji": "☕",
+        "instruction": "Escolha o pedido educado",
+        "options": [
+          "I want coffee quickly",
+          "Give me coffee right now",
+          "I would like a coffee, please",
+          "Coffee bring here"
+        ],
+        "answer": 2,
+        "explanation": "\"I would like...\" significa \"Eu gostaria de...\"."
+      },
+      {
+        "prompt": "Como se diz \"A conta, por favor\"?",
+        "speech": "The check, please",
+        "emoji": "🧾",
+        "instruction": "Selecione a frase",
+        "options": [
+          "The count, please",
+          "The check, please",
+          "The price, now",
+          "Money, please"
+        ],
+        "answer": 1,
+        "explanation": "\"The check\" ou \"the bill\" refere-se à conta."
+      },
+      {
+        "prompt": "Qual é a palavra para \"Água com gás\"?",
+        "speech": "Sparkling water",
+        "emoji": "💧",
+        "instruction": "Escolha o termo",
+        "options": [
+          "Bubble drink",
+          "Gas water",
+          "Soda juice",
+          "Sparkling water"
+        ],
+        "answer": 3,
+        "explanation": "\"Sparkling water\" é água com gás."
+      },
+      {
+        "prompt": "O que significa \"Breakfast\"?",
+        "speech": "Breakfast",
+        "emoji": "🍳",
+        "instruction": "Identifique a refeição",
+        "options": [
+          "Almoço",
+          "Café da manhã",
+          "Jantar",
+          "Lanche da tarde"
+        ],
+        "answer": 1,
+        "explanation": "Breakfast é a primeira refeição do dia."
+      },
+      {
+        "prompt": "Qual alimento significa \"Pão\"?",
+        "speech": "Bread",
+        "emoji": "🍞",
+        "instruction": "Escolha a palavra",
+        "options": [
+          "Cheese",
+          "Butter",
+          "Bread",
+          "Beef"
+        ],
+        "answer": 2,
+        "explanation": "Bread é pão."
+      },
+      {
+        "prompt": "Como se diz \"Eu sou vegetariano\"?",
+        "speech": "I am vegetarian",
+        "emoji": "🥗",
+        "instruction": "Escolha a tradução",
+        "options": [
+          "I eat only grass",
+          "I have vegetarian",
+          "I am vegetarian",
+          "No meat I am"
+        ],
+        "answer": 2,
+        "explanation": "\"I am vegetarian\" é a frase correta."
+      },
+      {
+        "prompt": "O que o garçom quer saber com: \"Are you ready to order?\"",
+        "speech": "Are you ready to order?",
+        "emoji": "📋",
+        "instruction": "Interprete a pergunta",
+        "options": [
+          "Vocês já pagaram a conta?",
+          "Vocês estão prontos para pedir?",
+          "Onde vocês moram?",
+          "A comida está fria?"
+        ],
+        "answer": 1,
+        "explanation": "\"Ready to order\" significa pronto para fazer o pedido."
+      },
+      {
+        "prompt": "Qual é a tradução de \"Delicious\"?",
+        "speech": "Delicious",
+        "emoji": "😋",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Apimentado",
+          "Doce",
+          "Salgado",
+          "Delicioso / Muito gostoso"
+        ],
+        "answer": 3,
+        "explanation": "Delicious significa delicioso."
+      },
+      {
+        "prompt": "Como se diz \"Uma mesa para dois, por favor\"?",
+        "speech": "A table for two, please",
+        "emoji": "🍽️",
+        "instruction": "Selecione a frase",
+        "options": [
+          "Table with two men",
+          "Two chairs here",
+          "A desk for pair",
+          "A table for two, please"
+        ],
+        "answer": 3,
+        "explanation": "\"A table for two, please\" é a solicitação usual."
+      },
+      {
+        "prompt": "O que significa \"Tip\" em um restaurante nos EUA?",
+        "speech": "Tip",
+        "emoji": "💵",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Gorjeta para o garçom",
+          "Cardápio de sobremesas",
+          "A conta final",
+          "Um tipo de prato"
+        ],
+        "answer": 0,
+        "explanation": "Tip é a gorjeta nos EUA."
+      }
+    ]
+  },
+  {
+    "id": "en-5",
+    "language": "en",
+    "level": "A1 · Iniciante",
+    "emoji": "👨‍👩‍👧",
+    "title": "Família & Pessoas Próximas",
+    "description": "Fale sobre pais, irmãos, filhos e parentes.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como se diz \"Meus pais moram em Londres\"?",
+        "speech": "My parents live in London",
+        "emoji": "👨‍👩‍👧",
+        "instruction": "Escolha a tradução",
+        "options": [
+          "My parents live in London",
+          "My relatives lives in London",
+          "My father mother in London",
+          "My people live London"
+        ],
+        "answer": 0,
+        "explanation": "\"Parents\" significa pais (pai e mãe). Parente é \"relative\"."
+      },
+      {
+        "prompt": "Como se diz \"Irmão\" e \"Irmã\"?",
+        "speech": "Brother and Sister",
+        "emoji": "👫",
+        "instruction": "Escolha o par",
+        "options": [
+          "Son and Daughter",
+          "Father and Mother",
+          "Brother and Sister",
+          "Uncle and Aunt"
+        ],
+        "answer": 2,
+        "explanation": "Brother é irmão e Sister é irmã."
+      },
+      {
+        "prompt": "Qual é o termo para \"Avô\"?",
+        "speech": "Grandfather",
+        "emoji": "👴",
+        "instruction": "Selecione a palavra",
+        "options": [
+          "Grandfather",
+          "Father",
+          "Uncle",
+          "Nephew"
+        ],
+        "answer": 0,
+        "explanation": "Grandfather é avô."
+      },
+      {
+        "prompt": "Como se diz \"Filho\" e \"Filha\"?",
+        "speech": "Son and Daughter",
+        "emoji": "👶",
+        "instruction": "Identifique os termos",
+        "options": [
+          "Nephew and Niece",
+          "Boy and Girl",
+          "Child and Little",
+          "Son and Daughter"
+        ],
+        "answer": 3,
+        "explanation": "Son é filho e Daughter é filha."
+      },
+      {
+        "prompt": "O que significa \"Siblings\"?",
+        "speech": "Siblings",
+        "emoji": "👦👧",
+        "instruction": "Escolha o significado",
+        "options": [
+          "Primos",
+          "Irmãos e irmãs em geral",
+          "Padrinhos",
+          "Sobrinhos"
+        ],
+        "answer": 1,
+        "explanation": "\"Siblings\" engloba irmãos de ambos os sexos."
+      },
+      {
+        "prompt": "Como se diz \"Minha esposa\"?",
+        "speech": "My wife",
+        "emoji": "💍",
+        "instruction": "Identifique o termo",
+        "options": [
+          "My wife",
+          "My woman",
+          "My girl",
+          "My partneress"
+        ],
+        "answer": 0,
+        "explanation": "Wife é esposa."
+      },
+      {
+        "prompt": "Como se diz \"Meu marido trabalha aqui\"?",
+        "speech": "My husband works here",
+        "emoji": "💼",
+        "instruction": "Escolha a frase",
+        "options": [
+          "My husband work here",
+          "My man job here",
+          "My husband works here",
+          "My spouse is work"
+        ],
+        "answer": 2,
+        "explanation": "Husband é marido e com he usa-se works com -s."
+      },
+      {
+        "prompt": "Qual o significado de \"Uncle\" e \"Aunt\"?",
+        "speech": "Uncle and Aunt",
+        "emoji": "🏡",
+        "instruction": "Identifique os parentes",
+        "options": [
+          "Sogro e Sogra",
+          "Primo e Prima",
+          "Tio e Tia",
+          "Padrasto e Madrasta"
+        ],
+        "answer": 2,
+        "explanation": "Uncle é tio e Aunt é tia."
+      },
+      {
+        "prompt": "Como se diz \"Eu tenho dois primos\"?",
+        "speech": "I have two cousins",
+        "emoji": "👦👦",
+        "instruction": "Selecione a frase",
+        "options": [
+          "I have two nephews",
+          "I have two cousins",
+          "I has two cousins",
+          "I am with two cousins"
+        ],
+        "answer": 1,
+        "explanation": "Cousin serve tanto para primo quanto para prima."
+      },
+      {
+        "prompt": "Qual é o possessivo para \"dela\"?",
+        "speech": "Her car",
+        "emoji": "🚗",
+        "instruction": "Escolha o possessivo",
+        "options": [
+          "Its",
+          "His",
+          "Her",
+          "Their"
+        ],
+        "answer": 2,
+        "explanation": "\"Her\" significa dela (his é dele)."
+      }
+    ]
+  },
+  {
+    "id": "en-6",
+    "language": "en",
+    "level": "A2 · Básico",
+    "emoji": "🏠",
+    "title": "A Casa, Móveis & Cômodos",
+    "description": "Vocabulário da sala, cozinha, quarto e banheiro.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Onde fica a geladeira em uma casa?",
+        "speech": "In the kitchen",
+        "emoji": "🧊",
+        "instruction": "Identifique o cômodo",
+        "options": [
+          "In the kitchen",
+          "In the bedroom",
+          "In the bathroom",
+          "In the garden"
+        ],
+        "answer": 0,
+        "explanation": "Kitchen é cozinha."
+      },
+      {
+        "prompt": "Onde você dorme?",
+        "speech": "In the bedroom",
+        "emoji": "🛏️",
+        "instruction": "Escolha o cômodo",
+        "options": [
+          "In the garage",
+          "In the living room",
+          "In the bedroom",
+          "In the attic"
+        ],
+        "answer": 2,
+        "explanation": "Bedroom é o quarto."
+      },
+      {
+        "prompt": "Como se diz \"Sala de estar\"?",
+        "speech": "Living room",
+        "emoji": "🛋️",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Dining room",
+          "Living room",
+          "Restroom",
+          "Hallway"
+        ],
+        "answer": 1,
+        "explanation": "Living room é a sala de estar."
+      },
+      {
+        "prompt": "Qual móvel significa \"Mesa\"?",
+        "speech": "Table",
+        "emoji": "🪑",
+        "instruction": "Escolha a palavra",
+        "options": [
+          "Table",
+          "Chair",
+          "Couch",
+          "Shelf"
+        ],
+        "answer": 0,
+        "explanation": "Table é mesa."
+      },
+      {
+        "prompt": "Como se diz \"Eu moro em um apartamento\"?",
+        "speech": "I live in an apartment",
+        "emoji": "🏢",
+        "instruction": "Selecione a frase",
+        "options": [
+          "I live on flat",
+          "I stay in home",
+          "I have apartment",
+          "I live in an apartment"
+        ],
+        "answer": 3,
+        "explanation": "Usa-se \"I live in an apartment\"."
+      },
+      {
+        "prompt": "O que significa \"Mirror\"?",
+        "speech": "Mirror",
+        "emoji": "🪞",
+        "instruction": "Identifique o objeto",
+        "options": [
+          "Janela",
+          "Espelho",
+          "Tapete",
+          "Armário"
+        ],
+        "answer": 1,
+        "explanation": "Mirror é espelho."
+      },
+      {
+        "prompt": "Como se diz \"Abra a janela, por favor\"?",
+        "speech": "Open the window, please",
+        "emoji": "🪟",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Close the door now",
+          "Open the window, please",
+          "Clean the glass",
+          "Break the window"
+        ],
+        "answer": 1,
+        "explanation": "Window é janela."
+      },
+      {
+        "prompt": "Onde você toma banho?",
+        "speech": "In the bathroom",
+        "emoji": "🚿",
+        "instruction": "Identifique o local",
+        "options": [
+          "In the bathroom",
+          "In the kitchen",
+          "In the office",
+          "In the balcony"
+        ],
+        "answer": 0,
+        "explanation": "Bathroom é o banheiro."
+      },
+      {
+        "prompt": "Qual é a preposição em \"The keys are ___ the table\"?",
+        "speech": "On the table",
+        "emoji": "🔑",
+        "instruction": "Escolha a preposição",
+        "options": [
+          "on",
+          "in",
+          "at",
+          "under"
+        ],
+        "answer": 0,
+        "explanation": "Usa-se \"on\" para sobre uma superfície."
+      },
+      {
+        "prompt": "Como se diz \"Telhado\"?",
+        "speech": "Roof",
+        "emoji": "🏠",
+        "instruction": "Identifique a parte da casa",
+        "options": [
+          "Floor",
+          "Roof",
+          "Wall",
+          "Ceiling"
+        ],
+        "answer": 1,
+        "explanation": "Roof é o telhado externo."
+      }
+    ]
+  },
+  {
+    "id": "en-7",
+    "language": "en",
+    "level": "A2 · Básico",
+    "emoji": "🌅",
+    "title": "Rotina Diária & Simple Present",
+    "description": "Conjugue verbos e use o \"-s\" na terceira pessoa.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Complete: \"He ___ up at 7 AM every day.\"",
+        "speech": "He wakes up at 7 AM",
+        "emoji": "⏰",
+        "instruction": "Conjugue o verbo",
+        "options": [
+          "is wake",
+          "wake",
+          "waking",
+          "wakes"
+        ],
+        "answer": 3,
+        "explanation": "3ª pessoa singular recebe -s: wakes."
+      },
+      {
+        "prompt": "Como se diz \"Eu tomo banho pela manhã\"?",
+        "speech": "I take a shower in the morning",
+        "emoji": "🚿",
+        "instruction": "Escolha a frase",
+        "options": [
+          "I do shower early",
+          "I make a bath today",
+          "I take a shower in the morning",
+          "I am shower now"
+        ],
+        "answer": 2,
+        "explanation": "\"Take a shower\" é tomar banho."
+      },
+      {
+        "prompt": "Qual auxiliar usamos para perguntas no presente com \"You\"?",
+        "speech": "Do you work here?",
+        "emoji": "❓",
+        "instruction": "Identifique o auxiliar",
+        "options": [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "answer": 1,
+        "explanation": "Usa-se \"Do\" com I/you/we/they."
+      },
+      {
+        "prompt": "Qual auxiliar usamos para perguntas com \"She\"?",
+        "speech": "Does she live here?",
+        "emoji": "❓",
+        "instruction": "Identifique o auxiliar",
+        "options": [
+          "Do",
+          "Does",
+          "Has",
+          "Is"
+        ],
+        "answer": 1,
+        "explanation": "Usa-se \"Does\" com he/she/it."
+      },
+      {
+        "prompt": "O que significa o advérbio \"Always\"?",
+        "speech": "Always",
+        "emoji": "🔄",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Às vezes",
+          "Nunca",
+          "Sempre",
+          "Raramente"
+        ],
+        "answer": 2,
+        "explanation": "Always significa sempre."
+      },
+      {
+        "prompt": "O que significa \"Never\"?",
+        "speech": "Never",
+        "emoji": "🚫",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Talvez",
+          "Sempre",
+          "Nunca",
+          "Logo"
+        ],
+        "answer": 2,
+        "explanation": "Never significa nunca."
+      },
+      {
+        "prompt": "Como se diz \"Ele escova os dentes\"?",
+        "speech": "He brushes his teeth",
+        "emoji": "🪥",
+        "instruction": "Selecione a frase",
+        "options": [
+          "He brushes his teeth",
+          "He clean teeth",
+          "He brush tooth",
+          "He does teeth"
+        ],
+        "answer": 0,
+        "explanation": "Brushes recebe -es na 3ª pessoa."
+      },
+      {
+        "prompt": "Complete: \"They ___ soccer on weekends.\"",
+        "speech": "They play soccer on weekends",
+        "emoji": "⚽",
+        "instruction": "Complete com o verbo",
+        "options": [
+          "playing",
+          "plays",
+          "play",
+          "are play"
+        ],
+        "answer": 2,
+        "explanation": "Com They o verbo fica na forma base: play."
+      },
+      {
+        "prompt": "Como se diz \"Eu costumo ler antes de dormir\"?",
+        "speech": "I usually read before sleeping",
+        "emoji": "📖",
+        "instruction": "Escolha a frase",
+        "options": [
+          "I usually read before sleeping",
+          "I always sleep reading",
+          "I read for bed",
+          "I do read sleep"
+        ],
+        "answer": 0,
+        "explanation": "\"Usually\" significa habitualmente / costumo."
+      },
+      {
+        "prompt": "Qual a forma negativa de \"He works\"?",
+        "speech": "He does not work",
+        "emoji": "💼",
+        "instruction": "Identifique a negação",
+        "options": [
+          "He does not works",
+          "He not work",
+          "He no works",
+          "He does not work"
+        ],
+        "answer": 3,
+        "explanation": "Com o auxiliar \"does not\", o verbo principal volta à forma base."
+      }
+    ]
+  },
+  {
+    "id": "en-8",
+    "language": "en",
+    "level": "A2 · Básico",
+    "emoji": "🗺️",
+    "title": "Na Cidade & Pedindo Direções",
+    "description": "Aprenda turn left, turn right e go straight.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "O que significa \"Go straight and turn left\"?",
+        "speech": "Go straight and turn left",
+        "emoji": "🧭",
+        "instruction": "Escolha o sentido",
+        "options": [
+          "Vire à direita na praça",
+          "Siga em frente e vire à esquerda",
+          "Atravesse a rua e pare",
+          "Volte duas quadras"
+        ],
+        "answer": 1,
+        "explanation": "\"Go straight\" = siga em frente; \"Turn left\" = vire à esquerda."
+      },
+      {
+        "prompt": "Como perguntar \"Onde fica o banco mais próximo?\"?",
+        "speech": "Where is the nearest bank?",
+        "emoji": "🏦",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Where does bank go?",
+          "How is bank near?",
+          "What bank has here?",
+          "Where is the nearest bank?"
+        ],
+        "answer": 3,
+        "explanation": "\"Nearest\" significa o mais próximo."
+      },
+      {
+        "prompt": "Como se diz \"Vire à direita\"?",
+        "speech": "Turn right",
+        "emoji": "➡️",
+        "instruction": "Identifique a direção",
+        "options": [
+          "Turn right",
+          "Turn left",
+          "Go straight",
+          "Stop here"
+        ],
+        "answer": 0,
+        "explanation": "Turn right é vire à direita."
+      },
+      {
+        "prompt": "Como se chama a \"Faixa de pedestres\"?",
+        "speech": "Crosswalk",
+        "emoji": "🚶",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Sidewalk",
+          "Crosswalk",
+          "Highway",
+          "Bridge"
+        ],
+        "answer": 1,
+        "explanation": "Crosswalk (ou zebra crossing) é faixa de pedestres."
+      },
+      {
+        "prompt": "O que significa \"Between\"?",
+        "speech": "Between the bank and the pharmacy",
+        "emoji": "📍",
+        "instruction": "Identifique a preposição",
+        "options": [
+          "Entre dois lugares",
+          "Atrás de",
+          "Em frente a",
+          "Ao lado de"
+        ],
+        "answer": 0,
+        "explanation": "Between significa entre dois pontos."
+      },
+      {
+        "prompt": "Como se diz \"Em frente ao parque\"?",
+        "speech": "In front of the park",
+        "emoji": "🌳",
+        "instruction": "Escolha a frase",
+        "options": [
+          "In front of the park",
+          "Behind the park",
+          "Next park",
+          "Near from park"
+        ],
+        "answer": 0,
+        "explanation": "\"In front of\" é em frente a."
+      },
+      {
+        "prompt": "Como se chama a calçada para caminhar?",
+        "speech": "Sidewalk",
+        "emoji": "🚶‍♂️",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Sidewalk",
+          "Street",
+          "Road",
+          "Tunnel"
+        ],
+        "answer": 0,
+        "explanation": "Sidewalk é a calçada em inglês americano."
+      },
+      {
+        "prompt": "Como perguntar \"É longe daqui?\"?",
+        "speech": "Is it far from here?",
+        "emoji": "📍",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Is it long place?",
+          "Has distance now?",
+          "Is it far from here?",
+          "Where is far?"
+        ],
+        "answer": 2,
+        "explanation": "\"Far from here\" significa longe daqui."
+      },
+      {
+        "prompt": "Como se diz \"Fica na esquina\"?",
+        "speech": "It is on the corner",
+        "emoji": "📐",
+        "instruction": "Escolha a frase",
+        "options": [
+          "It is on the corner",
+          "It has corner",
+          "In the edge",
+          "On the side"
+        ],
+        "answer": 0,
+        "explanation": "\"On the corner\" é na esquina."
+      },
+      {
+        "prompt": "Como se diz \"Pegue o ônibus número 10\"?",
+        "speech": "Take bus number ten",
+        "emoji": "🚌",
+        "instruction": "Identifique a instrução",
+        "options": [
+          "Drive bus ten",
+          "Catch train ten",
+          "Take bus number ten",
+          "Make bus ten"
+        ],
+        "answer": 2,
+        "explanation": "Usa-se o verbo \"take\" para pegar transporte público."
+      }
+    ]
+  },
+  {
+    "id": "en-9",
+    "language": "en",
+    "level": "A2 · Básico",
+    "emoji": "🛍️",
+    "title": "Compras, Preços & No Shopping",
+    "description": "Pergunte How much does it cost? e negocie.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Qual frase pergunta o preço de uma camiseta?",
+        "speech": "How much is this T-shirt?",
+        "emoji": "👕",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "How much is this T-shirt?",
+          "How many cost this shirt?",
+          "What price are shirt?",
+          "Which money for this?"
+        ],
+        "answer": 0,
+        "explanation": "\"How much is...?\" pergunta o preço."
+      },
+      {
+        "prompt": "Como dizer \"Posso experimentar este casaco?\"?",
+        "speech": "Can I try this coat on?",
+        "emoji": "🧥",
+        "instruction": "Escolha a frase",
+        "options": [
+          "May I wear this coat?",
+          "Can I try this coat on?",
+          "Can I put coat now?",
+          "Do I use coat?"
+        ],
+        "answer": 1,
+        "explanation": "\"Try on\" é provar roupas."
+      },
+      {
+        "prompt": "O que significa \"Expensive\"?",
+        "speech": "Expensive",
+        "emoji": "🏷️",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Barato",
+          "Caro",
+          "Bonito",
+          "Antigo"
+        ],
+        "answer": 1,
+        "explanation": "Expensive é caro (cheap é barato)."
+      },
+      {
+        "prompt": "O que significa \"Cheap\"?",
+        "speech": "Cheap",
+        "emoji": "🏷️",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Pesado",
+          "Caro",
+          "Rápido",
+          "Barato"
+        ],
+        "answer": 3,
+        "explanation": "Cheap é barato."
+      },
+      {
+        "prompt": "Onde você experimenta roupas em uma loja?",
+        "speech": "In the fitting room",
+        "emoji": "🚪",
+        "instruction": "Identifique o local",
+        "options": [
+          "In the warehouse",
+          "In the restroom",
+          "In the fitting room",
+          "In the office"
+        ],
+        "answer": 2,
+        "explanation": "Fitting room é o provador."
+      },
+      {
+        "prompt": "Como se diz \"Tamanho médio\"?",
+        "speech": "Medium size",
+        "emoji": "📏",
+        "instruction": "Escolha o tamanho",
+        "options": [
+          "Half size",
+          "Middle size",
+          "Medium size",
+          "Center size"
+        ],
+        "answer": 2,
+        "explanation": "Tamanhos: Small (P), Medium (M), Large (G)."
+      },
+      {
+        "prompt": "Como perguntar \"Vocês aceitam cartão de crédito?\"?",
+        "speech": "Do you accept credit cards?",
+        "emoji": "💳",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Do you accept credit cards?",
+          "Can I give plastic?",
+          "Have you card here?",
+          "Credit card take?"
+        ],
+        "answer": 0,
+        "explanation": "\"Do you accept credit cards?\" é a pergunta formal."
+      },
+      {
+        "prompt": "O que é um \"Receipt\"?",
+        "speech": "Receipt",
+        "emoji": "🧾",
+        "instruction": "Identifique o documento",
+        "options": [
+          "Comprovante / Nota fiscal",
+          "Receita médica",
+          "Etiqueta de preço",
+          "Envelope"
+        ],
+        "answer": 0,
+        "explanation": "Receipt é recibo / comprovante de compra."
+      },
+      {
+        "prompt": "O que significa \"Discount\"?",
+        "speech": "Discount",
+        "emoji": "💰",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Aumento",
+          "Taxa extra",
+          "Devolução",
+          "Desconto no preço"
+        ],
+        "answer": 3,
+        "explanation": "Discount é desconto."
+      },
+      {
+        "prompt": "Como se diz \"É apenas uma olhadinha, obrigado\"?",
+        "speech": "I am just looking, thanks",
+        "emoji": "👀",
+        "instruction": "Escolha a resposta comum",
+        "options": [
+          "No money today",
+          "I don’t want buy",
+          "Leave me alone",
+          "I am just looking, thanks"
+        ],
+        "answer": 3,
+        "explanation": "\"I am just looking, thanks\" é a resposta educada a um vendedor."
+      }
+    ]
+  },
+  {
+    "id": "en-10",
+    "language": "en",
+    "level": "A2 · Básico",
+    "emoji": "🌦️",
+    "title": "Clima, Estações & Roupas",
+    "description": "Fale sobre sol, chuva, neve e temperatura.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como se diz \"Está chovendo muito hoje\"?",
+        "speech": "It is raining a lot today",
+        "emoji": "🌧️",
+        "instruction": "Escolha a frase correta",
+        "options": [
+          "Today does rain",
+          "It has rain today",
+          "Is rain much now",
+          "It is raining a lot today"
+        ],
+        "answer": 3,
+        "explanation": "Usa-se \"It is raining\" para tempo meteorológico."
+      },
+      {
+        "prompt": "Como se diz \"Está ensolarado e quente\"?",
+        "speech": "It is sunny and hot",
+        "emoji": "☀️",
+        "instruction": "Identifique a frase",
+        "options": [
+          "It is sunny and hot",
+          "It is sun with warm",
+          "Has sun today",
+          "Sun is high now"
+        ],
+        "answer": 0,
+        "explanation": "Sunny é ensolarado e hot é quente."
+      },
+      {
+        "prompt": "Qual é a estação do outono?",
+        "speech": "Autumn / Fall",
+        "emoji": "🍂",
+        "instruction": "Identifique a estação",
+        "options": [
+          "Spring",
+          "Autumn (ou Fall)",
+          "Summer",
+          "Winter"
+        ],
+        "answer": 1,
+        "explanation": "Outono é Autumn (Reino Unido) ou Fall (EUA)."
+      },
+      {
+        "prompt": "Qual é a estação das flores?",
+        "speech": "Spring",
+        "emoji": "🌸",
+        "instruction": "Identifique a estação",
+        "options": [
+          "Winter",
+          "Spring",
+          "Summer",
+          "Autumn"
+        ],
+        "answer": 1,
+        "explanation": "Spring é a primavera."
+      },
+      {
+        "prompt": "Como se diz \"Está nevando\"?",
+        "speech": "It is snowing",
+        "emoji": "❄️",
+        "instruction": "Escolha a frase",
+        "options": [
+          "It is snowing",
+          "It is ice now",
+          "Snow is dropping",
+          "Has white rain"
+        ],
+        "answer": 0,
+        "explanation": "Snowing é nevando."
+      },
+      {
+        "prompt": "O que significa \"Windy\"?",
+        "speech": "Windy",
+        "emoji": "💨",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Ensolarado",
+          "Com muito vento",
+          "Nublado",
+          "Seco"
+        ],
+        "answer": 1,
+        "explanation": "Windy significa ventoso / com vento."
+      },
+      {
+        "prompt": "O que você usa quando está chovendo?",
+        "speech": "An umbrella",
+        "emoji": "☂️",
+        "instruction": "Identifique o acessório",
+        "options": [
+          "Sandals",
+          "Sunglasses",
+          "Swimsuit",
+          "An umbrella"
+        ],
+        "answer": 3,
+        "explanation": "Umbrella é guarda-chuva."
+      },
+      {
+        "prompt": "Como se diz \"Previsão do tempo\"?",
+        "speech": "Weather forecast",
+        "emoji": "📺",
+        "instruction": "Identifique a expressão",
+        "options": [
+          "Rain calendar",
+          "Climate vision",
+          "Sky news",
+          "Weather forecast"
+        ],
+        "answer": 3,
+        "explanation": "Weather forecast é previsão do tempo."
+      },
+      {
+        "prompt": "Como dizer \"Está muito frio lá fora\"?",
+        "speech": "It is very cold outside",
+        "emoji": "🥶",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Makes cold out",
+          "Has ice outside",
+          "Outside is frozen",
+          "It is very cold outside"
+        ],
+        "answer": 3,
+        "explanation": "Cold é frio e outside é lá fora."
+      },
+      {
+        "prompt": "Qual é a temperatura de congelamento em graus Celsius?",
+        "speech": "Zero degrees",
+        "emoji": "🧊",
+        "instruction": "Identifique a resposta",
+        "options": [
+          "Hundred degrees",
+          "Ten degrees",
+          "Thirty degrees",
+          "Zero degrees"
+        ],
+        "answer": 3,
+        "explanation": "Zero degrees Celsius é ponto de congelamento."
+      }
+    ]
+  },
+  {
+    "id": "en-11",
+    "language": "en",
+    "level": "B1 · Intermediário",
+    "emoji": "✈️",
+    "title": "No Aeroporto & Imigração",
+    "description": "Check-in, portão de embarque e alfândega.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Onde você embarca no avião no aeroporto?",
+        "speech": "At the boarding gate",
+        "emoji": "🛫",
+        "instruction": "Identifique o local",
+        "options": [
+          "At the baggage claim",
+          "At the boarding gate",
+          "At the ticket counter",
+          "At the taxi stand"
+        ],
+        "answer": 1,
+        "explanation": "\"Boarding gate\" é o portão de embarque."
+      },
+      {
+        "prompt": "O que o oficial de imigração pergunta com: \"What is the purpose of your visit?\"",
+        "speech": "Purpose of visit",
+        "emoji": "🛂",
+        "instruction": "Interprete a pergunta",
+        "options": [
+          "Qual é seu hotel?",
+          "Quanto dinheiro você tem?",
+          "Onde está sua mala?",
+          "Qual o objetivo da sua viagem?"
+        ],
+        "answer": 3,
+        "explanation": "\"Purpose\" é o propósito / finalidade."
+      },
+      {
+        "prompt": "Como responder que você está viajando a turismo?",
+        "speech": "I am here for tourism",
+        "emoji": "🏖️",
+        "instruction": "Escolha a resposta",
+        "options": [
+          "I am walking here",
+          "I am here for tourism",
+          "I have tourist visa only",
+          "Just wandering around"
+        ],
+        "answer": 1,
+        "explanation": "\"I am here for tourism\" é a resposta clara e direta."
+      },
+      {
+        "prompt": "Como se chama a esteira onde você retira as malas?",
+        "speech": "Baggage claim",
+        "emoji": "🧳",
+        "instruction": "Identifique o local",
+        "options": [
+          "Check-in desk",
+          "Customs office",
+          "Baggage claim",
+          "Runway"
+        ],
+        "answer": 2,
+        "explanation": "Baggage claim é a restituição de bagagem."
+      },
+      {
+        "prompt": "O que é o \"Boarding pass\"?",
+        "speech": "Boarding pass",
+        "emoji": "🎫",
+        "instruction": "Identifique o documento",
+        "options": [
+          "Visto de entrada",
+          "Passaporte oficial",
+          "Cartão de embarque",
+          "Seguro viagem"
+        ],
+        "answer": 2,
+        "explanation": "Boarding pass é o cartão de embarque."
+      },
+      {
+        "prompt": "Como se diz \"Voo atrasado\"?",
+        "speech": "Delayed flight",
+        "emoji": "⏳",
+        "instruction": "Identifique o status",
+        "options": [
+          "On time flight",
+          "Canceled flight",
+          "Early flight",
+          "Delayed flight"
+        ],
+        "answer": 3,
+        "explanation": "Delayed significa atrasado."
+      },
+      {
+        "prompt": "O que significa \"Carry-on bag\"?",
+        "speech": "Carry-on bag",
+        "emoji": "🎒",
+        "instruction": "Identifique a bagagem",
+        "options": [
+          "Mochila escolar",
+          "Mala despachada pesada",
+          "Carrinho de malas",
+          "Mala de mão / bagagem de cabine"
+        ],
+        "answer": 3,
+        "explanation": "Carry-on bag é a mala de mão."
+      },
+      {
+        "prompt": "Como perguntar onde fica a esteira de bagagens?",
+        "speech": "Where is the baggage claim?",
+        "emoji": "🧳",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Where bags drop?",
+          "Where is the baggage claim?",
+          "Where is suitcase park?",
+          "Which luggage area?"
+        ],
+        "answer": 1,
+        "explanation": "\"Where is the baggage claim?\" é a pergunta exata."
+      },
+      {
+        "prompt": "O que significa \"Customs\"?",
+        "speech": "Customs",
+        "emoji": "👮",
+        "instruction": "Identifique o setor",
+        "options": [
+          "Alfândega",
+          "Polícia local",
+          "Banheiros",
+          "Loja duty-free"
+        ],
+        "answer": 0,
+        "explanation": "Customs é a alfândega."
+      },
+      {
+        "prompt": "Como dizer \"Quanto tempo dura o voo?\"?",
+        "speech": "How long is the flight?",
+        "emoji": "⏱️",
+        "instruction": "Escolha a pergunta",
+        "options": [
+          "How distance we fly?",
+          "What time flight has?",
+          "How long is the flight?",
+          "How much hours travel?"
+        ],
+        "answer": 2,
+        "explanation": "\"How long is...?\" pergunta a duração de tempo."
+      }
+    ]
+  },
+  {
+    "id": "en-12",
+    "language": "en",
+    "level": "B1 · Intermediário",
+    "emoji": "📜",
+    "title": "Passado Simples: Verbos Irregulares",
+    "description": "Domine went, saw, bought, took e thought.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Qual é o passado de \"buy\" (comprar)?",
+        "speech": "Bought",
+        "emoji": "💳",
+        "instruction": "Escolha o passado",
+        "options": [
+          "Buying",
+          "Buyed",
+          "Brought",
+          "Bought"
+        ],
+        "answer": 3,
+        "explanation": "O passado de buy é o irregular \"bought\"."
+      },
+      {
+        "prompt": "Qual é o passado de \"go\" (ir)?",
+        "speech": "Went",
+        "emoji": "🚶",
+        "instruction": "Escolha o passado",
+        "options": [
+          "Went",
+          "Goed",
+          "Gone",
+          "Going"
+        ],
+        "answer": 0,
+        "explanation": "O passado de go é \"went\"."
+      },
+      {
+        "prompt": "Qual é o passado de \"see\" (ver)?",
+        "speech": "Saw",
+        "emoji": "👀",
+        "instruction": "Escolha o passado",
+        "options": [
+          "Seed",
+          "Saw",
+          "Seen",
+          "Sight"
+        ],
+        "answer": 1,
+        "explanation": "O passado de see é \"saw\"."
+      },
+      {
+        "prompt": "Qual é o passado de \"eat\" (comer)?",
+        "speech": "Ate",
+        "emoji": "🍽️",
+        "instruction": "Escolha o passado",
+        "options": [
+          "Eating",
+          "Eaten",
+          "Eated",
+          "Ate"
+        ],
+        "answer": 3,
+        "explanation": "O passado de eat é \"ate\"."
+      },
+      {
+        "prompt": "Como negar no passado: \"Eu não assisti TV ontem\"?",
+        "speech": "I did not watch TV yesterday",
+        "emoji": "📺",
+        "instruction": "Selecione a negação",
+        "options": [
+          "I did not watched TV",
+          "I not watched TV",
+          "I no watch TV",
+          "I did not watch TV yesterday"
+        ],
+        "answer": 3,
+        "explanation": "Usa-se \"did not\" + verbo na forma base."
+      },
+      {
+        "prompt": "Qual o passado do verbo \"to have\" (ter)?",
+        "speech": "Had",
+        "emoji": "💼",
+        "instruction": "Identifique a forma",
+        "options": [
+          "Had",
+          "Haved",
+          "Has",
+          "Having"
+        ],
+        "answer": 0,
+        "explanation": "O passado de have é \"had\"."
+      },
+      {
+        "prompt": "Qual o passado de \"take\" (pegar / levar)?",
+        "speech": "Took",
+        "emoji": "📸",
+        "instruction": "Escolha o passado",
+        "options": [
+          "Tooken",
+          "Taked",
+          "Taken",
+          "Took"
+        ],
+        "answer": 3,
+        "explanation": "O passado de take é \"took\"."
+      },
+      {
+        "prompt": "Complete: \"Yesterday we ___ pizza for dinner.\"",
+        "speech": "Yesterday we had pizza",
+        "emoji": "🍕",
+        "instruction": "Complete a frase",
+        "options": [
+          "have",
+          "had",
+          "having",
+          "has"
+        ],
+        "answer": 1,
+        "explanation": "Ação no passado: had."
+      },
+      {
+        "prompt": "Qual é o passado de \"write\" (escrever)?",
+        "speech": "Wrote",
+        "emoji": "✍️",
+        "instruction": "Identifique o verbo",
+        "options": [
+          "Written",
+          "Wrote",
+          "Writed",
+          "Writing"
+        ],
+        "answer": 1,
+        "explanation": "O passado de write é \"wrote\"."
+      },
+      {
+        "prompt": "Como perguntar: \"Você foi à praia ontem?\"?",
+        "speech": "Did you go to the beach yesterday?",
+        "emoji": "🏖️",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Went you to beach?",
+          "Did you went to beach?",
+          "Did you go to the beach yesterday?",
+          "Do you went yesterday?"
+        ],
+        "answer": 2,
+        "explanation": "Na pergunta no passado com \"Did\", o verbo fica na forma base \"go\"."
+      }
+    ]
+  },
+  {
+    "id": "en-13",
+    "language": "en",
+    "level": "B1 · Intermediário",
+    "emoji": "🏨",
+    "title": "No Hotel, Hospedagem & Check-in",
+    "description": "Faça check-in, solicite toalhas e tire dúvidas.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como dizer \"Tenho uma reserva no nome de Silva\"?",
+        "speech": "I have a reservation under the name of Silva",
+        "emoji": "🛎️",
+        "instruction": "Selecione a frase",
+        "options": [
+          "I have a reservation under the name of Silva",
+          "I book room for Silva now",
+          "My name has hotel",
+          "I have one room Silva"
+        ],
+        "answer": 0,
+        "explanation": "\"Under the name of...\" é a expressão formal para reservas."
+      },
+      {
+        "prompt": "A que horas geralmente é o \"Check-out\"?",
+        "speech": "Check-out time",
+        "emoji": "🕚",
+        "instruction": "Identifique o horário comum",
+        "options": [
+          "Anytime you want",
+          "At midnight",
+          "At 6 AM",
+          "Around 11 AM or noon"
+        ],
+        "answer": 3,
+        "explanation": "Check-out costuma ser às 11h ou meio-dia."
+      },
+      {
+        "prompt": "Como pedir toalhas limpas para o quarto?",
+        "speech": "Could we have extra towels, please?",
+        "emoji": "🛁",
+        "instruction": "Escolha a solicitação",
+        "options": [
+          "Where is bathroom sheets?",
+          "Bring cloths quickly",
+          "Could we have extra towels, please?",
+          "I want clean paper"
+        ],
+        "answer": 2,
+        "explanation": "Towels são toalhas."
+      },
+      {
+        "prompt": "O que significa \"Wake-up call\"?",
+        "speech": "Wake-up call",
+        "emoji": "📞",
+        "instruction": "Identifique o serviço",
+        "options": [
+          "Serviço de despertador pelo telefone do hotel",
+          "Chamada internacional cara",
+          "Pedido de café da manhã",
+          "Aviso de incêndio"
+        ],
+        "answer": 0,
+        "explanation": "Wake-up call é o serviço de despertar."
+      },
+      {
+        "prompt": "Como perguntar se o café da manhã está incluído na diária?",
+        "speech": "Is breakfast included?",
+        "emoji": "🥐",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Is breakfast included?",
+          "Does hotel give free food?",
+          "Is morning coffee gratis?",
+          "Have we food price?"
+        ],
+        "answer": 0,
+        "explanation": "\"Is breakfast included?\" é a pergunta padrão."
+      },
+      {
+        "prompt": "Qual a palavra para \"Chave do quarto\"?",
+        "speech": "Room key / Keycard",
+        "emoji": "🔑",
+        "instruction": "Identifique o objeto",
+        "options": [
+          "Room key (ou Keycard)",
+          "Door code",
+          "Secret card",
+          "Lock opener"
+        ],
+        "answer": 0,
+        "explanation": "Room key ou keycard é a chave do quarto."
+      },
+      {
+        "prompt": "O que significa \"Single room\"?",
+        "speech": "Single room",
+        "emoji": "🛏️",
+        "instruction": "Identifique o tipo de quarto",
+        "options": [
+          "Quarto duplo de luxo",
+          "Quarto para uma pessoa (cama de solteiro)",
+          "Quarto sem banheiro",
+          "Suíte presidencial"
+        ],
+        "answer": 1,
+        "explanation": "Single room é quarto para uma pessoa."
+      },
+      {
+        "prompt": "Como dizer \"O ar-condicionado não está funcionando\"?",
+        "speech": "The air conditioning is not working",
+        "emoji": "❄️",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Cold machine is dead",
+          "The air conditioning is not working",
+          "Air is broken here",
+          "No cold wind now"
+        ],
+        "answer": 1,
+        "explanation": "\"Not working\" significa não está funcionando."
+      },
+      {
+        "prompt": "O que é o \"Elevator\"?",
+        "speech": "Elevator",
+        "emoji": "🛗",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Estacionamento",
+          "Escada de emergência",
+          "Recepção",
+          "Elevador"
+        ],
+        "answer": 3,
+        "explanation": "Elevator (EUA) ou Lift (Reino Unido) é o elevador."
+      },
+      {
+        "prompt": "O que significa a placa \"Do Not Disturb\"?",
+        "speech": "Do Not Disturb",
+        "emoji": "🚫",
+        "instruction": "Identifique o aviso",
+        "options": [
+          "Favor limpar o quarto",
+          "Não perturbe",
+          "Saída proibida",
+          "Quarto vago"
+        ],
+        "answer": 1,
+        "explanation": "\"Do Not Disturb\" significa não perturbe."
+      }
+    ]
+  },
+  {
+    "id": "en-14",
+    "language": "en",
+    "level": "B1 · Intermediário",
+    "emoji": "🏥",
+    "title": "Saúde, Sintomas & Na Farmácia",
+    "description": "Descreva dores e compre analgésicos.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como expressar \"Estou com dor de garganta\"?",
+        "speech": "I have a sore throat",
+        "emoji": "🤒",
+        "instruction": "Escolha a tradução",
+        "options": [
+          "I have a sore throat",
+          "My neck is pain",
+          "I am throat hurt",
+          "Pain in mouth"
+        ],
+        "answer": 0,
+        "explanation": "\"Sore throat\" é dor de garganta."
+      },
+      {
+        "prompt": "Como se diz \"Dor de cabeça\"?",
+        "speech": "Headache",
+        "emoji": "🤕",
+        "instruction": "Identifique o sintoma",
+        "options": [
+          "Toothache",
+          "Headache",
+          "Stomachache",
+          "Earache"
+        ],
+        "answer": 1,
+        "explanation": "Headache é dor de cabeça."
+      },
+      {
+        "prompt": "O que é um \"Painkiller\"?",
+        "speech": "Painkiller",
+        "emoji": "💊",
+        "instruction": "Identifique o medicamento",
+        "options": [
+          "Pomada para pele",
+          "Antibiótico forte",
+          "Xarope para tosse",
+          "Analgésico / remédio para dor"
+        ],
+        "answer": 3,
+        "explanation": "Painkiller é analgésico."
+      },
+      {
+        "prompt": "O que significa \"Prescription\"?",
+        "speech": "Prescription",
+        "emoji": "📄",
+        "instruction": "Identifique o documento",
+        "options": [
+          "Receita médica",
+          "Bula do remédio",
+          "Conta do hospital",
+          "Atestado de óbito"
+        ],
+        "answer": 0,
+        "explanation": "Prescription é a receita prescrita pelo médico."
+      },
+      {
+        "prompt": "Como dizer \"Estou com febre alta\"?",
+        "speech": "I have a high fever",
+        "emoji": "🌡️",
+        "instruction": "Escolha a frase",
+        "options": [
+          "I have a high fever",
+          "I am with hot temperature",
+          "My body is burning",
+          "I feel heat sick"
+        ],
+        "answer": 0,
+        "explanation": "Fever é febre."
+      },
+      {
+        "prompt": "Como se diz \"Eu sou alérgico a penicilina\"?",
+        "speech": "I am allergic to penicillin",
+        "emoji": "⚠️",
+        "instruction": "Selecione a declaração",
+        "options": [
+          "I am allergic to penicillin",
+          "I have allergy of penicillin",
+          "Penicillin makes me bad",
+          "No penicillin for me"
+        ],
+        "answer": 0,
+        "explanation": "\"I am allergic to...\" expressa alergia a algo."
+      },
+      {
+        "prompt": "O que significa \"Dizzy\"?",
+        "speech": "Dizzy",
+        "emoji": "😵",
+        "instruction": "Identifique a sensação",
+        "options": [
+          "Tonto / com vertigem",
+          "Sonolento",
+          "Com fome",
+          "Cansado"
+        ],
+        "answer": 0,
+        "explanation": "Dizzy significa tonto ou zonzo."
+      },
+      {
+        "prompt": "Como se chama o \"Xarope para tosse\"?",
+        "speech": "Cough syrup",
+        "emoji": "🥄",
+        "instruction": "Identifique o remédio",
+        "options": [
+          "Drop medicine",
+          "Throat juice",
+          "Cold water",
+          "Cough syrup"
+        ],
+        "answer": 3,
+        "explanation": "Cough syrup é xarope para tosse."
+      },
+      {
+        "prompt": "Como dizer \"Machuquei meu tornozelo\"?",
+        "speech": "I hurt my ankle",
+        "emoji": "🦶",
+        "instruction": "Escolha a frase",
+        "options": [
+          "I hurt my ankle",
+          "My foot is broken",
+          "I destroyed my leg",
+          "Pain in knee"
+        ],
+        "answer": 0,
+        "explanation": "Ankle é tornozelo e hurt é machucar."
+      },
+      {
+        "prompt": "Como se diz \"Melhoras logo!\" a um doente?",
+        "speech": "Get well soon!",
+        "emoji": "💐",
+        "instruction": "Escolha a mensagem carinhosa",
+        "options": [
+          "No more sick!",
+          "Be healthy now!",
+          "Recover quickly please!",
+          "Get well soon!"
+        ],
+        "answer": 3,
+        "explanation": "\"Get well soon!\" é a frase padrão para desejar melhoras."
+      }
+    ]
+  },
+  {
+    "id": "en-15",
+    "language": "en",
+    "level": "B1 · Intermediário",
+    "emoji": "💼",
+    "title": "Trabalho, Profissões & E-mails",
+    "description": "Escreva e-mails profissionais com clareza.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Como iniciar um e-mail formal em inglês?",
+        "speech": "Dear Mr. Smith",
+        "emoji": "✉️",
+        "instruction": "Escolha a saudação formal",
+        "options": [
+          "Hey dude",
+          "Dear Mr. Smith",
+          "What is up",
+          "Yo Smith"
+        ],
+        "answer": 1,
+        "explanation": "\"Dear Mr./Ms.\" é o início formal adequado."
+      },
+      {
+        "prompt": "Como encerrar um e-mail profissional cordialmente?",
+        "speech": "Best regards",
+        "emoji": "✍️",
+        "instruction": "Escolha a despedida profissional",
+        "options": [
+          "Bye bye",
+          "Kisses and hugs",
+          "Best regards",
+          "See you later alligator"
+        ],
+        "answer": 2,
+        "explanation": "\"Best regards\" ou \"Sincerely\" são encerramentos profissionais."
+      },
+      {
+        "prompt": "O que significa \"Deadline\"?",
+        "speech": "Deadline",
+        "emoji": "⏰",
+        "instruction": "Identifique o termo corporativo",
+        "options": [
+          "Prazo limite de entrega",
+          "Linha de chegada",
+          "Fim do expediente",
+          "Demissão em massa"
+        ],
+        "answer": 0,
+        "explanation": "Deadline é o prazo limite para finalizar uma tarefa."
+      },
+      {
+        "prompt": "O que é um \"Meeting\"?",
+        "speech": "Meeting",
+        "emoji": "👥",
+        "instruction": "Identifique o evento",
+        "options": [
+          "Almoço informal",
+          "Reunião de trabalho",
+          "Festa de aniversário",
+          "Entrevista de saída"
+        ],
+        "answer": 1,
+        "explanation": "Meeting é reunião."
+      },
+      {
+        "prompt": "Como se chama o currículo profissional em inglês americano?",
+        "speech": "Resume",
+        "emoji": "📄",
+        "instruction": "Identifique o documento",
+        "options": [
+          "Career paper",
+          "CV card",
+          "Job list",
+          "Resume"
+        ],
+        "answer": 3,
+        "explanation": "Resume (nos EUA) ou CV (no Reino Unido) é o currículo."
+      },
+      {
+        "prompt": "O que significa \"CEO\" (Chief Executive Officer)?",
+        "speech": "CEO",
+        "emoji": "👔",
+        "instruction": "Identifique o cargo",
+        "options": [
+          "Gerente de compras",
+          "Diretor executivo / Presidente da empresa",
+          "Chefe de segurança",
+          "Estagiário sênior"
+        ],
+        "answer": 1,
+        "explanation": "CEO é o presidente executivo."
+      },
+      {
+        "prompt": "Como dizer \"Anexo o relatório solicitado\"?",
+        "speech": "Please find attached the report",
+        "emoji": "📎",
+        "instruction": "Escolha a frase corporativa",
+        "options": [
+          "Look report inside",
+          "Please find attached the report",
+          "I put file together",
+          "Report is glued here"
+        ],
+        "answer": 1,
+        "explanation": "\"Please find attached...\" é a frase padrão para anexos."
+      },
+      {
+        "prompt": "O que é \"Overtime\"?",
+        "speech": "Overtime",
+        "emoji": "⏱️",
+        "instruction": "Identifique o termo de trabalho",
+        "options": [
+          "Tempo de descanso",
+          "Hora extra de trabalho",
+          "Férias remuneradas",
+          "Atraso tolerável"
+        ],
+        "answer": 1,
+        "explanation": "Overtime são horas extras."
+      },
+      {
+        "prompt": "Como dizer \"Estou fora do escritório até segunda\"?",
+        "speech": "I am out of the office until Monday",
+        "emoji": "🚪",
+        "instruction": "Selecione a resposta automática",
+        "options": [
+          "My desk is empty",
+          "I no work today Monday",
+          "I am out of the office until Monday",
+          "Gone away forever"
+        ],
+        "answer": 2,
+        "explanation": "Mensagem clássica de Out of Office (OOO)."
+      },
+      {
+        "prompt": "O que significa \"To hire\"?",
+        "speech": "To hire",
+        "emoji": "🤝",
+        "instruction": "Identifique o verbo",
+        "options": [
+          "Demitir alguém",
+          "Contratar um funcionário",
+          "Promover de cargo",
+          "Pedir aumento"
+        ],
+        "answer": 1,
+        "explanation": "Hire é contratar (fire é demitir)."
+      }
+    ]
+  },
+  {
+    "id": "en-16",
+    "language": "en",
+    "level": "B1 · Intermediário",
+    "emoji": "🌍",
+    "title": "Present Perfect & Experiências",
+    "description": "Use Have you ever...? para falar de viagens e vida.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Complete: \"Have you ever ___ sushi?\"",
+        "speech": "Have you ever eaten sushi?",
+        "emoji": "🍣",
+        "instruction": "Escolha o particípio",
+        "options": [
+          "eating",
+          "ate",
+          "eaten",
+          "eat"
+        ],
+        "answer": 2,
+        "explanation": "Present Perfect exige particípio passado: eaten."
+      },
+      {
+        "prompt": "Complete: \"I have lived in this city ___ five years.\"",
+        "speech": "For five years",
+        "emoji": "⏳",
+        "instruction": "Escolha for ou since",
+        "options": [
+          "since",
+          "for",
+          "during",
+          "from"
+        ],
+        "answer": 1,
+        "explanation": "Usa-se \"for\" para duração de tempo (5 anos)."
+      },
+      {
+        "prompt": "Complete: \"She has worked here ___ 2020.\"",
+        "speech": "Since 2020",
+        "emoji": "📅",
+        "instruction": "Escolha for ou since",
+        "options": [
+          "from",
+          "for",
+          "since",
+          "in"
+        ],
+        "answer": 2,
+        "explanation": "Usa-se \"since\" para ponto de início no tempo."
+      },
+      {
+        "prompt": "O que significa \"Already\" no Present Perfect?",
+        "speech": "I have already finished",
+        "emoji": "✅",
+        "instruction": "Identifique o sentido",
+        "options": [
+          "Sempre",
+          "Ainda não",
+          "Nunca",
+          "Já (ação realizada antes do esperado)"
+        ],
+        "answer": 3,
+        "explanation": "Already indica que a ação já foi concluída."
+      },
+      {
+        "prompt": "Onde colocamos \"Yet\" em frases interrogativas e negativas?",
+        "speech": "Have you finished yet?",
+        "emoji": "❓",
+        "instruction": "Identifique a posição",
+        "options": [
+          "Entre o sujeito e verbo",
+          "No início",
+          "No final da frase",
+          "Antes do particípio"
+        ],
+        "answer": 2,
+        "explanation": "Yet costuma vir no final da frase."
+      },
+      {
+        "prompt": "Complete: \"He has ___ visited Japan.\"",
+        "speech": "He has never visited Japan",
+        "emoji": "🇯🇵",
+        "instruction": "Complete a experiência",
+        "options": [
+          "ever",
+          "never",
+          "not ever",
+          "no"
+        ],
+        "answer": 1,
+        "explanation": "Never expressa que ele nunca visitou."
+      },
+      {
+        "prompt": "Qual a diferença entre \"have been to\" e \"have gone to\"?",
+        "speech": "Been to vs Gone to",
+        "emoji": "🧳",
+        "instruction": "Identifique a diferença",
+        "options": [
+          "\"Been to\" foi e voltou; \"Gone to\" ainda está lá",
+          "São idênticos",
+          "\"Gone to\" é no passado remoto",
+          "\"Been to\" é só para trabalho"
+        ],
+        "answer": 0,
+        "explanation": "Been to indica viagem completa com retorno."
+      },
+      {
+        "prompt": "Complete: \"We ___ just arrived home.\"",
+        "speech": "We have just arrived home",
+        "emoji": "🏡",
+        "instruction": "Complete com have/has",
+        "options": [
+          "had",
+          "has",
+          "have",
+          "are"
+        ],
+        "answer": 2,
+        "explanation": "Com \"We\" usa-se \"have\". Just indica que acabou de acontecer."
+      },
+      {
+        "prompt": "Como perguntar: \"Você já esteve em Nova York?\"?",
+        "speech": "Have you ever been to New York?",
+        "emoji": "🗽",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "Were you in NY ever?",
+          "Did you already go to NY?",
+          "Have you ever been to New York?",
+          "Have you gone NY?"
+        ],
+        "answer": 2,
+        "explanation": "\"Have you ever been to...?\" é a pergunta clássica."
+      },
+      {
+        "prompt": "Qual o particípio passado do verbo \"to write\"?",
+        "speech": "Written",
+        "emoji": "✍️",
+        "instruction": "Identifique a forma",
+        "options": [
+          "Writing",
+          "Wrote",
+          "Writed",
+          "Written"
+        ],
+        "answer": 3,
+        "explanation": "Write -> Wrote -> Written."
+      }
+    ]
+  },
+  {
+    "id": "en-17",
+    "language": "en",
+    "level": "B2 · Avançado",
+    "emoji": "🔮",
+    "title": "Futuro: Will vs Going To",
+    "description": "Previsões espontâneas vs planos organizados.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Para um plano já agendado e decidido com antecedência, usamos:",
+        "speech": "I am going to travel next month",
+        "emoji": "📆",
+        "instruction": "Selecione a frase correta",
+        "options": [
+          "I travel future",
+          "I will maybe travel tomorrow",
+          "I am going to travel next month",
+          "I shall to go"
+        ],
+        "answer": 2,
+        "explanation": "\"Going to\" é usado para planos pré-estabelecidos."
+      },
+      {
+        "prompt": "Para uma decisão tomada no instante em que se fala (espontânea), usamos:",
+        "speech": "I will answer the phone",
+        "emoji": "📞",
+        "instruction": "Identifique a estrutura",
+        "options": [
+          "Going to",
+          "Will (\"I will answer it\")",
+          "Present continuous",
+          "Past tense"
+        ],
+        "answer": 1,
+        "explanation": "Decisões no momento da fala usam \"will\"."
+      },
+      {
+        "prompt": "Para promessas solenes, qual estrutura é tradicional?",
+        "speech": "I promise I will help you",
+        "emoji": "🤝",
+        "instruction": "Identifique o auxiliar",
+        "options": [
+          "Might",
+          "Going to",
+          "Will",
+          "Must"
+        ],
+        "answer": 2,
+        "explanation": "Promessas utilizam \"will\": \"I will always love you\"."
+      },
+      {
+        "prompt": "Complete a previsão: \"Look at those dark clouds! It ___ rain.\"",
+        "speech": "It is going to rain",
+        "emoji": "⛈️",
+        "instruction": "Escolha pela evidência física",
+        "options": [
+          "would",
+          "will maybe",
+          "does",
+          "is going to"
+        ],
+        "answer": 3,
+        "explanation": "Com evidências visuais presentes usa-se \"is going to rain\"."
+      },
+      {
+        "prompt": "Qual a contração negativa de \"will not\"?",
+        "speech": "Won’t",
+        "emoji": "🚫",
+        "instruction": "Identifique a contração",
+        "options": [
+          "Won't",
+          "Willn't",
+          "Wont't",
+          "Wilt"
+        ],
+        "answer": 0,
+        "explanation": "Will not contrai-se para won't."
+      },
+      {
+        "prompt": "Como fazer uma oferta cordial com \"Shall\"?",
+        "speech": "Shall I carry your bag?",
+        "emoji": "🧳",
+        "instruction": "Selecione a frase polida",
+        "options": [
+          "Do I bag for you?",
+          "Will you make my bag?",
+          "Shall I carry your bag?",
+          "Shall bag be mine?"
+        ],
+        "answer": 2,
+        "explanation": "\"Shall I...?\" é oferta formal britânica."
+      },
+      {
+        "prompt": "Complete: \"By this time tomorrow, I ___ be flying to Paris.\"",
+        "speech": "I will be flying",
+        "emoji": "✈️",
+        "instruction": "Future continuous",
+        "options": [
+          "will",
+          "going",
+          "am",
+          "was"
+        ],
+        "answer": 0,
+        "explanation": "Will be flying indica ação contínua em progresso no futuro."
+      },
+      {
+        "prompt": "O que expressa a frase: \"I might visit my parents this weekend\"?",
+        "speech": "Might",
+        "emoji": "🏡",
+        "instruction": "Interprete o modal",
+        "options": [
+          "Uma ordem",
+          "Certeza absoluta",
+          "Uma obrigação legal",
+          "Uma possibilidade incerta (talvez eu visite)"
+        ],
+        "answer": 3,
+        "explanation": "Might expressa possibilidade com menor certeza."
+      },
+      {
+        "prompt": "Como dizer \"Não se preocupe, eu te ligo mais tarde\"?",
+        "speech": "Don’t worry, I will call you later",
+        "emoji": "📱",
+        "instruction": "Escolha a frase espontânea",
+        "options": [
+          "I call you after",
+          "No worry, I am to call",
+          "Don’t worry, I will call you later",
+          "Calm, I make call"
+        ],
+        "answer": 2,
+        "explanation": "Promessa / decisão espontânea com will."
+      },
+      {
+        "prompt": "O que significa \"As soon as I arrive, I will text you\"?",
+        "speech": "As soon as",
+        "emoji": "💬",
+        "instruction": "Identifique o sentido",
+        "options": [
+          "Antes de chegar eu ligo",
+          "Se eu chegar tarde, não mando nada",
+          "Assim que eu chegar, te mando mensagem",
+          "Enquanto eu viajo eu durmo"
+        ],
+        "answer": 2,
+        "explanation": "\"As soon as\" significa assim que / logo que."
+      }
+    ]
+  },
+  {
+    "id": "en-18",
+    "language": "en",
+    "level": "B2 · Avançado",
+    "emoji": "🧠",
+    "title": "Condicionais & Situações Hipotéticas",
+    "description": "Domine If I were you, I would take the offer.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Complete a 2ª condicional: \"If I won the lottery, I ___ buy a mansion.\"",
+        "speech": "I would buy",
+        "emoji": "🏰",
+        "instruction": "Complete no modo hipotético",
+        "options": [
+          "will",
+          "would",
+          "have",
+          "am"
+        ],
+        "answer": 1,
+        "explanation": "A 2ª condicional usa Past Simple + would."
+      },
+      {
+        "prompt": "Complete o conselho: \"If I ___ you, I would accept the job offer.\"",
+        "speech": "If I were you",
+        "emoji": "👔",
+        "instruction": "Identifique o subjuntivo formal",
+        "options": [
+          "will be",
+          "was",
+          "am",
+          "were"
+        ],
+        "answer": 3,
+        "explanation": "No inglês formal de hipótese usa-se \"were\" com I/he/she."
+      },
+      {
+        "prompt": "Qual condicional expressa verdades científicas universais (Zero Conditional)?",
+        "speech": "If you heat ice, it melts",
+        "emoji": "🧊",
+        "instruction": "Identifique a regra",
+        "options": [
+          "Will + Might",
+          "Past + Would",
+          "Present + Present (\"If you heat ice, it melts\")",
+          "Past perfect + Would have"
+        ],
+        "answer": 2,
+        "explanation": "Zero conditional usa presente nas duas orações."
+      },
+      {
+        "prompt": "Complete a 1ª condicional (realista): \"If it rains tomorrow, we ___ stay home.\"",
+        "speech": "We will stay home",
+        "emoji": "🌧️",
+        "instruction": "Escolha a consequência",
+        "options": [
+          "were",
+          "would",
+          "had",
+          "will"
+        ],
+        "answer": 3,
+        "explanation": "1ª condicional usa If + Present, Will + base form."
+      },
+      {
+        "prompt": "O que a 3ª condicional expressa (Third Conditional)?",
+        "speech": "If I had studied, I would have passed",
+        "emoji": "📜",
+        "instruction": "Identifique o sentido",
+        "options": [
+          "Planos para o próximo ano",
+          "Arrependimento ou hipótese sobre um passado impossível de mudar",
+          "Ordens imediatas",
+          "Fatos da física"
+        ],
+        "answer": 1,
+        "explanation": "A 3ª condicional trata do passado não ocorrido."
+      },
+      {
+        "prompt": "Complete: \"If you ___ told me earlier, I could have helped.\"",
+        "speech": "If you had told me",
+        "emoji": "🗣️",
+        "instruction": "Complete no passado perfeito",
+        "options": [
+          "have",
+          "had",
+          "would",
+          "did"
+        ],
+        "answer": 1,
+        "explanation": "Na 3ª condicional a condição leva had + particípio."
+      },
+      {
+        "prompt": "O que significa a palavra \"Unless\"?",
+        "speech": "Unless you hurry, you will miss the train",
+        "emoji": "⏳",
+        "instruction": "Identifique o conectivo",
+        "options": [
+          "A não ser que / A menos que",
+          "Porque",
+          "Desde que",
+          "Embora"
+        ],
+        "answer": 0,
+        "explanation": "\"Unless\" equivale a \"if not\" (a menos que)."
+      },
+      {
+        "prompt": "Complete: \"I will go to the party provided that you ___ with me.\"",
+        "speech": "Provided that you come",
+        "emoji": "🎉",
+        "instruction": "Identifique o conectivo condicional",
+        "options": [
+          "will come",
+          "came",
+          "come",
+          "had come"
+        ],
+        "answer": 2,
+        "explanation": "\"Provided that\" significa contanto que."
+      },
+      {
+        "prompt": "Como dizer \"Se eu soubesse, teria te avisado\"?",
+        "speech": "If I had known, I would have told you",
+        "emoji": "💡",
+        "instruction": "Selecione a 3ª condicional",
+        "options": [
+          "If I was knowing, I would tell",
+          "If I knew, I told you",
+          "If I know, I will tell",
+          "If I had known, I would have told you"
+        ],
+        "answer": 3,
+        "explanation": "Estrutura clássica de arrependimento no passado."
+      },
+      {
+        "prompt": "O que expressa a oração: \"Wish I were taller\"?",
+        "speech": "I wish",
+        "emoji": "📏",
+        "instruction": "Identifique o sentimento",
+        "options": [
+          "Previsão matemática",
+          "Desejo de uma realidade diferente no presente",
+          "Reclamação agressiva",
+          "Pergunta sobre altura"
+        ],
+        "answer": 1,
+        "explanation": "\"I wish + were\" expressa desejo no presente."
+      }
+    ]
+  },
+  {
+    "id": "en-19",
+    "language": "en",
+    "level": "B2 · Avançado",
+    "emoji": "⚡",
+    "title": "Phrasal Verbs Indispensáveis",
+    "description": "Aprenda look forward to, give up e run out of.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "O que significa o phrasal verb \"to give up\"?",
+        "speech": "Give up",
+        "emoji": "🏳️",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Subir escadas",
+          "Devolver um livro",
+          "Desistir / abandonar um esforço",
+          "Aumentar o volume"
+        ],
+        "answer": 2,
+        "explanation": "\"Give up\" significa desistir."
+      },
+      {
+        "prompt": "O que significa \"I am looking forward to our vacation\"?",
+        "speech": "Look forward to",
+        "emoji": "🏖️",
+        "instruction": "Interprete a frase",
+        "options": [
+          "Esqueci minhas férias",
+          "Estou com medo das férias",
+          "Cancelei minhas férias",
+          "Estou aguardando ansiosamente pelas férias"
+        ],
+        "answer": 3,
+        "explanation": "\"Look forward to\" significa aguardar com expectativa positiva."
+      },
+      {
+        "prompt": "O que significa \"We ran out of coffee\"?",
+        "speech": "Run out of",
+        "emoji": "☕",
+        "instruction": "Identifique a situação",
+        "options": [
+          "Nosso café acabou completamente",
+          "Derrubamos o café no chão",
+          "Tomamos café correndo",
+          "Compramos café demais"
+        ],
+        "answer": 0,
+        "explanation": "\"Run out of\" significa esgotar o estoque / ficar sem."
+      },
+      {
+        "prompt": "O que significa \"Turn off the lights\"?",
+        "speech": "Turn off",
+        "emoji": "💡",
+        "instruction": "Identifique a ação",
+        "options": [
+          "Trocar as lâmpadas",
+          "Ligar as luzes",
+          "Desligar / apagar as luzes",
+          "Comprar lâmpadas"
+        ],
+        "answer": 2,
+        "explanation": "Turn off é desligar ou apagar."
+      },
+      {
+        "prompt": "O que significa \"Put off the meeting\"?",
+        "speech": "Put off",
+        "emoji": "📅",
+        "instruction": "Identifique o sentido",
+        "options": [
+          "Adiar a reunião para outra data",
+          "Cancelar para sempre",
+          "Iniciar a reunião",
+          "Gritar na reunião"
+        ],
+        "answer": 0,
+        "explanation": "\"Put off\" significa adiar / postergar."
+      },
+      {
+        "prompt": "O que significa \"Find out\"?",
+        "speech": "Find out",
+        "emoji": "🔍",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Procurar sem achar",
+          "Perder um objeto",
+          "Inventar uma mentira",
+          "Descobrir uma informação"
+        ],
+        "answer": 3,
+        "explanation": "\"Find out\" significa descobrir ou se informar."
+      },
+      {
+        "prompt": "O que significa \"Call off the match\"?",
+        "speech": "Call off",
+        "emoji": "⚽",
+        "instruction": "Identifique a decisão",
+        "options": [
+          "Mudar o estádio",
+          "Comemorar o jogo",
+          "Aumentar o tempo",
+          "Cancelar a partida"
+        ],
+        "answer": 3,
+        "explanation": "\"Call off\" significa cancelar definitivamente."
+      },
+      {
+        "prompt": "O que significa \"Get along with someone\"?",
+        "speech": "Get along with",
+        "emoji": "🤝",
+        "instruction": "Identifique o relacionamento",
+        "options": [
+          "Brigar constantemente",
+          "Dar-se bem com alguém / ter boa convivência",
+          "Morar longe",
+          "Trabalhar junto por obrigação"
+        ],
+        "answer": 1,
+        "explanation": "\"Get along with\" significa ter bom relacionamento."
+      },
+      {
+        "prompt": "O que significa \"Look after my dog\"?",
+        "speech": "Look after",
+        "emoji": "🐕",
+        "instruction": "Identifique o cuidado",
+        "options": [
+          "Procurar meu cachorro perdido",
+          "Cuidar do meu cachorro",
+          "Comprar ração",
+          "Correr atrás do cão"
+        ],
+        "answer": 1,
+        "explanation": "\"Look after\" significa cuidar / zelar."
+      },
+      {
+        "prompt": "O que significa \"Figure out a solution\"?",
+        "speech": "Figure out",
+        "emoji": "🧩",
+        "instruction": "Identifique a habilidade",
+        "options": [
+          "Copiar de alguém",
+          "Criar mais problemas",
+          "Encontrar / compreender uma solução para um problema",
+          "Desistir da busca"
+        ],
+        "answer": 2,
+        "explanation": "\"Figure out\" significa desvendar ou solucionar."
+      }
+    ]
+  },
+  {
+    "id": "en-20",
+    "language": "en",
+    "level": "B2 · Avançado",
+    "emoji": "🎭",
+    "title": "Expressões Idiomáticas Nativas",
+    "description": "Entenda break a leg, piece of cake e hit the sack.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Quando alguém diz que um teste foi \"a piece of cake\", o que significa?",
+        "speech": "Piece of cake",
+        "emoji": "🍰",
+        "instruction": "Identifique a gíria",
+        "options": [
+          "Foi extremamente fácil / uma moleza",
+          "Foi muito gostoso",
+          "Foi longo e cansativo",
+          "Foi confuso"
+        ],
+        "answer": 0,
+        "explanation": "\"Piece of cake\" significa muito fácil."
+      },
+      {
+        "prompt": "O que significa desejar \"Break a leg\" a um artista antes do show?",
+        "speech": "Break a leg",
+        "emoji": "🎭",
+        "instruction": "Identifique o costume",
+        "options": [
+          "Boa sorte! (expressão teatral tradicional)",
+          "Espero que você caia",
+          "O show vai ser ruim",
+          "Cuidado com os degraus"
+        ],
+        "answer": 0,
+        "explanation": "\"Break a leg\" é a forma clássica de desejar boa sorte sem dar azar."
+      },
+      {
+        "prompt": "O que significa \"I feel under the weather today\"?",
+        "speech": "Under the weather",
+        "emoji": "🤒",
+        "instruction": "Identifique o estado de saúde",
+        "options": [
+          "Gosto de olhar as nuvens",
+          "Está chovendo na minha cidade",
+          "Estou com muito frio",
+          "Estou me sentindo indisposto ou meio doente"
+        ],
+        "answer": 3,
+        "explanation": "\"Under the weather\" significa estar adoentado ou indisposto."
+      },
+      {
+        "prompt": "O que significa \"Hit the sack\"?",
+        "speech": "Hit the sack",
+        "emoji": "🛏️",
+        "instruction": "Identifique a ação cotidiana",
+        "options": [
+          "Ir às compras",
+          "Bater em um saco de boxe",
+          "Ir dormir / ir para a cama",
+          "Trabalhar no campo"
+        ],
+        "answer": 2,
+        "explanation": "\"Hit the sack\" significa ir dormir."
+      },
+      {
+        "prompt": "O que significa a expressão \"Once in a blue moon\"?",
+        "speech": "Once in a blue moon",
+        "emoji": "🌕",
+        "instruction": "Identifique a frequência",
+        "options": [
+          "Todos os meses",
+          "Raramente / quase nunca",
+          "Toda semana",
+          "Nas noites de verão"
+        ],
+        "answer": 1,
+        "explanation": "\"Once in a blue moon\" expressa algo muito raro."
+      },
+      {
+        "prompt": "O que significa \"Cost an arm and a leg\"?",
+        "speech": "Cost an arm and a leg",
+        "emoji": "💸",
+        "instruction": "Identifique o valor",
+        "options": [
+          "Ser doado de graça",
+          "Ser muito barato",
+          "Custar os olhos da cara / ser caríssimo",
+          "Estar quebrado"
+        ],
+        "answer": 2,
+        "explanation": "Significa custar uma fortuna."
+      },
+      {
+        "prompt": "O que significa \"Bite the bullet\"?",
+        "speech": "Bite the bullet",
+        "emoji": "😬",
+        "instruction": "Identifique a atitude",
+        "options": [
+          "Fugir do perigo",
+          "Comer rápido demais",
+          "Discutir com alguém",
+          "Enfrentar uma situação difícil com coragem"
+        ],
+        "answer": 3,
+        "explanation": "\"Bite the bullet\" é encarar o inevitável com firmeza."
+      },
+      {
+        "prompt": "O que significa \"Spill the beans\"?",
+        "speech": "Spill the beans",
+        "emoji": "🤫",
+        "instruction": "Identifique a atitude",
+        "options": [
+          "Revelar um segredo acidentalmente ou por fofoca",
+          "Derrubar o prato de comida",
+          "Cozinhar feijão",
+          "Guardar silêncio absoluto"
+        ],
+        "answer": 0,
+        "explanation": "\"Spill the beans\" significa abrir o bico / contar o segredo."
+      },
+      {
+        "prompt": "O que significa \"Burn the midnight oil\"?",
+        "speech": "Burn the midnight oil",
+        "emoji": "🕯️",
+        "instruction": "Identifique o hábito de estudo",
+        "options": [
+          "Desperdiçar energia elétrica",
+          "Acender fogueiras à noite",
+          "Trabalhar ou estudar até altas horas da madrugada",
+          "Dormir muito cedo"
+        ],
+        "answer": 2,
+        "explanation": "Significa virar a noite estudando ou trabalhando."
+      },
+      {
+        "prompt": "O que significa \"See eye to eye with someone\"?",
+        "speech": "See eye to eye",
+        "emoji": "👀",
+        "instruction": "Identifique a harmonia",
+        "options": [
+          "Ter a mesma altura física",
+          "Olhar com raiva",
+          "Concordar plenamente com alguém",
+          "Usar óculos idênticos"
+        ],
+        "answer": 2,
+        "explanation": "\"See eye to eye\" significa estar em total concordância."
+      }
+    ]
+  }
+]

@@ -1,0 +1,3022 @@
+[
+  {
+    "id": "es-1",
+    "language": "es",
+    "level": "A1 · Iniciante",
+    "emoji": "🇪🇸",
+    "title": "Pronúncia & Fonética Hispânica",
+    "description": "Aprenda os sons do J, LL, Ñ e o R vibrante.",
+    "xp": 20,
+    "questions": [
+      {
+        "prompt": "Qual som tem a letra \"J\" em espanhol (ex: \"Jardín\")?",
+        "speech": "Jardín",
+        "emoji": "🌸",
+        "instruction": "Escolha a pronúncia correta",
+        "options": [
+          "Som mudo",
+          "Som de J em português",
+          "Som gutural aspirado (como o R forte)",
+          "Som de S"
+        ],
+        "answer": 2,
+        "explanation": "O \"J\" em espanhol soa como um R aspirado forte."
+      },
+      {
+        "prompt": "Como se pronuncia o dígrafo \"LL\" na maioria dos países hispânicos?",
+        "speech": "Calle",
+        "emoji": "🛣️",
+        "instruction": "Identifique o fonema",
+        "options": [
+          "Som de \"L\" duplo demorado",
+          "Som de \"i\" ou \"dj\" suave (ex: caye / cadje)",
+          "Som de \"lh\" igual ao português",
+          "Totalmente mudo"
+        ],
+        "answer": 1,
+        "explanation": "O \"yeísmo\" pronuncia o LL como semivogal \"i\" ou \"dj\" brando."
+      },
+      {
+        "prompt": "Qual palavra contém a consoante exclusiva do espanhol \"Ñ\"?",
+        "speech": "Niño",
+        "emoji": "🧒",
+        "instruction": "Selecione a palavra com \"ñ\"",
+        "options": [
+          "Niño",
+          "Nino",
+          "Ninho",
+          "Nito"
+        ],
+        "answer": 0,
+        "explanation": "A letra \"Ñ\" tem som de \"nh\" em português."
+      },
+      {
+        "prompt": "Como soa a letra \"Z\" na pronúncia padrão da Espanha?",
+        "speech": "Zapato",
+        "emoji": "👞",
+        "instruction": "Identifique o som peninsular",
+        "options": [
+          "Com a língua entre os dentes (ceceio similar ao th inglês)",
+          "Som de Z em zebra",
+          "Som de S agudo",
+          "Som de CH"
+        ],
+        "answer": 0,
+        "explanation": "Na Espanha peninsular, a letra Z tem som interdental."
+      },
+      {
+        "prompt": "Como soa o \"R\" duplo em \"Perro\" (cachorro)?",
+        "speech": "Perro",
+        "emoji": "🐕",
+        "instruction": "Identifique a pronúncia do RR",
+        "options": [
+          "Na garganta como no francês",
+          "Vibrante múltiplo na ponta da língua",
+          "Mudo",
+          "Como o S sonoro"
+        ],
+        "answer": 1,
+        "explanation": "O \"RR\" espanhol vibra na ponta da língua contra os alvéolos."
+      },
+      {
+        "prompt": "A letra \"H\" no início de \"Hola\" tem qual som?",
+        "speech": "Hola",
+        "emoji": "👋",
+        "instruction": "Escolha o som da letra H",
+        "options": [
+          "Aspirada como em inglês",
+          "Completamente muda",
+          "Som de R forte",
+          "Som de J"
+        ],
+        "answer": 1,
+        "explanation": "Em espanhol a letra \"H\" é sempre muda (salvo em estrangeirismos)."
+      },
+      {
+        "prompt": "Qual a diferença fonética entre \"B\" e \"V\" em espanhol?",
+        "speech": "Beso y Vino",
+        "emoji": "🍷",
+        "instruction": "Identifique a regra",
+        "options": [
+          "Na maioria dos dialetos têm exatamente o mesmo som bilabial",
+          "O V é labiodental vibrante e o B não",
+          "O V é sempre mudo",
+          "O B soa como P"
+        ],
+        "answer": 0,
+        "explanation": "Em espanhol falado, B e V têm praticamente a mesma pronúncia."
+      },
+      {
+        "prompt": "Como se pronuncia a letra \"C\" antes de E e I na Espanha?",
+        "speech": "Cinco",
+        "emoji": "5️⃣",
+        "instruction": "Identifique o som",
+        "options": [
+          "Som de Ch",
+          "Som de K",
+          "Interdental (língua entre os dentes)",
+          "Som de T"
+        ],
+        "answer": 2,
+        "explanation": "Na Espanha, \"ce\" e \"ci\" ceceiam como o Z."
+      },
+      {
+        "prompt": "Qual palavra significa \"amarelo\" com som de \"ll\"?",
+        "speech": "Amarillo",
+        "emoji": "🟡",
+        "instruction": "Identifique a cor",
+        "options": [
+          "Azul",
+          "Rojo",
+          "Amarillo",
+          "Verde"
+        ],
+        "answer": 2,
+        "explanation": "Amarillo é amarelo em espanhol."
+      },
+      {
+        "prompt": "Como se diz \"Espanha\" em espanhol com a letra Ñ?",
+        "speech": "España",
+        "emoji": "🇪🇸",
+        "instruction": "Escolha a grafia correta",
+        "options": [
+          "Espanha",
+          "España",
+          "Espania",
+          "Espana"
+        ],
+        "answer": 1,
+        "explanation": "A grafia oficial é \"España\" com a letra ñ."
+      }
+    ]
+  },
+  {
+    "id": "es-2",
+    "language": "es",
+    "level": "A1 · Iniciante",
+    "emoji": "👋",
+    "title": "Saludos, Cortesía & ¿Cómo te llamas?",
+    "description": "Primeiras palavras para quebrar o gelo em espanhol.",
+    "xp": 20,
+    "questions": [
+      {
+        "prompt": "Como se responde educadamente a \"Mucho gusto\"?",
+        "speech": "Mucho gusto",
+        "emoji": "🤝",
+        "instruction": "Selecione a resposta",
+        "options": [
+          "Encantado de conocerte",
+          "Hasta la vista",
+          "Tengo hambre",
+          "Por favor"
+        ],
+        "answer": 0,
+        "explanation": "\"Encantado\" ou \"El gusto es mío\" responde a Mucho gusto."
+      },
+      {
+        "prompt": "Como se diz \"Por favor\" em espanhol?",
+        "speech": "Por favor",
+        "emoji": "🙏",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Con permiso",
+          "Por gentileza",
+          "De nada",
+          "Por favor"
+        ],
+        "answer": 3,
+        "explanation": "\"Por favor\" escreve-se da mesma forma."
+      },
+      {
+        "prompt": "Como perguntar o nome de alguém informalmente?",
+        "speech": "¿Cómo te llamas?",
+        "emoji": "💬",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "¿Cómo te llamas?",
+          "¿Quién tiene nombre?",
+          "¿Cuál es su llamar?",
+          "¿Dónde te llamas?"
+        ],
+        "answer": 0,
+        "explanation": "\"¿Cómo te llamas?\" pergunta o nome informalmente."
+      },
+      {
+        "prompt": "Como responder \"Eu me chamo Carlos\"?",
+        "speech": "Me llamo Carlos",
+        "emoji": "👤",
+        "instruction": "Escolha a resposta",
+        "options": [
+          "Carlos es mi",
+          "Yo nombre Carlos",
+          "Mi llamar Carlos",
+          "Me llamo Carlos"
+        ],
+        "answer": 3,
+        "explanation": "\"Me llamo...\" é a resposta natural."
+      },
+      {
+        "prompt": "Qual saudação é usada durante a tarde?",
+        "speech": "Buenas tardes",
+        "emoji": "🌇",
+        "instruction": "Identifique a saudação",
+        "options": [
+          "Buenas tardes",
+          "Buenos días",
+          "Buenas noches",
+          "Hola tarde"
+        ],
+        "answer": 0,
+        "explanation": "Buenas tardes é boa tarde."
+      },
+      {
+        "prompt": "Como se diz \"Até logo\" em espanhol?",
+        "speech": "Hasta luego",
+        "emoji": "👋",
+        "instruction": "Escolha a despedida",
+        "options": [
+          "Hasta ayer",
+          "Hasta nunca",
+          "Chao sempre",
+          "Hasta luego"
+        ],
+        "answer": 3,
+        "explanation": "\"Hasta luego\" significa até logo."
+      },
+      {
+        "prompt": "O que significa \"Con permiso\"?",
+        "speech": "Con permiso",
+        "emoji": "🚪",
+        "instruction": "Identifique a cortesia",
+        "options": [
+          "Obrigado",
+          "Com licença",
+          "Desculpe",
+          "De nada"
+        ],
+        "answer": 1,
+        "explanation": "\"Con permiso\" pede licença para passar ou entrar."
+      },
+      {
+        "prompt": "Como se diz \"Muito obrigado\" em espanhol?",
+        "speech": "Muchas gracias",
+        "emoji": "💐",
+        "instruction": "Escolha o agradecimento",
+        "options": [
+          "Muito obrigado",
+          "Muchas gracias",
+          "Mucha gratitud",
+          "Graçias"
+        ],
+        "answer": 1,
+        "explanation": "\"Muchas gracias\" expressa gratidão."
+      },
+      {
+        "prompt": "Como se responde a \"Muchas gracias\"?",
+        "speech": "De nada",
+        "emoji": "😊",
+        "instruction": "Escolha a resposta",
+        "options": [
+          "Por favor",
+          "De nada",
+          "Perdón",
+          "Hasta pronto"
+        ],
+        "answer": 1,
+        "explanation": "\"De nada\" é a resposta usual."
+      },
+      {
+        "prompt": "Como dizer \"Desculpe\" para pedir desculpas por um esbarrão?",
+        "speech": "Perdón / Disculpe",
+        "emoji": "🙇",
+        "instruction": "Identifique o pedido de desculpas",
+        "options": [
+          "Perdón (ou Disculpe)",
+          "Gracias",
+          "Hola",
+          "Encantado"
+        ],
+        "answer": 0,
+        "explanation": "Perdón ou Disculpe serve para pedir desculpas."
+      }
+    ]
+  },
+  {
+    "id": "es-3",
+    "language": "es",
+    "level": "A1 · Iniciante",
+    "emoji": "🔢",
+    "title": "Números, Fechas & La Hora",
+    "description": "Aprenda uno, dos, tres, lunes e ¿Qué hora es?",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como se diz \"São duas horas da tarde\"?",
+        "speech": "Son las dos de la tarde",
+        "emoji": "⏰",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Son las dos de la tarde",
+          "Es las dos de la tarde",
+          "Son dos horas tarde",
+          "Tiene dos horas"
+        ],
+        "answer": 0,
+        "explanation": "A partir das 2h usa-se \"Son las...\". Para 1h: \"Es la una\"."
+      },
+      {
+        "prompt": "Como se diz \"É uma hora em ponto\"?",
+        "speech": "Es la una en punto",
+        "emoji": "🕐",
+        "instruction": "Identifique a hora singular",
+        "options": [
+          "Es la una en punto",
+          "Son la una en punto",
+          "Tiene una hora",
+          "Está la una"
+        ],
+        "answer": 0,
+        "explanation": "A 1h é singular: \"Es la una\"."
+      },
+      {
+        "prompt": "Qual é o número \"15\" em espanhol?",
+        "speech": "Quince",
+        "emoji": "1️⃣5️⃣",
+        "instruction": "Escolha o número",
+        "options": [
+          "Diez y cinco",
+          "Cinco",
+          "Cincuenta",
+          "Quince"
+        ],
+        "answer": 3,
+        "explanation": "15 em espanhol é \"Quince\"."
+      },
+      {
+        "prompt": "Qual é o número \"30\" em espanhol?",
+        "speech": "Treinta",
+        "emoji": "3️⃣0️⃣",
+        "instruction": "Escolha o número",
+        "options": [
+          "Treinta",
+          "Trece",
+          "Tres",
+          "Treintena"
+        ],
+        "answer": 0,
+        "explanation": "30 é Treinta (13 é Trece)."
+      },
+      {
+        "prompt": "Como se diz \"Segunda-feira\" em espanhol?",
+        "speech": "Lunes",
+        "emoji": "📅",
+        "instruction": "Identifique o dia",
+        "options": [
+          "Viernes",
+          "Martes",
+          "Miércoles",
+          "Lunes"
+        ],
+        "answer": 3,
+        "explanation": "Segunda-feira é Lunes."
+      },
+      {
+        "prompt": "Qual é o dia de \"Sexta-feira\"?",
+        "speech": "Viernes",
+        "emoji": "🗓️",
+        "instruction": "Identifique o dia",
+        "options": [
+          "Sábado",
+          "Jueves",
+          "Viernes",
+          "Domingo"
+        ],
+        "answer": 2,
+        "explanation": "Sexta-feira é Viernes."
+      },
+      {
+        "prompt": "Qual mês do ano corresponde a \"Mayo\"?",
+        "speech": "Mayo",
+        "emoji": "🌸",
+        "instruction": "Identifique o mês",
+        "options": [
+          "Maio",
+          "Março",
+          "Mês",
+          "Meio"
+        ],
+        "answer": 0,
+        "explanation": "Mayo é o mês de maio."
+      },
+      {
+        "prompt": "Como se diz \"Hoje é sábado, 10 de outubro\"?",
+        "speech": "Hoy es sábado diez de octubre",
+        "emoji": "🍂",
+        "instruction": "Selecione a data",
+        "options": [
+          "Sábado diez es hoy",
+          "Hoy tiene diez octubre",
+          "Ahora es sábado diez",
+          "Hoy es sábado, diez de octubre"
+        ],
+        "answer": 3,
+        "explanation": "Datas usam \"Hoy es [dia] de [mês]\"."
+      },
+      {
+        "prompt": "Como se diz \"Quinze para as quatro\" (3:45)?",
+        "speech": "Las cuatro menos cuarto",
+        "emoji": "🕒",
+        "instruction": "Identifique as horas",
+        "options": [
+          "Falta quince cuatro",
+          "Tres y cuarenta cinco minutos",
+          "Cuatro antes quince",
+          "Las cuatro menos cuarto"
+        ],
+        "answer": 3,
+        "explanation": "Em espanhol usa-se \"menos cuarto\" para 15 para a hora."
+      },
+      {
+        "prompt": "Qual é a palavra para \"Ano bissexto\"?",
+        "speech": "Año bisiesto",
+        "emoji": "📆",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Año largo",
+          "Año doble",
+          "Año bisiesto",
+          "Año de febrero"
+        ],
+        "answer": 2,
+        "explanation": "Año bisiesto é o ano de 366 dias."
+      }
+    ]
+  },
+  {
+    "id": "es-4",
+    "language": "es",
+    "level": "A1 · Iniciante",
+    "emoji": "🥘",
+    "title": "En el Café, Tapas & Restaurante",
+    "description": "Peça la cuenta por favor, agua con gas e tapas.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como pedir a conta ao garçom?",
+        "speech": "La cuenta, por favor",
+        "emoji": "🧾",
+        "instruction": "Selecione o pedido",
+        "options": [
+          "La cuenta, por favor",
+          "El dinero, gracias",
+          "La suma aquí",
+          "El ticket ahora"
+        ],
+        "answer": 0,
+        "explanation": "\"La cuenta, por favor\" é universal."
+      },
+      {
+        "prompt": "Como pedir água mineral sem gás?",
+        "speech": "Agua sin gas, por favor",
+        "emoji": "💧",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Agua fresca sem gas",
+          "Agua natural pura",
+          "Agua quieta gracias",
+          "Agua sin gas, por favor"
+        ],
+        "answer": 3,
+        "explanation": "Usa-se \"Agua sin gas\"."
+      },
+      {
+        "prompt": "O que são as tradicionais \"Tapas\" na Espanha?",
+        "speech": "Tapas",
+        "emoji": "🍢",
+        "instruction": "Identifique o prato",
+        "options": [
+          "Pequenas porções de petiscos servidas com bebida",
+          "Sobremesas de chocolate",
+          "Sopas quentes de inverno",
+          "Prato gigante individual"
+        ],
+        "answer": 0,
+        "explanation": "Tapas são pequenas porções para compartilhar."
+      },
+      {
+        "prompt": "Qual prato espanhol é feito com arroz, açafrão e frutos do mar?",
+        "speech": "Paella",
+        "emoji": "🥘",
+        "instruction": "Identifique a iguaria",
+        "options": [
+          "Gazpacho",
+          "Paella",
+          "Churros",
+          "Tortilla de patatas"
+        ],
+        "answer": 1,
+        "explanation": "A Paella é o prato emblemático de Valência."
+      },
+      {
+        "prompt": "O que significa \"La carta\" no restaurante?",
+        "speech": "La carta",
+        "emoji": "📋",
+        "instruction": "Identifique o objeto",
+        "options": [
+          "A carta de correio",
+          "O cardápio / menu",
+          "A nota fiscal",
+          "A toalha de mesa"
+        ],
+        "answer": 1,
+        "explanation": "La carta é o cardápio."
+      },
+      {
+        "prompt": "Como se diz \"Café com leite\"?",
+        "speech": "Café con leche",
+        "emoji": "☕",
+        "instruction": "Identifique a bebida",
+        "options": [
+          "Café con crema",
+          "Café con leche",
+          "Leche con café",
+          "Café cortado solo"
+        ],
+        "answer": 1,
+        "explanation": "Café con leche é a bebida tradicional."
+      },
+      {
+        "prompt": "O que é um \"Café solo\"?",
+        "speech": "Café solo",
+        "emoji": "☕",
+        "instruction": "Identifique o preparo",
+        "options": [
+          "Café preto / expresso puro sem leite",
+          "Café com canela",
+          "Café gelado",
+          "Café com açúcar duplo"
+        ],
+        "answer": 0,
+        "explanation": "Café solo é o expresso puro."
+      },
+      {
+        "prompt": "Como dizer \"Está delicioso!\" em espanhol?",
+        "speech": "¡Está muy rico!",
+        "emoji": "😋",
+        "instruction": "Escolha o elogio gastronômico",
+        "options": [
+          "¡Está muy rico! (ou ¡Está delicioso!)",
+          "¡Es mucho sabor!",
+          "¡Tiene gusto alto!",
+          "¡Come bien!"
+        ],
+        "answer": 0,
+        "explanation": "Para comida usa-se \"estar rico/a\"."
+      },
+      {
+        "prompt": "O que é a \"Tortilla de patatas\"?",
+        "speech": "Tortilla de patatas",
+        "emoji": "🥔",
+        "instruction": "Identifique a receita",
+        "options": [
+          "Pão de milho mexicano",
+          "Omelete típica feita com ovos e batatas",
+          "Torta doce de maçã",
+          "Bolo de cenoura"
+        ],
+        "answer": 1,
+        "explanation": "A tortilla espanhola leva ovos e batatas."
+      },
+      {
+        "prompt": "Como pedir licença para o garçom?",
+        "speech": "¡Camarero, por favor!",
+        "emoji": "🛎️",
+        "instruction": "Chame o garçom",
+        "options": [
+          "¡Camarero, por favor! (ou ¡Mesero!)",
+          "¡Garçom aqui!",
+          "¡Señor de la comida!",
+          "¡Tráigame ya!"
+        ],
+        "answer": 0,
+        "explanation": "Camarero (Espanha) ou Mesero (América Latina)."
+      }
+    ]
+  },
+  {
+    "id": "es-5",
+    "language": "es",
+    "level": "A1 · Iniciante",
+    "emoji": "⚖️",
+    "title": "Los Verbos Ser y Estar",
+    "description": "Descubra quando usar es vs está em espanhol.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Complete: \"Madrid ___ la capital de España.\"",
+        "speech": "Madrid es la capital de España",
+        "emoji": "🏛️",
+        "instruction": "Escolha ser ou estar",
+        "options": [
+          "son",
+          "está",
+          "es",
+          "están"
+        ],
+        "answer": 2,
+        "explanation": "Para fatos permanentes usa-se \"es\" (verbo ser)."
+      },
+      {
+        "prompt": "Complete com o estado emocional transitório: \"Yo ___ muy cansado hoy.\"",
+        "speech": "Estoy muy cansado hoy",
+        "emoji": "🥱",
+        "instruction": "Escolha ser ou estar",
+        "options": [
+          "soy",
+          "estoy",
+          "es",
+          "está"
+        ],
+        "answer": 1,
+        "explanation": "Estados físicos ou emocionais passageiros usam \"estar\"."
+      },
+      {
+        "prompt": "Qual a diferença entre \"es listo\" e \"está listo\"?",
+        "speech": "Es listo vs Está listo",
+        "emoji": "🧠",
+        "instruction": "Interprete a nuance",
+        "options": [
+          "\"Está listo\" é rápido",
+          "São idênticos",
+          "\"Es listo\" é inteligente; \"Está listo\" é preparado / pronto",
+          "\"Es listo\" é preguiçoso"
+        ],
+        "answer": 2,
+        "explanation": "Ser listo = inteligente; Estar listo = pronto."
+      },
+      {
+        "prompt": "Complete: \"Mis amigos ___ en la playa.\"",
+        "speech": "Están en la playa",
+        "emoji": "🏖️",
+        "instruction": "Localização física",
+        "options": [
+          "es",
+          "son",
+          "están",
+          "está"
+        ],
+        "answer": 2,
+        "explanation": "Para localização física no espaço usa-se o verbo \"estar\"."
+      },
+      {
+        "prompt": "Complete: \"Nosotros ___ brasileños.\"",
+        "speech": "Somos brasileños",
+        "emoji": "🇧🇷",
+        "instruction": "Nacionalidade",
+        "options": [
+          "son",
+          "estamos",
+          "somos",
+          "sois"
+        ],
+        "answer": 2,
+        "explanation": "Nacionalidade exige o verbo \"ser\": somos."
+      },
+      {
+        "prompt": "Complete: \"El café ___ frío.\"",
+        "speech": "El café está frío",
+        "emoji": "☕",
+        "instruction": "Temperatura momentânea",
+        "options": [
+          "son",
+          "es",
+          "está",
+          "están"
+        ],
+        "answer": 2,
+        "explanation": "Temperatura de alimentos usa \"estar\": está frío."
+      },
+      {
+        "prompt": "Complete: \"La fiesta ___ en mi casa.\"",
+        "speech": "La fiesta es en mi casa",
+        "emoji": "🎉",
+        "instruction": "Local de eventos",
+        "options": [
+          "es",
+          "está",
+          "son",
+          "fue"
+        ],
+        "answer": 0,
+        "explanation": "Acontecimentos e eventos usam \"ser\" para o local: \"La fiesta es...\"."
+      },
+      {
+        "prompt": "Complete: \"Ella ___ médica en el hospital.\"",
+        "speech": "Ella es médica",
+        "emoji": "👩‍⚕️",
+        "instruction": "Profissão",
+        "options": [
+          "era",
+          "está",
+          "son",
+          "es"
+        ],
+        "answer": 3,
+        "explanation": "Profissões permanentes usam \"ser\"."
+      },
+      {
+        "prompt": "Complete: \"La puerta ___ abierta.\"",
+        "speech": "La puerta está abierta",
+        "emoji": "🚪",
+        "instruction": "Estado da porta",
+        "options": [
+          "está",
+          "es",
+          "son",
+          "están"
+        ],
+        "answer": 0,
+        "explanation": "Estado resultante de uma ação usa \"estar\": está abierta."
+      },
+      {
+        "prompt": "Qual a forma conjugada de \"Yo\" no presente do verbo SER?",
+        "speech": "Yo soy",
+        "emoji": "👤",
+        "instruction": "Conjugue o verbo ser",
+        "options": [
+          "somos",
+          "estoy",
+          "eres",
+          "soy"
+        ],
+        "answer": 3,
+        "explanation": "Yo soy (verbo ser)."
+      }
+    ]
+  },
+  {
+    "id": "es-6",
+    "language": "es",
+    "level": "A2 · Básico",
+    "emoji": "👨‍👩‍👧",
+    "title": "La Familia & Posesivos",
+    "description": "Mi padre, tu hermana, su primo e nuestros amigos.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como se diz \"minha mãe\" em espanhol?",
+        "speech": "Mi madre",
+        "emoji": "👩",
+        "instruction": "Escolha a tradução",
+        "options": [
+          "La madre mía",
+          "Mia madre",
+          "Mi madre",
+          "Me madre"
+        ],
+        "answer": 2,
+        "explanation": "O possessivo antes do substantivo é \"mi\"."
+      },
+      {
+        "prompt": "Como se diz \"Meu pai e minha mãe\" em uma palavra?",
+        "speech": "Mis padres",
+        "emoji": "👨‍👩‍👧",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Mis padres",
+          "Mis papaces",
+          "Mis parentes",
+          "Mis viejos solares"
+        ],
+        "answer": 0,
+        "explanation": "Padres engloba pai e mãe."
+      },
+      {
+        "prompt": "O que significa \"Abuelo\" e \"Abuela\"?",
+        "speech": "Abuelo y abuela",
+        "emoji": "👴👵",
+        "instruction": "Identifique os parentes",
+        "options": [
+          "Tio e Tia",
+          "Avô e Avó",
+          "Padrinho e Madrinha",
+          "Primo e Prima"
+        ],
+        "answer": 1,
+        "explanation": "Abuelo é avô e abuela é avó."
+      },
+      {
+        "prompt": "Como se diz \"Irmão mais velho\"?",
+        "speech": "Hermano mayor",
+        "emoji": "👦",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Hermano grande",
+          "Hermano viejo",
+          "Hermano mayor",
+          "Hermano alto"
+        ],
+        "answer": 2,
+        "explanation": "Mayor expressa mais velho em idade."
+      },
+      {
+        "prompt": "Como se diz \"Irmão mais novo\"?",
+        "speech": "Hermano menor",
+        "emoji": "👶",
+        "instruction": "Identifique o termo",
+        "options": [
+          "Hermano pequeño",
+          "Hermano joven",
+          "Hermano menor",
+          "Hermano bajo"
+        ],
+        "answer": 2,
+        "explanation": "Menor expressa mais novo em idade."
+      },
+      {
+        "prompt": "Qual o significado de \"Tío\" e \"Tía\"?",
+        "speech": "Tío y Tía",
+        "emoji": "🏡",
+        "instruction": "Identifique os parentes",
+        "options": [
+          "Sogro e Sogra",
+          "Tio e Tia",
+          "Primo e Prima",
+          "Genro e Nora"
+        ],
+        "answer": 1,
+        "explanation": "Tío é tio e tía é tia."
+      },
+      {
+        "prompt": "O que significa \"Hijo\" e \"Hija\"?",
+        "speech": "Hijo e Hija",
+        "emoji": "👶",
+        "instruction": "Identifique o parentesco",
+        "options": [
+          "Sobrinho e Sobrinha",
+          "Filho e Filha",
+          "Irmão e Irmã",
+          "Enteado e Enteada"
+        ],
+        "answer": 1,
+        "explanation": "Hijo é filho e hija é filha."
+      },
+      {
+        "prompt": "Como se diz \"Nosso cachorro\"?",
+        "speech": "Nuestro perro",
+        "emoji": "🐕",
+        "instruction": "Escolha o possessivo plural",
+        "options": [
+          "Nuestras perro",
+          "Nosso perro",
+          "De nosotros perro",
+          "Nuestro perro"
+        ],
+        "answer": 3,
+        "explanation": "Nuestro é o possessivo de 1ª pessoa plural masculino."
+      },
+      {
+        "prompt": "O que significa \"Suegro\" e \"Suegra\"?",
+        "speech": "Suegro y Suegra",
+        "emoji": "👵👴",
+        "instruction": "Identifique os parentes por casamento",
+        "options": [
+          "Padrasto e Madrasta",
+          "Genro e Nora",
+          "Cunhado e Cunhada",
+          "Sogro e Sogra"
+        ],
+        "answer": 3,
+        "explanation": "Suegro é sogro e suegra é sogra."
+      },
+      {
+        "prompt": "Como se diz \"Primo\" e \"Prima\"?",
+        "speech": "Primo y Prima",
+        "emoji": "👧👦",
+        "instruction": "Identifique os termos",
+        "options": [
+          "Sobrino y Sobrina",
+          "Primo y Prima",
+          "Hermano y Hermana",
+          "Nieto y Nieta"
+        ],
+        "answer": 1,
+        "explanation": "Primo e prima escrevem-se da mesma forma."
+      }
+    ]
+  },
+  {
+    "id": "es-7",
+    "language": "es",
+    "level": "A2 · Básico",
+    "emoji": "⏰",
+    "title": "Rutina Diaria & Verbos Reflexivos",
+    "description": "Me levanto temprano, me ducho e me acuesto.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como se diz \"Eu acordo às sete\"?",
+        "speech": "Me despierto a las siete",
+        "emoji": "⏰",
+        "instruction": "Selecione a forma reflexiva",
+        "options": [
+          "Despiértome a las siete",
+          "Yo despierto en siete",
+          "Me despierto a las siete",
+          "Me levanto siete"
+        ],
+        "answer": 2,
+        "explanation": "Despertarse é reflexivo: \"Me despierto\"."
+      },
+      {
+        "prompt": "Qual pronome reflexivo acompanha a 1ª pessoa \"Yo\"?",
+        "speech": "Me lavo",
+        "emoji": "🪞",
+        "instruction": "Identifique o pronome",
+        "options": [
+          "te",
+          "me",
+          "se",
+          "nos"
+        ],
+        "answer": 1,
+        "explanation": "O pronome reflexivo de Yo é \"me\"."
+      },
+      {
+        "prompt": "Como se diz \"Ele toma banho todos os dias\"?",
+        "speech": "Él se ducha todos los días",
+        "emoji": "🚿",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Él es duchando",
+          "Él ducha cada día",
+          "Él toma baño diario",
+          "Él se ducha todos los días"
+        ],
+        "answer": 3,
+        "explanation": "Ducharse com él vira \"se ducha\"."
+      },
+      {
+        "prompt": "O que significa o verbo reflexivo \"Acostarse\"?",
+        "speech": "Acostarse",
+        "emoji": "🛏️",
+        "instruction": "Identifique o significado",
+        "options": [
+          "Ir para a cama / deitar-se para dormir",
+          "Acordar cedo",
+          "Vestir uma camisa",
+          "Almoçar"
+        ],
+        "answer": 0,
+        "explanation": "Acostarse significa deitar-se para dormir."
+      },
+      {
+        "prompt": "Como conjugar acostarse para Yo no presente (o-ue)?",
+        "speech": "Me acuesto a las diez",
+        "emoji": "🕙",
+        "instruction": "Conjugue o verbo irregular",
+        "options": [
+          "Me acosto",
+          "Me acuesto",
+          "Yo acuesto",
+          "Acóstome"
+        ],
+        "answer": 1,
+        "explanation": "Acostarse tem ditongação: o -> ue: me acuesto."
+      },
+      {
+        "prompt": "Como se diz \"Nós nos vestimos rapidamente\"?",
+        "speech": "Nos vestimos rápidamente",
+        "emoji": "👕",
+        "instruction": "Selecione a frase plural",
+        "options": [
+          "Nos vestimos rápidamente",
+          "Nosotros vestimos rápido",
+          "Se vestimos veloz",
+          "Nos vestiamos ahora"
+        ],
+        "answer": 0,
+        "explanation": "Vestirse com nosotros usa o pronome \"nos\"."
+      },
+      {
+        "prompt": "O que significa \"Lavarse los dientes\"?",
+        "speech": "Lavarse los dientes",
+        "emoji": "🪥",
+        "instruction": "Identifique o hábito higiênico",
+        "options": [
+          "Pentear o cabelo",
+          "Lavar o rosto",
+          "Escovar os dentes",
+          "Lavar as mãos"
+        ],
+        "answer": 2,
+        "explanation": "Em espanhol costuma-se dizer \"lavarse los dientes\" ou \"cepillarse\"."
+      },
+      {
+        "prompt": "O que significa \"Peinarse\"?",
+        "speech": "Peinarse",
+        "emoji": "💇",
+        "instruction": "Identifique a ação",
+        "options": [
+          "Cortar as unhas",
+          "Pentear o cabelo",
+          "Fazer a barba",
+          "Secar os pés"
+        ],
+        "answer": 1,
+        "explanation": "Peinarse significa pentear o cabelo com pente (peine)."
+      },
+      {
+        "prompt": "Como dizer \"Você se veste muito bem\"?",
+        "speech": "Te vistes muy bien",
+        "emoji": "👗",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Te vientes bien",
+          "Tú vistes bonito",
+          "Te vistes muy bien",
+          "Vísteste bien"
+        ],
+        "answer": 2,
+        "explanation": "Vestirse com tú vira \"te vistes\"."
+      },
+      {
+        "prompt": "Como se diz \"Eu vou para o trabalho de metrô\"?",
+        "speech": "Voy al trabajo en metro",
+        "emoji": "🚇",
+        "instruction": "Identifique o meio de transporte",
+        "options": [
+          "Yo voy trabalho metro",
+          "Voy al trabajo en metro",
+          "Voy para metro trabajo",
+          "Ando em metrô laboral"
+        ],
+        "answer": 1,
+        "explanation": "Usa-se a preposição \"en\" para meios de transporte: en metro, en autobús."
+      }
+    ]
+  },
+  {
+    "id": "es-8",
+    "language": "es",
+    "level": "A2 · Básico",
+    "emoji": "🗺️",
+    "title": "Direcciones & Transporte Público",
+    "description": "Gira a la derecha, siga recto e el metro.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "O que significa \"Gira a la derecha\"?",
+        "speech": "Gira a la derecha",
+        "emoji": "➡️",
+        "instruction": "Identifique o sentido",
+        "options": [
+          "Pare o carro",
+          "Vire à esquerda",
+          "Siga em frente",
+          "Vire à direita"
+        ],
+        "answer": 3,
+        "explanation": "\"Derecha\" é direita (\"Izquierda\" é esquerda)."
+      },
+      {
+        "prompt": "O que significa \"Siga todo recto\"?",
+        "speech": "Siga todo recto",
+        "emoji": "⬆️",
+        "instruction": "Identifique a orientação",
+        "options": [
+          "Dê meia volta",
+          "Siga sempre em frente",
+          "Vire à esquerda na praça",
+          "Atravesse o parque"
+        ],
+        "answer": 1,
+        "explanation": "\"Todo recto\" significa sempre em frente."
+      },
+      {
+        "prompt": "Como perguntar onde fica o ponto de ônibus?",
+        "speech": "¿Dónde está la parada de autobús?",
+        "emoji": "🚏",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "¿Dónde para el carro?",
+          "¿Dónde es el bus point?",
+          "¿Cuál estación de bus?",
+          "¿Dónde está la parada de autobús?"
+        ],
+        "answer": 3,
+        "explanation": "Parada de autobús é o ponto de ônibus."
+      },
+      {
+        "prompt": "Como se chama a estação de metrô?",
+        "speech": "Estación de metro",
+        "emoji": "🚇",
+        "instruction": "Identifique o local",
+        "options": [
+          "Paso de metro",
+          "Parada subterránea",
+          "Terminal de tren",
+          "Estación de metro"
+        ],
+        "answer": 3,
+        "explanation": "Estación de metro é a estação ferroviária urbana."
+      },
+      {
+        "prompt": "O que significa \"Cruce la calle\"?",
+        "speech": "Cruce la calle",
+        "emoji": "🚶",
+        "instruction": "Identifique a instrução",
+        "options": [
+          "Corra pela pista",
+          "Pare na calçada",
+          "Atravesse a rua",
+          "Volte para a esquina"
+        ],
+        "answer": 2,
+        "explanation": "Cruzar la calle é atravessar a rua."
+      },
+      {
+        "prompt": "O que é \"La esquina\"?",
+        "speech": "La esquina",
+        "emoji": "📐",
+        "instruction": "Identifique o ponto geométrico urbano",
+        "options": [
+          "O meio do quarteirão",
+          "A esquina da rua",
+          "A praça central",
+          "A ponte"
+        ],
+        "answer": 1,
+        "explanation": "La esquina é a esquina."
+      },
+      {
+        "prompt": "Como dizer que algo fica \"Perto daqui\"?",
+        "speech": "Está cerca de aquí",
+        "emoji": "📍",
+        "instruction": "Escolha a expressão de proximidade",
+        "options": [
+          "Tiene cerca ahora",
+          "Está lejos de aquí",
+          "Está cerca de aquí",
+          "Es junto aquí"
+        ],
+        "answer": 2,
+        "explanation": "Cerca significa perto (lejos significa longe)."
+      },
+      {
+        "prompt": "Como dizer que um museu fica \"Longe daqui\"?",
+        "speech": "Está muy lejos de aquí",
+        "emoji": "🚗",
+        "instruction": "Escolha a expressão de distância",
+        "options": [
+          "Tiene leguas acá",
+          "Está cerca de aquí",
+          "Queda distante agora",
+          "Está muy lejos de aquí"
+        ],
+        "answer": 3,
+        "explanation": "Lejos significa longe."
+      },
+      {
+        "prompt": "O que é \"El semáforo\"?",
+        "speech": "El semáforo",
+        "emoji": "🚦",
+        "instruction": "Identifique o equipamento urbano",
+        "options": [
+          "A calçada de pedestres",
+          "A placa de pare",
+          "O radar de velocidade",
+          "O semáforo / sinal de trânsito"
+        ],
+        "answer": 3,
+        "explanation": "Semáforo é o sinal luminoso de trânsito."
+      },
+      {
+        "prompt": "Como perguntar \"Quanto custa o bilhete de metrô?\"?",
+        "speech": "¿Cuánto cuesta el billete de metro?",
+        "emoji": "🎫",
+        "instruction": "Selecione a pergunta",
+        "options": [
+          "¿Cuál precio metro ticket?",
+          "¿Cuánto cuesta el billete de metro?",
+          "¿Cuánto vale el pase metro?",
+          "¿Qué dinero el metro?"
+        ],
+        "answer": 1,
+        "explanation": "Billete (Espanha) ou boleto (América Latina) é a passagem."
+      }
+    ]
+  },
+  {
+    "id": "es-9",
+    "language": "es",
+    "level": "A2 · Básico",
+    "emoji": "🛍️",
+    "title": "De Compras, Ropa & ¿Cuánto cuesta?",
+    "description": "Compre roupas, pergunte tamanhos e pechinche.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Como perguntar o preço de uma jaqueta?",
+        "speech": "¿Cuánto cuesta esta chaqueta?",
+        "emoji": "🧥",
+        "instruction": "Escolha a pergunta",
+        "options": [
+          "¿Cuánto cuesta esta chaqueta?",
+          "¿Qué vale el saco?",
+          "¿Cuánto es chaqueta?",
+          "¿Qué precio tiene?"
+        ],
+        "answer": 0,
+        "explanation": "\"¿Cuánto cuesta...?\" é a pergunta padrão."
+      },
+      {
+        "prompt": "O que significa \"La talla\"?",
+        "speech": "La talla",
+        "emoji": "📏",
+        "instruction": "Identifique o termo de vestuário",
+        "options": [
+          "A cor da peça",
+          "O tamanho da roupa (P, M, G)",
+          "O tecido de algodão",
+          "O preço de etiqueta"
+        ],
+        "answer": 1,
+        "explanation": "Talla refere-se ao tamanho de roupas."
+      },
+      {
+        "prompt": "Qual palavra significa \"Sapato\"?",
+        "speech": "Zapato",
+        "emoji": "👞",
+        "instruction": "Identifique o calçado",
+        "options": [
+          "Guante",
+          "Sombrero",
+          "Zapato",
+          "Camisa"
+        ],
+        "answer": 2,
+        "explanation": "Zapato é sapato."
+      },
+      {
+        "prompt": "Onde você experimenta as roupas em uma loja?",
+        "speech": "En el probador",
+        "emoji": "🚪",
+        "instruction": "Identifique o local da loja",
+        "options": [
+          "En la caja",
+          "En el baño",
+          "En el probador",
+          "En el escaparate"
+        ],
+        "answer": 2,
+        "explanation": "Probador é o provador da loja."
+      },
+      {
+        "prompt": "O que significa \"El escaparate\"?",
+        "speech": "El escaparate",
+        "emoji": "🪟",
+        "instruction": "Identifique o termo comercial",
+        "options": [
+          "A vitrine da loja",
+          "A sacola de compras",
+          "O caixa registrador",
+          "O cabide de metal"
+        ],
+        "answer": 0,
+        "explanation": "Escaparate é a vitrine."
+      },
+      {
+        "prompt": "Como pedir uma camiseta em tamanho maior?",
+        "speech": "¿Tiene una talla más grande?",
+        "emoji": "👕",
+        "instruction": "Escolha o pedido",
+        "options": [
+          "Quiero camisa gigante",
+          "¿Tiene una talla más grande?",
+          "Dame talla alta",
+          "Pon camisa mayor"
+        ],
+        "answer": 1,
+        "explanation": "\"Una talla más grande\" pede um tamanho maior."
+      },
+      {
+        "prompt": "O que significa \"Rebajas\"?",
+        "speech": "Rebajas",
+        "emoji": "🏷️",
+        "instruction": "Identifique a época comercial",
+        "options": [
+          "Roupas com defeito",
+          "Novos lançamentos caros",
+          "Liquidações / Promoções de desconto",
+          "Fechamento da loja"
+        ],
+        "answer": 2,
+        "explanation": "Rebajas são as liquidações anuais na Espanha."
+      },
+      {
+        "prompt": "Como se diz \"Camisa branca de algodão\"?",
+        "speech": "Camisa blanca de algodón",
+        "emoji": "👔",
+        "instruction": "Identifique o material",
+        "options": [
+          "Camisa blanca de cuero",
+          "Camisa blanca de lana",
+          "Camisa blanca de seda",
+          "Camisa blanca de algodón"
+        ],
+        "answer": 3,
+        "explanation": "Algodón significa algodão."
+      },
+      {
+        "prompt": "O que é \"Pagar en efectivo\"?",
+        "speech": "Pagar en efectivo",
+        "emoji": "💵",
+        "instruction": "Identifique a forma de pagamento",
+        "options": [
+          "Pagar com cartão de crédito",
+          "Pagar com dinheiro em espécie / notas",
+          "Pagar parcelado em 12 vezes",
+          "Pagar por pix"
+        ],
+        "answer": 1,
+        "explanation": "En efectivo significa em dinheiro vivo."
+      },
+      {
+        "prompt": "Como dizer \"Vou levar esta camiseta\"?",
+        "speech": "Me llevo esta camiseta",
+        "emoji": "🛍️",
+        "instruction": "Escolha a decisão de compra",
+        "options": [
+          "Compro llevar esto",
+          "Yo tomo esta camisa",
+          "Pongo camiseta para mí",
+          "Me llevo esta camiseta"
+        ],
+        "answer": 3,
+        "explanation": "\"Me llevo...\" é a frase típica ao decidir levar um produto."
+      }
+    ]
+  },
+  {
+    "id": "es-10",
+    "language": "es",
+    "level": "A2 · Básico",
+    "emoji": "🏡",
+    "title": "La Casa, Muebles & Habitaciones",
+    "description": "El salón, la cocina, el dormitorio e el balcón.",
+    "xp": 25,
+    "questions": [
+      {
+        "prompt": "Onde fica a cama?",
+        "speech": "En el dormitorio",
+        "emoji": "🛏️",
+        "instruction": "Selecione o cômodo",
+        "options": [
+          "En el pasillo",
+          "En la cocina",
+          "En el baño",
+          "En el dormitorio"
+        ],
+        "answer": 3,
+        "explanation": "\"Dormitorio\" ou \"habitación\" é o quarto."
+      },
+      {
+        "prompt": "Como se chama a \"Sala de estar\"?",
+        "speech": "El salón / La sala de estar",
+        "emoji": "🛋️",
+        "instruction": "Identifique o cômodo",
+        "options": [
+          "El comedor",
+          "El salón",
+          "La terraza",
+          "El ático"
+        ],
+        "answer": 1,
+        "explanation": "El salón é a sala de estar."
+      },
+      {
+        "prompt": "Onde você cozinha o jantar?",
+        "speech": "En la cocina",
+        "emoji": "🍳",
+        "instruction": "Identifique o cômodo",
+        "options": [
+          "En el sótano",
+          "En el garaje",
+          "En la cocina",
+          "En el tejado"
+        ],
+        "answer": 2,
+        "explanation": "Cocina é a cozinha."
+      },
+      {
+        "prompt": "O que significa \"La nevera\" ou \"El frigorífico\"?",
+        "speech": "La nevera",
+        "emoji": "🧊",
+        "instruction": "Identifique o eletrodoméstico",
+        "options": [
+          "A geladeira",
+          "O fogão",
+          "O micro-ondas",
+          "A máquina de lavar"
+        ],
+        "answer": 0,
+        "explanation": "Nevera ou frigorífico é a geladeira."
+      },
+      {
+        "prompt": "O que é \"El sofá\"?",
+        "speech": "El sofá",
+        "emoji": "🛋️",
+        "instruction": "Identifique o móvel",
+        "options": [
+          "O sofá",
+          "A poltrona",
+          "A cadeira",
+          "A mesa de centro"
+        ],
+        "answer": 0,
+        "explanation": "El sofá é o sofá."
+      },
+      {
+        "prompt": "Como se chama a \"Varanda\" do apartamento?",
+        "speech": "El balcón / La terraza",
+        "emoji": "🌅",
+        "instruction": "Identifique o espaço",
+        "options": [
+          "El balcón (ou La terraza)",
+          "El desván",
+          "El patio interior",
+          "El portal"
+        ],
+        "answer": 0,
+        "explanation": "Balcón ou terraza é a varanda."
+      },
+      {
+        "prompt": "O que significa \"La ventana\"?",
+        "speech": "La ventana",
+        "emoji": "🪟",
+        "instruction": "Identifique a parte da casa",
+        "options": [
+          "A janela",
+          "A porta de entrada",
+          "A cortina de seda",
+          "O trinco"
+        ],
+        "answer": 0,
+        "explanation": "Ventana é janela."
+      },
+      {
+        "prompt": "Como se diz \"Espelho do banheiro\"?",
+        "speech": "Espejo del baño",
+        "emoji": "🪞",
+        "instruction": "Identifique o objeto",
+        "options": [
+          "Vidrio del baño",
+          "Cristal del baño",
+          "Reflejo del baño",
+          "Espejo del baño"
+        ],
+        "answer": 3,
+        "explanation": "Espejo é espelho."
+      },
+      {
+        "prompt": "O que é \"La alfombra\"?",
+        "speech": "La alfombra",
+        "emoji": "🧶",
+        "instruction": "Identifique o item de decoração",
+        "options": [
+          "O quadro de parede",
+          "A almofada",
+          "A cortina",
+          "O tapete"
+        ],
+        "answer": 3,
+        "explanation": "Alfombra é tapete."
+      },
+      {
+        "prompt": "O que significa \"El ascensor\"?",
+        "speech": "El ascensor",
+        "emoji": "🛗",
+        "instruction": "Identifique a máquina",
+        "options": [
+          "A escada em caracol",
+          "O elevador do prédio",
+          "O corredor principal",
+          "A garagem"
+        ],
+        "answer": 1,
+        "explanation": "Ascensor é o elevador."
+      }
+    ]
+  },
+  {
+    "id": "es-11",
+    "language": "es",
+    "level": "B1 · Intermediário",
+    "emoji": "📆",
+    "title": "Pretérito Indefinido: Acciones Pasadas",
+    "description": "Ayer viajé, comí paella e compré billetes.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Qual o passado de \"hablar\" para \"yo\" no Pretérito Indefinido?",
+        "speech": "Hablé",
+        "emoji": "🗣️",
+        "instruction": "Escolha a terminação correta",
+        "options": [
+          "Hablo",
+          "Hablaba",
+          "He hablado",
+          "Hablé"
+        ],
+        "answer": 3,
+        "explanation": "A terminação de 1ª pessoa no Indefinido (-ar) é \"-é\": hablé."
+      },
+      {
+        "prompt": "Qual o passado irregular de \"ir\" para \"yo\"?",
+        "speech": "Fui",
+        "emoji": "🚶",
+        "instruction": "Identifique o verbo",
+        "options": [
+          "Iba",
+          "Fui",
+          "He ido",
+          "Fue"
+        ],
+        "answer": 1,
+        "explanation": "Yo fui a Madrid ontem."
+      },
+      {
+        "prompt": "Qual o passado de \"comer\" para \"nosotros\"?",
+        "speech": "Comimos",
+        "emoji": "🍽️",
+        "instruction": "Conjugue o verbo",
+        "options": [
+          "Comemos",
+          "Comíamos",
+          "Comimos",
+          "Comieron"
+        ],
+        "answer": 2,
+        "explanation": "Comimos é comemos no passado."
+      },
+      {
+        "prompt": "Complete com pretérito indefinido: \"Ayer ellos ___ una película.\"",
+        "speech": "Ayer vieron una película",
+        "emoji": "🎬",
+        "instruction": "Conjugue ver",
+        "options": [
+          "han visto",
+          "veían",
+          "ven",
+          "vieron"
+        ],
+        "answer": 3,
+        "explanation": "Vieron é o passado para ellos."
+      },
+      {
+        "prompt": "Qual o passado de \"estar\" para \"yo\" (irregular)?",
+        "speech": "Estuve",
+        "emoji": "📍",
+        "instruction": "Conjugue o verbo estar",
+        "options": [
+          "Estuvei",
+          "Estaba",
+          "Estuve",
+          "Esté"
+        ],
+        "answer": 2,
+        "explanation": "Estar tem raiz irregular no passado: estuve, estuviste, estuvo."
+      },
+      {
+        "prompt": "Qual o passado de \"hacer\" para \"él\"?",
+        "speech": "Hizo",
+        "emoji": "✍️",
+        "instruction": "Identifique a grafia correta",
+        "options": [
+          "Hizó",
+          "Hizo",
+          "Hice",
+          "Hacio"
+        ],
+        "answer": 1,
+        "explanation": "Él hizo a tarefa com a letra Z."
+      },
+      {
+        "prompt": "O que significa a palavra temporal \"Ayer\"?",
+        "speech": "Ayer",
+        "emoji": "🔙",
+        "instruction": "Identifique o dia",
+        "options": [
+          "Semana passada",
+          "Hoje",
+          "Amanhã",
+          "Ontem"
+        ],
+        "answer": 3,
+        "explanation": "Ayer significa ontem."
+      },
+      {
+        "prompt": "O que significa \"Anoche\"?",
+        "speech": "Anoche",
+        "emoji": "🌙",
+        "instruction": "Identifique o período",
+        "options": [
+          "Ontem à noite",
+          "Hoje à noite",
+          "Amanhã cedo",
+          "Madrugada"
+        ],
+        "answer": 0,
+        "explanation": "Anoche significa ontem à noite."
+      },
+      {
+        "prompt": "Qual o passado de \"tener\" para \"tú\"?",
+        "speech": "Tuviste",
+        "emoji": "💼",
+        "instruction": "Conjugue tener",
+        "options": [
+          "Tenías",
+          "Tuviste",
+          "Tuvisteis",
+          "Tenes"
+        ],
+        "answer": 1,
+        "explanation": "Tú tuviste uma boa ideia."
+      },
+      {
+        "prompt": "Complete: \"El año pasado ___ a México.\"",
+        "speech": "El año pasado viajamos a México",
+        "emoji": "🇲🇽",
+        "instruction": "Complete no passado pontual",
+        "options": [
+          "viajaremos",
+          "viajábamos",
+          "viajamos",
+          "viajan"
+        ],
+        "answer": 2,
+        "explanation": "Ação concluída no ano passado usa o Pretérito Indefinido."
+      }
+    ]
+  },
+  {
+    "id": "es-12",
+    "language": "es",
+    "level": "B1 · Intermediário",
+    "emoji": "🎯",
+    "title": "Por vs Para Sin Errores",
+    "description": "Diferencie motivo (\"por ti\") de finalidade (\"para trabajar\").",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Complete: \"Estudio español ___ vivir en Barcelona.\"",
+        "speech": "Estudio español para vivir en Barcelona",
+        "emoji": "🇪🇸",
+        "instruction": "Escolha por ou para",
+        "options": [
+          "de",
+          "por",
+          "para",
+          "con"
+        ],
+        "answer": 2,
+        "explanation": "Para objetivo/finalidade com infinitivo usa-se \"para\"."
+      },
+      {
+        "prompt": "Complete a expressão de gratidão: \"Muchas gracias ___ tu ayuda.\"",
+        "speech": "Muchas gracias por tu ayuda",
+        "emoji": "🙏",
+        "instruction": "Motivo do agradecimento",
+        "options": [
+          "para",
+          "por",
+          "de",
+          "en"
+        ],
+        "answer": 1,
+        "explanation": "Para expressar motivo de agradecimento usa-se \"por\": Gracias por..."
+      },
+      {
+        "prompt": "Complete o prazo limite: \"El informe debe estar listo ___ el viernes.\"",
+        "speech": "Para el viernes",
+        "emoji": "📅",
+        "instruction": "Prazo no tempo",
+        "options": [
+          "por",
+          "para",
+          "en",
+          "durante"
+        ],
+        "answer": 1,
+        "explanation": "Para prazos limites de entrega usa-se \"para\": para el viernes."
+      },
+      {
+        "prompt": "Complete o meio de locomoção ou passagem: \"Caminamos ___ el parque.\"",
+        "speech": "Por el parque",
+        "emoji": "🌳",
+        "instruction": "Movimento através de um lugar",
+        "options": [
+          "sobre",
+          "para",
+          "por",
+          "hacia"
+        ],
+        "answer": 2,
+        "explanation": "Movimento através de um espaço usa \"por\": caminar por el parque."
+      },
+      {
+        "prompt": "Complete a troca de valores: \"Te vendo mi bicicleta ___ cincuenta euros.\"",
+        "speech": "Por cincuenta euros",
+        "emoji": "🚲",
+        "instruction": "Troca ou preço",
+        "options": [
+          "por",
+          "para",
+          "de",
+          "con"
+        ],
+        "answer": 0,
+        "explanation": "Preço e trocas financeiras usam \"por\": por 50 euros."
+      },
+      {
+        "prompt": "Complete o destinatário de um presente: \"Este regalo es ___ mi hermana.\"",
+        "speech": "Para mi hermana",
+        "emoji": "🎁",
+        "instruction": "Destinatário final",
+        "options": [
+          "con",
+          "por",
+          "para",
+          "de"
+        ],
+        "answer": 2,
+        "explanation": "Destinatário de um objeto usa \"para\": para mi hermana."
+      },
+      {
+        "prompt": "Complete a causa ou motivo: \"Llegó tarde ___ culpa del tráfico.\"",
+        "speech": "Por culpa del tráfico",
+        "emoji": "🚗",
+        "instruction": "Causa / motivo",
+        "options": [
+          "en",
+          "para",
+          "de",
+          "por"
+        ],
+        "answer": 3,
+        "explanation": "Causa usa \"por\": por culpa de."
+      },
+      {
+        "prompt": "O que significa a expressão \"Por si acaso\"?",
+        "speech": "Por si acaso",
+        "emoji": "🌂",
+        "instruction": "Identifique a locução adverbial",
+        "options": [
+          "De repente",
+          "Com certeza",
+          "Nunca na vida",
+          "Por via das dúvidas / Caso seja necessário"
+        ],
+        "answer": 3,
+        "explanation": "\"Por si acaso\" equivale a por via das dúvidas."
+      },
+      {
+        "prompt": "O que significa \"Para siempre\"?",
+        "speech": "Para siempre",
+        "emoji": "♾️",
+        "instruction": "Identifique a expressão de tempo",
+        "options": [
+          "Nunca mais",
+          "Por pouco tempo",
+          "Para amanhã",
+          "Para sempre / eternamente"
+        ],
+        "answer": 3,
+        "explanation": "\"Para siempre\" significa para sempre."
+      },
+      {
+        "prompt": "O que significa \"Por fin\"?",
+        "speech": "Por fin terminamos",
+        "emoji": "🎉",
+        "instruction": "Identifique o alívio",
+        "options": [
+          "Finalmente / Até que enfim",
+          "No início",
+          "Por acaso",
+          "Pelo final"
+        ],
+        "answer": 0,
+        "explanation": "\"Por fin\" significa finalmente ou até que enfim."
+      }
+    ]
+  },
+  {
+    "id": "es-13",
+    "language": "es",
+    "level": "B1 · Intermediário",
+    "emoji": "✈️",
+    "title": "En el Aeropuerto & La Aduana",
+    "description": "Puerta de embarque, pasaporte e equipaje de mano.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como se diz \"Mala de mão\" em espanhol?",
+        "speech": "Equipaje de mano",
+        "emoji": "🧳",
+        "instruction": "Selecione a expressão correta",
+        "options": [
+          "Mochila de viaje",
+          "Maleta portátil",
+          "Bolsa de avión",
+          "Equipaje de mano"
+        ],
+        "answer": 3,
+        "explanation": "\"Equipaje de mano\" é a bagagem de cabine."
+      },
+      {
+        "prompt": "Onde você embarca no avião?",
+        "speech": "En la puerta de embarque",
+        "emoji": "🛫",
+        "instruction": "Identifique o local",
+        "options": [
+          "En la cinta de maletas",
+          "En la puerta de embarque",
+          "En el mostrador de boletos",
+          "En la pista"
+        ],
+        "answer": 1,
+        "explanation": "\"Puerta de embarque\" é o portão de embarque."
+      },
+      {
+        "prompt": "O que é a \"Tarjeta de embarque\"?",
+        "speech": "Tarjeta de embarque",
+        "emoji": "🎫",
+        "instruction": "Identifique o documento",
+        "options": [
+          "O passaporte diplomático",
+          "O cartão de embarque",
+          "O visto consular",
+          "A carteira de motorista"
+        ],
+        "answer": 1,
+        "explanation": "Tarjeta de embarque é o cartão de embarque."
+      },
+      {
+        "prompt": "O que significa \"Vuelo retrasado\"?",
+        "speech": "Vuelo retrasado",
+        "emoji": "⏳",
+        "instruction": "Identifique o status do voo",
+        "options": [
+          "Voo pontual",
+          "Voo cancelado",
+          "Voo atrasado",
+          "Voo de volta"
+        ],
+        "answer": 2,
+        "explanation": "Retrasado significa atrasado."
+      },
+      {
+        "prompt": "Onde você retira as malas despachadas após o voo?",
+        "speech": "En la cinta de equipajes",
+        "emoji": "🛄",
+        "instruction": "Identifique a área",
+        "options": [
+          "En el taxi",
+          "En la aduana",
+          "En la oficina de turismo",
+          "En la cinta de equipajes (reclamación)"
+        ],
+        "answer": 3,
+        "explanation": "Cinta de equipajes é a esteira de restituição."
+      },
+      {
+        "prompt": "O que o oficial de aduana pergunta com: \"¿Tiene algo que declarar?\"",
+        "speech": "¿Tiene algo que declarar?",
+        "emoji": "👮",
+        "instruction": "Interprete a pergunta aduaneira",
+        "options": [
+          "Qual é sua profissão?",
+          "Você tem mercadorias tributáveis a declarar?",
+          "Onde está sua carteira?",
+          "Quanto custou a passagem?"
+        ],
+        "answer": 1,
+        "explanation": "Pergunta padrão sobre mercadorias na alfândega."
+      },
+      {
+        "prompt": "O que significa \"Escala\" em uma viagem de avião?",
+        "speech": "Vuelo con escala",
+        "emoji": "🗺️",
+        "instruction": "Identifique o tipo de voo",
+        "options": [
+          "Conexão ou parada intermediária em outro aeroporto",
+          "Voo direto sem paradas",
+          "Voo cancelado",
+          "Primeira classe"
+        ],
+        "answer": 0,
+        "explanation": "Vuelo con escala tem paradas intermediárias."
+      },
+      {
+        "prompt": "Como se diz \"Passagem de ida e volta\"?",
+        "speech": "Billete de ida y vuelta",
+        "emoji": "🎟️",
+        "instruction": "Identifique o bilhete completo",
+        "options": [
+          "Ticket de vuelta solo",
+          "Boleto solo ida",
+          "Pase de avión duplo",
+          "Billete de ida y vuelta"
+        ],
+        "answer": 3,
+        "explanation": "Ida y vuelta significa ida e volta."
+      },
+      {
+        "prompt": "O que é \"El mostrador de facturación\"?",
+        "speech": "Mostrador de facturación",
+        "emoji": "🏢",
+        "instruction": "Identifique o balcão",
+        "options": [
+          "A sala vip",
+          "A lanchonete do saguão",
+          "O balcão de check-in e despacho de malas",
+          "O controle de segurança"
+        ],
+        "answer": 2,
+        "explanation": "Facturar equipaje é despachar as malas no balcão."
+      },
+      {
+        "prompt": "Como dizer \"Perdi minha mala de viagem\"?",
+        "speech": "He perdido mi maleta",
+        "emoji": "🧳",
+        "instruction": "Escolha a declaração de extravio",
+        "options": [
+          "Mi bolso corrió lejos",
+          "He perdido mi maleta",
+          "No hay mi equipaje hoy",
+          "Olvidé la maleta avión"
+        ],
+        "answer": 1,
+        "explanation": "\"He perdido mi maleta\" comunica o extravio da mala."
+      }
+    ]
+  },
+  {
+    "id": "es-14",
+    "language": "es",
+    "level": "B1 · Intermediário",
+    "emoji": "💊",
+    "title": "En la Farmacia, Salud & Médico",
+    "description": "Me duele la cabeza, fiebre e pastillas.",
+    "xp": 30,
+    "questions": [
+      {
+        "prompt": "Como dizer \"Estou com dor de cabeça\"?",
+        "speech": "Me duele la cabeza",
+        "emoji": "🤕",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Siento cabeza rota",
+          "Tengo dolor de testa",
+          "Mi cabeza está mal",
+          "Me duele la cabeza"
+        ],
+        "answer": 3,
+        "explanation": "O verbo doler funciona como gustar: \"Me duele la cabeza\"."
+      },
+      {
+        "prompt": "Como dizer \"Estou com dor de estômago\"?",
+        "speech": "Me duele el estómago",
+        "emoji": "🤢",
+        "instruction": "Escolha a frase",
+        "options": [
+          "Me duele el estómago",
+          "Tengo barriga rota",
+          "Estómago me pica",
+          "Dolor en la comida"
+        ],
+        "answer": 0,
+        "explanation": "\"Me duele el estómago\" é a frase médica exata."
+      },
+      {
+        "prompt": "O que é uma \"Receta médica\"?",
+        "speech": "Receta médica",
+        "emoji": "📄",
+        "instruction": "Identifique o documento",
+        "options": [
+          "A prescrição do médico para comprar remédios",
+          "A nota fiscal da farmácia",
+          "A bula explicativa",
+          "O recibo de consulta"
+        ],
+        "answer": 0,
+        "explanation": "Receta médica é a prescrição."
+      },
+      {
+        "prompt": "O que significa \"Pastillas\"?",
+        "speech": "Pastillas",
+        "emoji": "💊",
+        "instruction": "Identifique a apresentação farmacêutica",
+        "options": [
+          "Injeção",
+          "Xarope líquido",
+          "Pomada de pele",
+          "Comprimidos / pílulas"
+        ],
+        "answer": 3,
+        "explanation": "Pastillas são comprimidos ou pastilhas."
+      },
+      {
+        "prompt": "Como dizer \"Estou com febre alta\"?",
+        "speech": "Tengo mucha fiebre",
+        "emoji": "🌡️",
+        "instruction": "Identifique o sintoma",
+        "options": [
+          "Tengo mucha fiebre",
+          "Mi cuerpo está en fuego",
+          "Siento calor médico",
+          "Estoy con temperatura quemando"
+        ],
+        "answer": 0,
+        "explanation": "Fiebre é febre."
+      },
+      {
+        "prompt": "O que significa \"Toser\" e \"Tos\"?",
+        "speech": "Toser",
+        "emoji": "🗣️",
+        "instruction": "Identifique o reflexo respiratório",
+        "options": [
+          "Chorar e Lágrima",
+          "Espirrar e Espirro",
+          "Tossir e Tosse",
+          "Gaguejar e Gagueira"
+        ],
+        "answer": 2,
+        "explanation": "Tos é tosse e toser é tossir."
+      },
+      {
+        "prompt": "O que é \"Jarabe para la tos\"?",
+        "speech": "Jarabe para la tos",
+        "emoji": "🥄",
+        "instruction": "Identifique o medicamento",
+        "options": [
+          "Pomada para dor",
+          "Colírio para olhos",
+          "Xarope para tosse",
+          "Soro fisiológico"
+        ],
+        "answer": 2,
+        "explanation": "Jarabe é xarope."
+      },
+      {
+        "prompt": "Como se diz \"Curativo adesivo\" (Band-Aid) na Espanha?",
+        "speech": "Una tirita",
+        "emoji": "🩹",
+        "instruction": "Identifique o curativo",
+        "options": [
+          "Una tirita (ou curita)",
+          "Un parche grande",
+          "Un vendaje duro",
+          "Un lazo de piel"
+        ],
+        "answer": 0,
+        "explanation": "Na Espanha diz-se \"tirita\" e na América Latina \"curita\"."
+      },
+      {
+        "prompt": "O que é uma \"Alergia\"?",
+        "speech": "Tengo alergia al polen",
+        "emoji": "🤧",
+        "instruction": "Identifique a condição",
+        "options": [
+          "Uma fratura óssea",
+          "Uma gripe comum",
+          "Alergia a uma substância",
+          "Uma inflamação muscular"
+        ],
+        "answer": 2,
+        "explanation": "Alergia escreve-se de forma idêntica."
+      },
+      {
+        "prompt": "Como se deseja saúde após alguém espirrar em espanhol?",
+        "speech": "¡Salud! / ¡Jesús!",
+        "emoji": "🤧",
+        "instruction": "Escolha a cortesia",
+        "options": [
+          "¡Silencio!",
+          "¡Gracias!",
+          "¡Salud! (ou ¡Jesús!)",
+          "¡Perdón!"
+        ],
+        "answer": 2,
+        "explanation": "Diz-se \"¡Salud!\" ou \"¡Jesús!\" quando alguém espirra."
+      }
+    ]
+  },
+  {
+    "id": "es-15",
+    "language": "es",
+    "level": "B1 · Intermediário",
+    "emoji": "💼",
+    "title": "El Trabajo, Profesiones & Oficina",
+    "description": "Entrevista de trabajo, sueldo e horario laboral.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "O que significa \"Sueldo\"?",
+        "speech": "Sueldo",
+        "emoji": "💵",
+        "instruction": "Identifique o termo financeiro laboral",
+        "options": [
+          "Férias remuneradas",
+          "Imposto de renda",
+          "Salário / remuneração mensal",
+          "Contrato de aluguel"
+        ],
+        "answer": 2,
+        "explanation": "\"Sueldo\" ou \"salario\" é a remuneração pelo trabalho."
+      },
+      {
+        "prompt": "Como se chama a \"Entrevista de emprego\"?",
+        "speech": "Entrevista de trabajo",
+        "emoji": "👔",
+        "instruction": "Identifique o evento seletivo",
+        "options": [
+          "Cita de negocios",
+          "Entrevista de trabajo",
+          "Reunión de empleo",
+          "Charla laboral"
+        ],
+        "answer": 1,
+        "explanation": "Entrevista de trabajo é a entrevista de emprego."
+      },
+      {
+        "prompt": "O que significa \"Horario laboral\"?",
+        "speech": "Horario laboral",
+        "emoji": "⏰",
+        "instruction": "Identifique o conceito",
+        "options": [
+          "A hora extra",
+          "A hora do almoço",
+          "As férias anuais",
+          "A jornada de trabalho diária"
+        ],
+        "answer": 3,
+        "explanation": "Horario laboral é o expediente de trabalho."
+      },
+      {
+        "prompt": "O que é o \"Jefe\" ou \"La jefa\"?",
+        "speech": "El jefe / La jefa",
+        "emoji": "🏢",
+        "instruction": "Identifique o cargo",
+        "options": [
+          "O estagiário",
+          "O colega de mesa",
+          "O chefe / a chefe ou gerente",
+          "O cliente"
+        ],
+        "answer": 2,
+        "explanation": "Jefe é o superior hierárquico."
+      },
+      {
+        "prompt": "O que significa \"Despedir a un empleado\"?",
+        "speech": "Despedir",
+        "emoji": "🚪",
+        "instruction": "Identifique a ação administrativa",
+        "options": [
+          "Contratar alguém novo",
+          "Demitir um funcionário",
+          "Promover a diretor",
+          "Dar um aumento"
+        ],
+        "answer": 1,
+        "explanation": "Despedir significa demitir."
+      },
+      {
+        "prompt": "O que significa \"Contratar\"?",
+        "speech": "Contratar",
+        "emoji": "🤝",
+        "instruction": "Identifique a ação",
+        "options": [
+          "Admitir / formalizar novo funcionário",
+          "Demitir com justa causa",
+          "Aposentar alguém",
+          "Reclamar do trabalho"
+        ],
+        "answer": 0,
+        "explanation": "Contratar significa admitir funcionário."
+      },
+      {
+        "prompt": "O que são as \"Vacaciones pagadas\"?",
+        "speech": "Vacaciones",
+        "emoji": "🏖️",
+        "instruction": "Identifique o direito trabalhista",
+        "options": [
+          "Horas extras no sábado",
+          "Feriados nacionais",
+          "Licença médica",
+          "Férias remuneradas"
+        ],
+        "answer": 3,
+        "explanation": "Vacaciones pagadas são férias remuneradas."
+      },
+      {
+        "prompt": "Como se diz \"Estágio profissional\"?",
+        "speech": "Prácticas / Pasantía",
+        "emoji": "🎓",
+        "instruction": "Identifique o cargo de início",
+        "options": [
+          "Trabajo leve",
+          "Prácticas (Espanha) ou Pasantía (América Latina)",
+          "Escuela de empleo",
+          "Oficina menor"
+        ],
+        "answer": 1,
+        "explanation": "Prácticas ou pasantía é o estágio de estudantes."
+      },
+      {
+        "prompt": "O que significa \"Estar de baja médica\"?",
+        "speech": "Baja médica",
+        "emoji": "🏥",
+        "instruction": "Identifique a situação",
+        "options": [
+          "Trabalhar em home office",
+          "Estar desempregado",
+          "Pedir demissão",
+          "Estar de licença médica por doença"
+        ],
+        "answer": 3,
+        "explanation": "Estar de baja médica é estar afastado por saúde."
+      },
+      {
+        "prompt": "O que é uma \"Reunión de equipo\"?",
+        "speech": "Reunión de equipo",
+        "emoji": "👥",
+        "instruction": "Identifique a assembleia",
+        "options": [
+          "Festa de fim de ano",
+          "Reunião de equipe de trabalho",
+          "Almoço com clientes",
+          "Entrevista individual"
+        ],
+        "answer": 1,
+        "explanation": "Reunión de equipo é a reunião de time."
+      }
+    ]
+  },
+  {
+    "id": "es-16",
+    "language": "es",
+    "level": "B1 · Intermediário",
+    "emoji": "📜",
+    "title": "Pretérito Imperfecto: Infancia y Recuerdos",
+    "description": "Cuando era niño vivía en el campo e jugaba al fútbol.",
+    "xp": 35,
+    "questions": [
+      {
+        "prompt": "Qual tempo usamos para hábitos contínuos da infância?",
+        "speech": "Cuando era niño jugaba en la calle",
+        "emoji": "🧒",
+        "instruction": "Identifique o tempo verbal",
+        "options": [
+          "Presente",
+          "Pretérito Indefinido (jugué)",
+          "Pretérito Imperfecto (jugaba)",
+          "Futuro"
+        ],
+        "answer": 2,
+        "explanation": "O Pretérito Imperfeito expressa hábitos passados frequentes."
+      },
+      {
+        "prompt": "Qual é a forma imperfeita do verbo \"ser\" para \"yo\"?",
+        "speech": "Yo era",
+        "emoji": "👶",
+        "instruction": "Conjugue o verbo ser no imperfeito",
+        "options": [
+          "sido",
+          "fui",
+          "era",
+          "estaba"
+        ],
+        "answer": 2,
+        "explanation": "A conjugação é: era, eras, era, éramos, erais, eran."
+      },
+      {
+        "prompt": "Qual é a forma imperfeita de \"ir\" para \"nosotros\"?",
+        "speech": "Íbamos",
+        "emoji": "🚶‍♂️",
+        "instruction": "Conjugue o verbo ir",
+        "options": [
+          "íais",
+          "fuimos",
+          "íbamos",
+          "vamos"
+        ],
+        "answer": 2,
+        "explanation": "Íbamos leva acento gráfico na primeira sílaba."
+      },
+      {
+        "prompt": "Complete com o hábito passado: \"Todos los veranos ___ a la playa.\"",
+        "speech": "Íbamos a la playa",
+        "emoji": "🏖️",
+        "instruction": "Complete a rotina passada",
+        "options": [
+          "íbamos",
+          "fuimos",
+          "iremos",
+          "vamos"
+        ],
+        "answer": 0,
+        "explanation": "Para ações rotineiras no passado usa-se o Imperfeito."
+      },
+      {
+        "prompt": "Qual a terminação regular de -AR no Pretérito Imperfeito?",
+        "speech": "Cantaba, cantabas",
+        "emoji": "🎤",
+        "instruction": "Identifique a terminação",
+        "options": [
+          "-ía, -ías, -ía",
+          "-é, -aste, -ó",
+          "-aba, -abas, -aba, -ábamos, -abais, -aban",
+          "-ar, -ares, -aron"
+        ],
+        "answer": 2,
+        "explanation": "Verbos em -ar terminam em -aba no imperfeito."
+      },
+      {
+        "prompt": "Qual a terminação regular de -ER e -IR no Pretérito Imperfeito?",
+        "speech": "Comía, vivía",
+        "emoji": "🍲",
+        "instruction": "Identifique a terminação",
+        "options": [
+          "-iera, -ieras",
+          "-aba, -abas, -aba",
+          "-í, -iste, -ió",
+          "-ía, -ías, -ía, -íamos, -íais, -ían"
+        ],
+        "answer": 3,
+        "explanation": "Verbos em -er e -ir levam a terminação acentuada -ía."
+      },
+      {
+        "prompt": "Complete a descrição: \"La casa ___ grande y tenía jardín.\"",
+        "speech": "La casa era grande",
+        "emoji": "🏡",
+        "instruction": "Descreva o imóvel no passado",
+        "options": [
+          "es",
+          "fue",
+          "era",
+          "estuvo"
+        ],
+        "answer": 2,
+        "explanation": "Descrições de cenários no passado usam o imperfeito: era grande."
+      },
+      {
+        "prompt": "Quantos verbos são totalmente irregulares no Pretérito Imperfeito do espanhol?",
+        "speech": "Ser, ir y ver",
+        "emoji": "🔢",
+        "instruction": "Identifique a quantidade",
+        "options": [
+          "Todos os verbos",
+          "Mais de cinquenta",
+          "Apenas três (ser, ir e ver)",
+          "Nenhum, todos são regulares"
+        ],
+        "answer": 2,
+        "explanation": "Existem apenas 3 verbos irregulares no imperfeito espanhol: ser, ir e ver."
+      },
+      {
+        "prompt": "Qual a conjugação de \"ver\" para \"yo\" no imperfeito?",
+        "speech": "Yo veía",
+        "emoji": "👀",
+        "instruction": "Conjugue ver",
+        "options": [
+          "veiba",
+          "vi",
+          "veía",
+          "vía"
+        ],
+        "answer": 2,
+        "explanation": "A conjugação é: yo veía."
+      },
+      {
+        "prompt": "O que a frase expressa: \"Hacía mucho frío cuando salí\"?",
+        "speech": "Hacía frío",
+        "emoji": "❄️",
+        "instruction": "Interprete a relação temporal",
+        "options": [
+          "Uma previsão futura",
+          "O clima de fundo contínuo (imperfeito) durante uma ação pontual (indefinido)",
+          "Uma dúvida no presente",
+          "Um desejo"
+        ],
+        "answer": 1,
+        "explanation": "Hacía frío descreve o cenário quando a ação pontual (salí) ocorreu."
+      }
+    ]
+  },
+  {
+    "id": "es-17",
+    "language": "es",
+    "level": "B2 · Avançado",
+    "emoji": "✨",
+    "title": "El Modo Subjuntivo: Deseos y Dudas",
+    "description": "Ojalá que haga sol e quiero que vengas.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Complete: \"¡Ojalá que mañana ___ buen tiempo!\"",
+        "speech": "Ojalá que mañana haga buen tiempo",
+        "emoji": "☀️",
+        "instruction": "Conjugue no subjuntivo",
+        "options": [
+          "hacía",
+          "hace",
+          "hará",
+          "haga"
+        ],
+        "answer": 3,
+        "explanation": "\"Ojalá que\" exige o presente do subjuntivo: haga."
+      },
+      {
+        "prompt": "Complete a expressão de desejo: \"Quiero que tú ___ con nosotros.\"",
+        "speech": "Quiero que tú vengas",
+        "emoji": "🎉",
+        "instruction": "Conjugue venir",
+        "options": [
+          "ven",
+          "vienes",
+          "vendrás",
+          "vengas"
+        ],
+        "answer": 3,
+        "explanation": "Com sujeitos diferentes, o verbo querer exige subjuntivo: que vengas."
+      },
+      {
+        "prompt": "Complete a dúvida: \"Dudo que él ___ la verdad.\"",
+        "speech": "Dudo que él diga la verdad",
+        "emoji": "🤫",
+        "instruction": "Conjugue decir",
+        "options": [
+          "diga",
+          "dice",
+          "dirá",
+          "dijo"
+        ],
+        "answer": 0,
+        "explanation": "Verbos de dúvida (dudar) exigem modo subjuntivo: diga."
+      },
+      {
+        "prompt": "Complete a certeza: \"Es verdad que ella ___ español muy bien.\"",
+        "speech": "Es verdad que habla español",
+        "emoji": "🇪🇸",
+        "instruction": "Identifique o modo da certeza",
+        "options": [
+          "hablara",
+          "hable",
+          "habla",
+          "hablaría"
+        ],
+        "answer": 2,
+        "explanation": "Expressões de certeza objetiva (es verdad) usam indicativo: habla."
+      },
+      {
+        "prompt": "Complete com conselho: \"Es importante que você ___ agua.\"",
+        "speech": "Es importante que bebas agua",
+        "emoji": "💧",
+        "instruction": "Conjugue beber",
+        "options": [
+          "beberás",
+          "bebes",
+          "bebas",
+          "bebiste"
+        ],
+        "answer": 2,
+        "explanation": "Expressões impessoais de importância exigem subjuntivo: bebas."
+      },
+      {
+        "prompt": "Complete a hipótese futura: \"Cuando yo ___ tiempo, te llamaré.\"",
+        "speech": "Cuando yo tenga tiempo",
+        "emoji": "⏱️",
+        "instruction": "Conjugue tener",
+        "options": [
+          "tendré",
+          "tengo",
+          "tenga",
+          "tuve"
+        ],
+        "answer": 2,
+        "explanation": "Quando \"cuando\" refere-se a tempo futuro, exige subjuntivo: tenga."
+      },
+      {
+        "prompt": "Complete com esperança: \"Espero que te ___ bien en el examen.\"",
+        "speech": "Espero que te vaya bien",
+        "emoji": "📝",
+        "instruction": "Conjugue ir",
+        "options": [
+          "va",
+          "vaya",
+          "irá",
+          "fuese"
+        ],
+        "answer": 1,
+        "explanation": "Esperar que exige subjuntivo: que te vaya bien."
+      },
+      {
+        "prompt": "Como dizer \"Não acho que seja uma boa ideia\"?",
+        "speech": "No creo que sea una buena idea",
+        "emoji": "💡",
+        "instruction": "Selecione a frase",
+        "options": [
+          "No creo que es buena idea",
+          "No creo que sea una buena idea",
+          "No pienso que será idea",
+          "Dudo que es idea"
+        ],
+        "answer": 1,
+        "explanation": "No creer exige subjuntivo: sea."
+      },
+      {
+        "prompt": "Complete: \"Buscamos un hotel que ___ piscina.\"",
+        "speech": "Que tenga piscina",
+        "emoji": "🏊",
+        "instruction": "Objeto indefinido",
+        "options": [
+          "tenga",
+          "tiene",
+          "tendrá",
+          "tenía"
+        ],
+        "answer": 0,
+        "explanation": "Quando o antecedente é indeterminado ou procurado, usa-se subjuntivo: tenga."
+      },
+      {
+        "prompt": "Qual é o presente do subjuntivo de \"ser\" para \"yo\"?",
+        "speech": "Yo sea",
+        "emoji": "🌟",
+        "instruction": "Identifique a forma",
+        "options": [
+          "sería",
+          "soy",
+          "fuese",
+          "sea"
+        ],
+        "answer": 3,
+        "explanation": "O presente do subjuntivo de ser é: sea, seas, sea, seamos, seáis, sean."
+      }
+    ]
+  },
+  {
+    "id": "es-18",
+    "language": "es",
+    "level": "B2 · Avançado",
+    "emoji": "🔮",
+    "title": "Futuro Simple y Condicional",
+    "description": "Viajaré el próximo año e me gustaría pedir.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Como dizer \"Eu viajarei ano que vem\"?",
+        "speech": "Viajaré el próximo año",
+        "emoji": "🧳",
+        "instruction": "Escolha o futuro regular",
+        "options": [
+          "Voy viajar año próximo",
+          "Viajaré el próximo año",
+          "Viajo en futuro",
+          "He de viajar"
+        ],
+        "answer": 1,
+        "explanation": "A terminação de futuro para yo (-ar, -er, -ir) é \"-é\": viajaré."
+      },
+      {
+        "prompt": "Qual é a raiz irregular de \"hacer\" no futuro?",
+        "speech": "Haré",
+        "emoji": "✍️",
+        "instruction": "Identifique a raiz",
+        "options": [
+          "hac- (haceré)",
+          "har- (haré, harás, hará)",
+          "hiz- (hizeré)",
+          "hag- (hagaré)"
+        ],
+        "answer": 1,
+        "explanation": "Hacer vira har- no futuro e condicional."
+      },
+      {
+        "prompt": "Qual é a raiz de \"tener\" no futuro?",
+        "speech": "Tendré",
+        "emoji": "💼",
+        "instruction": "Identifique a raiz",
+        "options": [
+          "teng- (tengaré)",
+          "ten- (teneré)",
+          "tuv- (tuveré)",
+          "tendr- (tendré, tendrás)"
+        ],
+        "answer": 3,
+        "explanation": "Tener vira tendr- no futuro."
+      },
+      {
+        "prompt": "Como fazer um pedido com extrema delicadeza?",
+        "speech": "Me gustaría un vaso de agua",
+        "emoji": "🙏",
+        "instruction": "Selecione o condicional de cortesia",
+        "options": [
+          "Voy a tener agua",
+          "Quiero agua ya",
+          "Deme agua rápido",
+          "Me gustaría un vaso de agua"
+        ],
+        "answer": 3,
+        "explanation": "\"Me gustaría...\" suaviza pedidos com elegância."
+      },
+      {
+        "prompt": "Complete a 2ª condicional hipotética: \"Si tuviera dinero, ___ por el mundo.\"",
+        "speech": "Viajaría por el mundo",
+        "emoji": "🌍",
+        "instruction": "Conjugue viajar no condicional",
+        "options": [
+          "viajo",
+          "viajaré",
+          "viajaría",
+          "viajase"
+        ],
+        "answer": 2,
+        "explanation": "A consequência de uma hipótese com subjuntivo pretérito é o condicional: viajaría."
+      },
+      {
+        "prompt": "Qual a terminação regular do condicional para todas as pessoas?",
+        "speech": "-ía, -ías, -ía, -íamos, -íais, -ían",
+        "emoji": "📐",
+        "instruction": "Identifique as terminações",
+        "options": [
+          "-é, -ás, -á",
+          "-ía, -ías, -ía, -íamos, -íais, -ían",
+          "-ara, -aras, -ara",
+          "-ré, -rás, -rá"
+        ],
+        "answer": 1,
+        "explanation": "O condicional simples usa -ía adicionado ao infinitivo."
+      },
+      {
+        "prompt": "Como expressar probabilidade no presente com o futuro?",
+        "speech": "¿Dónde estará Carlos?",
+        "emoji": "🔍",
+        "instruction": "Identifique o uso de probabilidade",
+        "options": [
+          "Carlos nunca esteve aqui",
+          "Carlos viajará amanhã",
+          "¿Dónde estará Carlos? (Onde será que está Carlos?)",
+          "Carlos foi embora ontem"
+        ],
+        "answer": 2,
+        "explanation": "O futuro em espanhol expressa dúvida ou probabilidade no presente."
+      },
+      {
+        "prompt": "Qual o futuro do verbo \"poner\" para \"yo\"?",
+        "speech": "Pondré",
+        "emoji": "📌",
+        "instruction": "Identifique a raiz irregular",
+        "options": [
+          "Pongaré",
+          "Poneré",
+          "Pusé",
+          "Pondré"
+        ],
+        "answer": 3,
+        "explanation": "Poner tem raiz irregular: pondré."
+      },
+      {
+        "prompt": "Qual o futuro de \"decir\" para \"nosotros\"?",
+        "speech": "Diremos",
+        "emoji": "🗣️",
+        "instruction": "Conjugue decir no futuro",
+        "options": [
+          "Deciremos",
+          "Diremos",
+          "Diríamos",
+          "Dijimos"
+        ],
+        "answer": 1,
+        "explanation": "Decir tem raiz dir-: diremos."
+      },
+      {
+        "prompt": "Como dizer \"Eu preferiria ficar em casa hoje\"?",
+        "speech": "Preferiría quedarme en casa hoy",
+        "emoji": "🏡",
+        "instruction": "Escolha o condicional",
+        "options": [
+          "Prefiero quedado casa",
+          "Preferiré estar en casa",
+          "Quiero casa ahora",
+          "Preferiría quedarme en casa hoy"
+        ],
+        "answer": 3,
+        "explanation": "Preferiría expressa preferência hipotética polida."
+      }
+    ]
+  },
+  {
+    "id": "es-19",
+    "language": "es",
+    "level": "B2 · Avançado",
+    "emoji": "🗣️",
+    "title": "Modismos y Frases Hechas",
+    "description": "No tener pelos en la lengua e estar en las nubes.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "O que significa dizer que alguém \"no tiene pelos en la lengua\"?",
+        "speech": "No tiene pelos en la lengua",
+        "emoji": "💬",
+        "instruction": "Identifique a expressão",
+        "options": [
+          "Fica em silêncio",
+          "Tem dor de dente",
+          "Fala baixinho",
+          "Fala a verdade com sinceridade e sem rodeios"
+        ],
+        "answer": 3,
+        "explanation": "Expressão para quem fala abertamente a verdade."
+      },
+      {
+        "prompt": "O que significa \"Estar en las nubes\"?",
+        "speech": "Estar en las nubes",
+        "emoji": "☁️",
+        "instruction": "Identifique o estado mental",
+        "options": [
+          "Estar voando de avião",
+          "Estar distraído ou no mundo da lua",
+          "Estar muito feliz",
+          "Estar chovendo"
+        ],
+        "answer": 1,
+        "explanation": "\"Estar en las nubes\" significa estar desatento."
+      },
+      {
+        "prompt": "O que significa \"Tirar la toalla\"?",
+        "speech": "Tirar la toalla",
+        "emoji": "🏳️",
+        "instruction": "Identifique a atitude",
+        "options": [
+          "Ir à praia nadar",
+          "Lavar a roupa de banho",
+          "Desistir de algo diante das dificuldades",
+          "Comemorar uma vitória"
+        ],
+        "answer": 2,
+        "explanation": "\"Tirar la toalla\" é uma metáfora do boxe para desistir."
+      },
+      {
+        "prompt": "O que significa a expressão \"Tomar el pelo a alguien\"?",
+        "speech": "Tomar el pelo",
+        "emoji": "💇",
+        "instruction": "Identifique a brincadeira",
+        "options": [
+          "Cortar o cabelo de alguém",
+          "Zombar amigavelmente / pregar uma peça em alguém",
+          "Puxar o cabelo em uma briga",
+          "Elogiar o penteado"
+        ],
+        "answer": 1,
+        "explanation": "\"Tomar el pelo\" significa caçoar ou brincar com alguém."
+      },
+      {
+        "prompt": "O que significa \"Costar un ojo de la cara\"?",
+        "speech": "Costar un ojo de la cara",
+        "emoji": "💸",
+        "instruction": "Identifique o preço",
+        "options": [
+          "Ser doado gratuitamente",
+          "Ser muito barato",
+          "Custar uma fortuna / ser caríssimo",
+          "Custar pouco esforço"
+        ],
+        "answer": 2,
+        "explanation": "Expressão para itens extremamente caros."
+      },
+      {
+        "prompt": "O que significa \"Ser pan comido\"?",
+        "speech": "Es pan comido",
+        "emoji": "🍞",
+        "instruction": "Identifique a facilidade",
+        "options": [
+          "Comer pão na padaria",
+          "Estar com fome",
+          "Ser muito fácil / uma moleza",
+          "Ser muito antigo"
+        ],
+        "answer": 2,
+        "explanation": "\"Pan comido\" é o equivalente a \"moleza / bico\"."
+      },
+      {
+        "prompt": "O que significa \"Estar hasta las narices\"?",
+        "speech": "Estar hasta las narices",
+        "emoji": "😤",
+        "instruction": "Identifique o sentimento",
+        "options": [
+          "Estar cheirando perfume",
+          "Estar gripado com coriza",
+          "Estar com frio no rosto",
+          "Estar de saco cheio / farto de uma situação"
+        ],
+        "answer": 3,
+        "explanation": "\"Estar hasta las narices\" significa estar saturado / sem paciência."
+      },
+      {
+        "prompt": "O que significa \"Meter la pata\"?",
+        "speech": "Meter la pata",
+        "emoji": "🐾",
+        "instruction": "Identifique o erro",
+        "options": [
+          "Chutar uma bola com força",
+          "Acelerar o carro",
+          "Cometer uma gafe / pisar na bola",
+          "Caminhar descalço"
+        ],
+        "answer": 2,
+        "explanation": "\"Meter la pata\" significa cometer um deslize embaraçoso."
+      },
+      {
+        "prompt": "O que significa \"Dar en el clavo\"?",
+        "speech": "Dar en el clavo",
+        "emoji": "🔨",
+        "instruction": "Identifique o acerto",
+        "options": [
+          "Comprar ferramentas",
+          "Martelar o dedo",
+          "Acertar em cheio / dar a resposta precisa",
+          "Errar a direção"
+        ],
+        "answer": 2,
+        "explanation": "\"Dar en el clavo\" significa acertar com precisão."
+      },
+      {
+        "prompt": "O que significa \"Hacer la vista gorda\"?",
+        "speech": "Hacer la vista gorda",
+        "emoji": "🙈",
+        "instruction": "Identifique a atitude",
+        "options": [
+          "Usar óculos grossos",
+          "Comer muito na janta",
+          "Fingir que não viu uma infração / tolerar",
+          "Ficar cego de raiva"
+        ],
+        "answer": 2,
+        "explanation": "\"Hacer la vista gorda\" significa fingir não ver."
+      }
+    ]
+  },
+  {
+    "id": "es-20",
+    "language": "es",
+    "level": "B2 · Avançado",
+    "emoji": "🎉",
+    "title": "Jerga y Expresiones del Mundo Hispano",
+    "description": "Chévere, guay, buena onda, vale e molar.",
+    "xp": 40,
+    "questions": [
+      {
+        "prompt": "Na Espanha, a gíria \"¡Qué guay!\" significa:",
+        "speech": "¡Qué guay!",
+        "emoji": "🤩",
+        "instruction": "Identifique a gíria espanhola",
+        "options": [
+          "Que confuso!",
+          "Que triste!",
+          "Que legal / Muito bacana!",
+          "Que caro!"
+        ],
+        "answer": 2,
+        "explanation": "\"Guay\" é o clássico \"legal\" da Espanha."
+      },
+      {
+        "prompt": "Na Colômbia e Venezuela, o termo \"Chévere\" expressa:",
+        "speech": "Chévere",
+        "emoji": "🇨🇴",
+        "instruction": "Identifique a gíria caribenha",
+        "options": [
+          "Problema financeiro",
+          "Comida apimentada",
+          "Pessoa chata",
+          "Ótimo / muito legal / excelente"
+        ],
+        "answer": 3,
+        "explanation": "\"Chévere\" é um elogio universal na região andina/caribenha."
+      },
+      {
+        "prompt": "No México e Argentina, \"Buena onda\" refere-se a:",
+        "speech": "Buena onda",
+        "emoji": "🇲🇽",
+        "instruction": "Identifique a expressão social",
+        "options": [
+          "Onda do mar perigosa",
+          "Música alta",
+          "Pessoa simpática / energia positiva e agradável",
+          "Clima quente de praia"
+        ],
+        "answer": 2,
+        "explanation": "\"Buena onda\" descreve alguém simpático e acolhedor."
+      },
+      {
+        "prompt": "Na Espanha, o que expressa o termo onipresente \"¡Vale!\"?",
+        "speech": "¡Vale!",
+        "emoji": "🇪🇸",
+        "instruction": "Identifique o significado coloquial",
+        "options": [
+          "Não quero isso",
+          "Valor monetário",
+          "Adeus para sempre",
+          "Entendido! / Combinado! / Tudo bem!"
+        ],
+        "answer": 3,
+        "explanation": "\"Vale\" é usado dezenas de vezes ao dia para concordar."
+      },
+      {
+        "prompt": "Na Espanha, o que significa o verbo coloquial \"Molar\"?",
+        "speech": "Esta canción mola mucho",
+        "emoji": "🎸",
+        "instruction": "Identifique o verbo de gíria",
+        "options": [
+          "Quebrar um instrumento",
+          "Fazer barulho irritante",
+          "Agradar muito / ser muito legal e bacana",
+          "Tocar violão desafinado"
+        ],
+        "answer": 2,
+        "explanation": "\"Molar\" significa ser muito legal."
+      },
+      {
+        "prompt": "No México, o que significa a gíria \"¡Qué padre!\"?",
+        "speech": "¡Qué padre!",
+        "emoji": "🌮",
+        "instruction": "Identifique a gíria mexicana",
+        "options": [
+          "Que pai bravo!",
+          "Que homem sério!",
+          "Que legal / que incrível!",
+          "Que lugar distante!"
+        ],
+        "answer": 2,
+        "explanation": "\"¡Qué padre!\" no México significa fantástico ou excelente."
+      },
+      {
+        "prompt": "Na Argentina e Uruguai, o que significa \"Che\"?",
+        "speech": "¡Che, mirá esto!",
+        "emoji": "🇦🇷",
+        "instruction": "Identifique o vocativo rio-platense",
+        "options": [
+          "Comida típica de carne",
+          "Forma coloquial de chamar a atenção de alguém (como \"ouviu?\", \"cara\")",
+          "Despedida formal",
+          "Pedido de desculpas"
+        ],
+        "answer": 1,
+        "explanation": "\"Che\" é o vocativo característico dos argentinos e uruguaios."
+      },
+      {
+        "prompt": "No Chile, a gíria \"Cachái\" significa:",
+        "speech": "¿Cachái?",
+        "emoji": "🇨🇱",
+        "instruction": "Identifique a gíria chilena",
+        "options": [
+          "Qual é seu preço?",
+          "Você tem pressa?",
+          "Onde você mora?",
+          "Você entende? / Sacou?"
+        ],
+        "answer": 3,
+        "explanation": "\"Cachái\" vem do inglês to catch e significa \"entendeu?\"."
+      },
+      {
+        "prompt": "Na Argentina, como é chamado um amigo próximo?",
+        "speech": "Un pibe / Un chabón",
+        "emoji": "👥",
+        "instruction": "Identifique o termo rio-platense",
+        "options": [
+          "Pibe (jovem) / amigo",
+          "Jefe de oficina",
+          "Señor mayor",
+          "Extranjero"
+        ],
+        "answer": 0,
+        "explanation": "\"Pibe\" significa jovem ou garoto na Argentina."
+      },
+      {
+        "prompt": "O que significa \"Estar flipando\" na gíria espanhola?",
+        "speech": "Estoy flipando",
+        "emoji": "🤯",
+        "instruction": "Identifique a reação de espanto",
+        "options": [
+          "Estar chocado, maravilhado ou surpreso",
+          "Estar com sono profundo",
+          "Estar com fome",
+          "Estar nadando na piscina"
+        ],
+        "answer": 0,
+        "explanation": "\"Flipando\" expressa choque ou admiração intensa."
+      }
+    ]
+  }
+]

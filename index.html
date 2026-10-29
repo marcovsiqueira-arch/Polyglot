@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#635bff">
+  <meta name="description" content="Polyglot: aprenda inglês, espanhol e português com lições curtas e divertidas.">
+
+  <title>Polyglot — Aprenda idiomas</title>
+
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="app-shell">
+
+    <!-- MENU LATERAL -->
+    <aside class="sidebar" id="sidebar">
+
+      <a class="brand" href="#" aria-label="Polyglot início">
+        <span class="brand-icon">✦</span>
+        <span>polyglot</span>
+      </a>
+
+      <div class="side-label">MENU PRINCIPAL</div>
+
+      <nav class="nav-list" aria-label="Menu principal">
+        <button class="nav-item active" data-page="home">
+          <span>⌂</span> <span class="nav-label">Início</span>
+        </button>
+
+        <button class="nav-item" data-page="lessons">
+          <span>▤</span> <span class="nav-label">Minhas lições</span>
+        </button>
+
+        <button class="nav-item" data-page="practice">
+          <span>◎</span> <span class="nav-label">Praticar</span>
+        </button>
+
+        <button class="nav-item" data-page="ranking">
+          <span>♜</span> <span class="nav-label">Ranking</span>
+        </button>
+
+        <button class="nav-item" data-page="profile">
+          <span>♙</span> <span class="nav-label">Meu perfil</span>
+        </button>
+      </nav>
+
+      <div class="sidebar-bottom">
+        <div class="streak-card">
+          <div class="streak-icon">🔥</div>
+          <div>
+            <strong id="streakCount">1 dia</strong>
+            <small>Continue aprendendo!</small>
+          </div>
+        </div>
+
+        <button class="nav-item" id="helpButton">
+          <span>ⓘ</span> <span class="nav-label">Ajuda</span>
+        </button>
+      </div>
+
+    </aside>
+
+    <!-- ÁREA PRINCIPAL -->
+    <main class="main-area">
+
+      <!-- BARRA SUPERIOR -->
+      <header class="topbar">
+
+        <button
+          class="menu-toggle"
+          id="menuToggle"
+          aria-label="Abrir menu"
+        >
+          ☰
+        </button>
+
+        <div class="breadcrumb">
+          Espaço de aprendizagem
+          <span>/</span>
+          <strong id="pageName">Início</strong>
+        </div>
+
+        <div class="top-actions">
+
+          <button
+            class="theme-toggle"
+            id="themeToggle"
+            type="button"
+            aria-label="Alternar tema"
+            title="Alternar tema"
+          >
+            🌙
+          </button>
+
+          <div class="xp-pill">
+            <span>⚡</span>
+            <strong id="headerXP">0 XP</strong>
+          </div>
+
+          <button class="avatar" id="avatarButton" aria-label="Abrir perfil">
+            A
+          </button>
+
+        </div>
+      </header>
+
+      <!-- PÁGINA INICIAL -->
+      <section class="page active" id="page-home">
+
+        <div class="welcome-row">
+          <div>
+            <p class="eyebrow">SEU PRÓXIMO NÍVEL COMEÇA AQUI</p>
+
+            <h1>
+              Olá,
+              <span id="welcomeName">Aprendiz</span>!
+              <span class="wave">✦</span>
+            </h1>
+
+            <p class="muted">
+              Pequenos passos todos os dias levam a grandes conquistas.
+            </p>
+          </div>
+
+          <div class="date-chip" id="todayLabel">
+            Vamos aprender hoje
+          </div>
+        </div>
+
+        <div class="hero-card">
+
+          <div class="hero-copy">
+            <span class="hero-tag">✨ SUA JORNADA COMEÇA</span>
+
+            <h2>
+              O mundo fica<br>
+              menor quando<br>
+              <em>você fala idiomas.</em>
+            </h2>
+
+            <p>
+              Aprenda no seu ritmo, pratique um pouco por dia
+              e acompanhe sua evolução.
+            </p>
+
+            <button class="btn btn-light" data-go="lessons">
+              Continuar aprendendo <span>→</span>
+            </button>
+          </div>
+
+          <div class="hero-art" aria-hidden="true">
+            <div class="orbit orbit-one"></div>
+            <div class="orbit orbit-two"></div>
+
+            <div class="planet">🌎</div>
+
+            <div class="floating-card float-one">Hola! 👋</div>
+            <div class="floating-card float-two">Hello! ✨</div>
+            <div class="floating-card float-three">Olá! 💬</div>
+
+            <div class="sparkle s1">✦</div>
+            <div class="sparkle s2">✧</div>
+            <div class="sparkle s3">✦</div>
+          </div>
+
+        </div>
+
+        <!-- ESTATÍSTICAS -->
+        <div class="section-heading">
+          <div>
+            <h2>Seu progresso</h2>
+            <p class="muted">Cada atividade conta!</p>
+          </div>
+
+          <button class="text-button" data-go="profile">
+            Ver detalhes →
+          </button>
+        </div>
+
+        <div class="stats-grid">
+
+          <article class="stat-card">
+            <div class="stat-icon purple">⚡</div>
+            <div>
+              <span>Experiência total</span>
+              <strong id="totalXP">0 XP</strong>
+              <small>Continue acumulando</small>
+            </div>
+          </article>
+
+          <article class="stat-card">
+            <div class="stat-icon orange">🔥</div>
+            <div>
+              <span>Sequência atual</span>
+              <strong id="streakStat">1 dia</strong>
+              <small>Seu hábito de aprender</small>
+            </div>
+          </article>
+
+          <article class="stat-card">
+            <div class="stat-icon green">✓</div>
+            <div>
+              <span>Lições concluídas</span>
+              <strong id="completedStat">0</strong>
+              <small>Passo a passo</small>
+            </div>
+          </article>
+
+        </div>
+
+        <!-- IDIOMAS E META DIÁRIA -->
+        <div class="content-grid">
+
+          <section class="panel languages-panel">
+            <div class="section-heading compact">
+              <div>
+                <h2>Seus idiomas</h2>
+                <p class="muted">Escolha por onde começar</p>
+              </div>
+
+              <button class="text-button" data-go="lessons">
+                Ver todos →
+              </button>
+            </div>
+
+            <div class="language-list" id="languageList"></div>
+          </section>
+
+          <section class="panel daily-panel">
+            <div class="section-heading compact">
+              <div>
+                <h2>Meta diária</h2>
+                <p class="muted">Um pouco por dia faz diferença</p>
+              </div>
+
+              <span class="target-icon">🎯</span>
+            </div>
+
+            <div class="goal-number">
+              <strong id="goalCurrent">0</strong>
+              <span>
+                / <b id="goalTarget">15</b> XP
+              </span>
+            </div>
+
+            <div class="progress-track">
+              <div class="progress-fill" id="goalProgress"></div>
+            </div>
+
+            <p class="goal-note" id="goalMessage">
+              Faça uma lição para começar sua meta.
+            </p>
+
+            <button class="btn btn-primary full-width" data-go="practice">
+              Praticar agora <span>→</span>
+            </button>
+          </section>
+
+        </div>
+      </section>
+
+      <!-- PÁGINA DE LIÇÕES -->
+      <section class="page" id="page-lessons">
+
+        <div class="page-intro">
+          <p class="eyebrow">APRENDA NO SEU RITMO</p>
+
+          <h1>Minhas lições 📚</h1>
+
+          <p class="muted">
+            Siga uma trilha progressiva com 60 unidades e centenas
+            de exercícios para vocabulário, gramática, leitura e comunicação.
+          </p>
+        </div>
+
+        <div class="lesson-toolbar">
+
+          <label class="lesson-search" for="lessonSearch">
+            <span>⌕</span>
+
+            <input
+              id="lessonSearch"
+              type="search"
+              placeholder="Buscar lição, tema ou idioma..."
+              autocomplete="off"
+            >
+
+            <kbd>/</kbd>
+          </label>
+
+          <span class="results-count" id="lessonCount">
+            60 lições
+          </span>
+
+        </div>
+
+        <div class="filter-row" id="lessonFilters">
+
+          <button class="filter-chip selected" data-language="all">
+            Todos
+          </button>
+
+          <button class="filter-chip" data-language="en">
+            🇬🇧 Inglês
+          </button>
+
+          <button class="filter-chip" data-language="es">
+            🇪🇸 Espanhol
+          </button>
+
+          <button class="filter-chip" data-language="pt">
+            🇧🇷 Português
+          </button>
+
+        </div>
+
+        <div class="lesson-grid" id="lessonGrid"></div>
+
+      </section>
+
+      <!-- PÁGINA DE PRÁTICA -->
+      <section class="page" id="page-practice">
+
+        <div class="page-intro">
+          <p class="eyebrow">HORA DE COLOCAR EM PRÁTICA</p>
+
+          <h1>Vamos praticar! 🎯</h1>
+
+          <p class="muted">
+            Pratique com questões variadas, leia as explicações
+            e revise quantas vezes precisar.
+          </p>
+        </div>
+
+        <div class="practice-layout">
+
+          <div class="panel exercise-panel" id="exercisePanel">
+
+            <div id="exerciseActiveView">
+              <div class="exercise-top">
+                <span class="exercise-label">EXERCÍCIO RÁPIDO</span>
+                <span class="question-counter" id="questionCounter">
+                  Questão 1
+                </span>
+              </div>
+
+              <div class="exercise-progress">
+                <div id="exerciseProgress"></div>
+              </div>
+
+              <div class="question-area">
+
+                <div class="question-emoji" id="questionEmoji">💬</div>
+
+                <p class="muted" id="questionInstruction">
+                  Escolha a tradução correta
+                </p>
+
+                <h2 id="questionText">Hello</h2>
+
+                <button class="audio-button" id="audioButton">
+                  <span>🔊</span> Ouvir pronúncia
+                </button>
+
+                <div class="answer-list" id="answerList"></div>
+
+                <p class="feedback" id="feedback" aria-live="polite"></p>
+
+                <button
+                  class="btn btn-primary full-width"
+                  id="checkAnswer"
+                  disabled
+                >
+                  Conferir resposta
+                </button>
+
+                <button
+                  class="btn btn-primary full-width hidden"
+                  id="nextQuestion"
+                >
+                  Próxima questão →
+                </button>
+
+              </div>
+            </div>
+
+            <!-- TELA DE CONCLUSÃO DO EXERCÍCIO -->
+            <div id="exerciseCompleteView" class="hidden" style="text-align: center; padding: 28px 12px;">
+              <div style="font-size: 4rem; margin-bottom: 12px;">🏆</div>
+              <h2 id="completeTitle" style="font-size: 1.8rem; font-weight: 900; margin-bottom: 8px;">Exercício Concluído!</h2>
+              <p id="completeSubtitle" style="color: var(--text-muted); font-size: 1rem; margin-bottom: 24px;">
+                Você acertou todas as tarefas!
+              </p>
+
+              <div style="display: inline-flex; gap: 14px; margin-bottom: 28px;">
+                <div id="completeXpBadge" style="background: var(--primary-light); color: var(--primary); padding: 10px 22px; border-radius: var(--radius-md); font-weight: 800; font-size: 1.1rem;">
+                  ⚡ +25 XP
+                </div>
+              </div>
+
+              <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+                <button class="btn btn-primary" id="retryExerciseBtn">
+                  Treinar Novamente 🔄
+                </button>
+                <button class="btn btn-outline" data-go="lessons">
+                  Biblioteca de Lições 📚
+                </button>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- DICAS -->
+          <aside class="panel practice-tip">
+
+            <div class="tip-icon">💡</div>
+
+            <h3>Dica de aprendizagem</h3>
+
+            <p>
+              Fale as palavras em voz alta. Combinar leitura,
+              escuta e fala ajuda você a memorizar novas expressões.
+            </p>
+
+            <div class="tip-divider"></div>
+
+            <strong>Seu objetivo</strong>
+
+            <p>
+              Pratique alguns minutos todos os dias.
+              Consistência vale mais do que estudar tudo de uma vez.
+            </p>
+
+          </aside>
+
+        </div>
+      </section>
+
+      <!-- PÁGINA DE RANKING -->
+      <section class="page" id="page-ranking">
+
+        <div class="page-intro">
+          <p class="eyebrow">CELEBRE SUA EVOLUÇÃO</p>
+
+          <h1>Ranking 🏆</h1>
+
+          <p class="muted">
+            Veja uma demonstração de como a classificação pode funcionar.
+          </p>
+        </div>
+
+        <div class="panel ranking-panel">
+
+          <div class="ranking-banner">
+            <div>
+              <span>🏆</span>
+              <h2>Desafio da semana</h2>
+              <p>Aprenda, pratique e suba no ranking.</p>
+            </div>
+
+            <div class="trophy-art">🥇</div>
+          </div>
+
+          <div class="ranking-table" id="rankingTable"></div>
+
+          <p class="fine-print">
+            Os outros participantes são exemplos fictícios.
+            Para um ranking real entre pessoas, será necessário
+            conectar o aplicativo a um servidor.
+          </p>
+
+        </div>
+      </section>
+
+      <!-- PÁGINA DE PERFIL -->
+      <section class="page" id="page-profile">
+
+        <div class="page-intro">
+          <p class="eyebrow">SEU ESPAÇO PESSOAL</p>
+
+          <h1>Meu perfil 👤</h1>
+
+          <p class="muted">
+            Personalize sua experiência de aprendizagem.
+          </p>
+        </div>
+
+        <div class="profile-layout">
+
+          <form class="panel profile-form" id="profileForm">
+
+            <div class="profile-heading">
+
+              <div class="large-avatar" id="profileAvatar">A</div>
+
+              <div>
+                <h2 id="profileDisplayName">Aprendiz</h2>
+                <p class="muted">Estudante Polyglot</p>
+              </div>
+
+            </div>
+
+            <label for="userName">
+              Como devemos chamar você?
+            </label>
+
+            <input
+              id="userName"
+              name="userName"
+              maxlength="30"
+              placeholder="Seu nome"
+              required
+            >
+
+            <label for="dailyGoal">Meta diária de XP</label>
+
+            <select id="dailyGoal" name="dailyGoal">
+              <option value="10">10 XP — Leve</option>
+              <option value="15">15 XP — Equilibrada</option>
+              <option value="25">25 XP — Desafiadora</option>
+              <option value="40">40 XP — Intensiva</option>
+            </select>
+
+            <button class="btn btn-primary full-width" type="submit">
+              Salvar alterações
+            </button>
+
+            <p class="form-message" id="profileMessage" aria-live="polite"></p>
+
+          </form>
+
+          <!-- CONQUISTAS -->
+          <div class="panel achievement-panel">
+
+            <h2>Suas conquistas</h2>
+
+            <p class="muted">
+              Continue praticando para desbloquear novas conquistas.
+            </p>
+
+            <div id="achievements"></div>
+
+            <button
+              class="btn btn-outline full-width"
+              id="resetProgress"
+            >
+              Reiniciar progresso
+            </button>
+
+          </div>
+
+        </div>
+      </section>
+
+      <!-- RODAPÉ -->
+      <footer class="footer">
+        <span>✦ polyglot</span>
+        <span>Aprender idiomas abre caminhos.</span>
+      </footer>
+
+    </main>
+  </div>
+
+  <!-- MENSAGENS DO APLICATIVO -->
+  <div
+    class="toast"
+    id="toast"
+    role="status"
+    aria-live="polite"
+  ></div>
+
+  <!-- FUNCIONALIDADES JAVASCRIPT -->
+  <script src="script.js"></script>
+
+</body>
+</html>
